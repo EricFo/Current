@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: ba9757113b7a6814c985b11093b88543
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fly_MiniStar-0
+    21300002: Fly_MiniStar_000
+    21300004: Fly_MiniStar_001
+    21300006: Fly_MiniStar_002
+    21300008: Fly_MiniStar_003
+    21300010: Fly_MiniStar_004
+    21300012: Fly_MiniStar_005
+    21300014: Fly_MiniStar_006
+    21300016: Fly_MiniStar_007
+    21300018: Fly_MiniStar_008
+    21300020: Fly_MiniStar_009
+    21300022: Fly_MiniStar_010
+    21300024: Fly_MiniStar_011
+    21300026: Fly_MiniStar_012
+    21300028: Fly_MiniStar_013
+    21300030: Fly_MiniStar_014
+    21300032: Fly_MiniStar_015
+    21300034: Fly_MiniStar_016
+    21300036: Fly_MiniStar_017
+    21300038: Fly_MiniStar_018
+    21300040: Fly_MiniStar_019
+    21300042: Fly_MiniStar_020
+    21300044: Fly_MiniStar_021
+    21300046: Fly_MiniStar_022
+    21300048: Fly_MiniStar_023
+    21300050: Fly_MiniStar_024
+    21300052: Fly_MiniStar_025
+    21300054: Fly_MiniStar_026
+    21300056: Fly_MiniStar_027
+    21300058: Fly_MiniStar_028
+    21300060: Fly_MiniStar_029
+    21300062: Fly_MiniStar_030
+    21300064: Fly_MiniStar_031
+    21300066: Fly_MiniStar_032
+    21300068: Fly_MiniStar_033
+    21300070: Fly_MiniStar_034
+    21300072: Fly_MiniStar_035
+    21300074: Fly_MiniStar_036
+    21300076: Fly_MiniStar_037
+    21300078: Fly_MiniStar_038
+    21300080: Fly_MiniStar_039
+    21300082: Fly_MiniStar_040
+    21300084: Fly_MiniStar_041
+    21300086: Fly_MiniStar_042
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly_MiniStar_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3366
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60417808a73e88349b1ff934efd19ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3300
+        width: 69
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.47761193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43df739a6225d6c40b68c4e32a1f8932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_002
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3221
+        width: 152
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49342105, y: 0.49315068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db8ac00126ed845aad42dc115b420f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_003
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3137
+        width: 241
+        height: 230
+      alignment: 9
+      pivot: {x: 0.49377593, y: 0.4869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b340e11f60332fb48a4a43a76cc4fdff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_004
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3052
+        width: 331
+        height: 315
+      alignment: 9
+      pivot: {x: 0.49244714, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0464dc1a86948945aa80dce3ad88f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_005
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2967
+        width: 418
+        height: 400
+      alignment: 9
+      pivot: {x: 0.49282297, y: 0.4875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d105ed03cb6ff4d9c7a152270a08ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_006
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2892
+        width: 497
+        height: 475
+      alignment: 9
+      pivot: {x: 0.49496982, y: 0.4863158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c00084ec819a54abc44a347ab3514a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_007
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2826
+        width: 568
+        height: 541
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.48798522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c695a199839041ba43dc19f8b7b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_008
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 2778
+        width: 617
+        height: 589
+      alignment: 9
+      pivot: {x: 0.4943274, y: 0.48726654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c4e60914d27d44cb68588570c1ac2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_009
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 2746
+        width: 651
+        height: 621
+      alignment: 9
+      pivot: {x: 0.49308756, y: 0.4863124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038a6427fe6186499eb698d436fabdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2093
+        width: 682
+        height: 651
+      alignment: 9
+      pivot: {x: 0.4941349, y: 0.48694316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70135819a6fbe34fa4589b82cff0547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_011
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2065
+        width: 712
+        height: 679
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.4874816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1615a4a599538248b2e0b36d194f871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_012
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2037
+        width: 742
+        height: 707
+      alignment: 9
+      pivot: {x: 0.49460918, y: 0.48656294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d0d70ce6a0aeb4abbe35b32eda589c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_013
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2012
+        width: 766
+        height: 732
+      alignment: 9
+      pivot: {x: 0.49477807, y: 0.4863388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e782cbe737d043b879ea23d1f3674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_014
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1997
+        width: 785
+        height: 747
+      alignment: 9
+      pivot: {x: 0.49426752, y: 0.48862115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88d59a947e5ef4a9ad641eea6929d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1225
+        width: 808
+        height: 770
+      alignment: 9
+      pivot: {x: 0.49381188, y: 0.48701298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fe3543ad50a3a48a3c567a86c6effe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_016
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1204
+        width: 828
+        height: 791
+      alignment: 9
+      pivot: {x: 0.49396136, y: 0.48798987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03abfd288d20448bbea98a3544a859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_017
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1193
+        width: 843
+        height: 802
+      alignment: 9
+      pivot: {x: 0.49347568, y: 0.4875312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0820b526657c8944587c0a12d4b49d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_018
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1193
+        width: 843
+        height: 802
+      alignment: 9
+      pivot: {x: 0.49347568, y: 0.4862843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceceb7ab775131744963d9d2d05a54f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 748
+        width: 461
+        height: 443
+      alignment: 9
+      pivot: {x: 0.49457702, y: 0.48081264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036ec1e20886a9418c2329033576c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_020
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 748
+        width: 461
+        height: 443
+      alignment: 9
+      pivot: {x: 0.49457702, y: 0.48081264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd620be185d05784c8d4fbad77ae3db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_021
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 733
+        width: 459
+        height: 458
+      alignment: 9
+      pivot: {x: 0.47712418, y: 0.4978166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53a325c2946be4a9632af17b4e9d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_022
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 733
+        width: 450
+        height: 458
+      alignment: 9
+      pivot: {x: 0.47111112, y: 0.51965064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a44d53d077424d42818bb4152dbc120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_023
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 730
+        width: 452
+        height: 461
+      alignment: 9
+      pivot: {x: 0.49336284, y: 0.55748373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a0ee6a3ac3da746bdb75800aae7e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_024
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 691
+        width: 437
+        height: 500
+      alignment: 9
+      pivot: {x: 0.51487416, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc412711789e37499f7ce6e9b1fcb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_025
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 650
+        width: 409
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5378973, y: 0.624769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f36220c0f7ff44281a39f72aceb0f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_026
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 621
+        width: 394
+        height: 570
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.64912283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d12d0d0b834594bb935a8d1c27b355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 373
+        height: 587
+      alignment: 9
+      pivot: {x: 0.5147453, y: 0.6780239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a8566b3f294147a811d3cb819cffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_028
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 21
+        width: 343
+        height: 598
+      alignment: 9
+      pivot: {x: 0.49562684, y: 0.7073579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22b16985a64d64990d2cf7fc753515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_029
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 12
+        width: 317
+        height: 607
+      alignment: 9
+      pivot: {x: 0.48264983, y: 0.7364086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110564ae74ceeb24181fa4dc5e7f936a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_030
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 4
+        width: 312
+        height: 615
+      alignment: 9
+      pivot: {x: 0.5032051, y: 0.7609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2fcf8ca5e755f4385fa42495aac8f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_031
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 40
+        width: 304
+        height: 579
+      alignment: 9
+      pivot: {x: 0.5230263, y: 0.7512953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b0eb2b4674234599d68ed2dba1e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_032
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 30
+        width: 293
+        height: 589
+      alignment: 9
+      pivot: {x: 0.54266214, y: 0.74533105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a899eddf3d61ab24886aaece89f5ffb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_033
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 16
+        width: 296
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5304054, y: 0.7429519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ae225fd6081b4aa5a93fbdf6f82bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_034
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 76
+        width: 290
+        height: 543
+      alignment: 9
+      pivot: {x: 0.5137931, y: 0.72007364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbb3bb0f735c048b95a4de9c7d5568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_035
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 112
+        width: 258
+        height: 507
+      alignment: 9
+      pivot: {x: 0.49224806, y: 0.73175544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed9ffab3e8b30498d878c55793a054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_036
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 174
+        width: 216
+        height: 445
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.7483146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae77abbdeb659fa46abbbfc9c4290261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_037
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 261
+        width: 178
+        height: 358
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.76256984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad216c521e0194393b85bb7379db5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_038
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 359
+        width: 136
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.74615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f3b86437493642a7036fe24c71c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_039
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 419
+        width: 103
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da26ecd59eb004798eee09390a8847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_040
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 465
+        width: 82
+        height: 154
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ee009d66fb272448a38022dd7f961d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_041
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 494
+        width: 74
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7b57a866454104196077138552681c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MiniStar_042
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 575
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.025, y: 1.9545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f1c109719082419ce949fc7ab8ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 940cb94659b48954fbf93af9acd9999a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

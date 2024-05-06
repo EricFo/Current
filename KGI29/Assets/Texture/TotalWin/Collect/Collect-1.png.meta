@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: e1a0cf7990a2dd64e9a807afcf22981b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Collect-1
+    21300002: Collect_019
+    21300004: Collect_020
+    21300006: Collect_021
+    21300008: Collect_022
+    21300010: Collect_023
+    21300012: Collect_024
+    21300014: Collect_025
+    21300016: Collect_026
+    21300018: Collect_027
+    21300020: Collect_028
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1831
+        width: 1179
+        height: 640
+      alignment: 9
+      pivot: {x: 0.4893978, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60857716b3211ab479d5118a6074b6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_020
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1828
+        width: 1179
+        height: 643
+      alignment: 9
+      pivot: {x: 0.4893978, y: 0.48989114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130fad179fa7e6b408bdce0a9f42e3b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_021
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1833
+        width: 1180
+        height: 638
+      alignment: 9
+      pivot: {x: 0.4898305, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985cc25273e07d4e883a4eca34c43a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1182
+        width: 1179
+        height: 644
+      alignment: 9
+      pivot: {x: 0.4893978, y: 0.49534163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5d672a5a26a44ea1abd5614b908ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_023
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1202
+        width: 1180
+        height: 624
+      alignment: 9
+      pivot: {x: 0.4822034, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d03db73358f9b429126f9268dfb81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_024
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1205
+        width: 1195
+        height: 621
+      alignment: 9
+      pivot: {x: 0.47782427, y: 0.489533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc552e6a30dde7c4cad8ea8de1bc248b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 564
+        width: 1165
+        height: 616
+      alignment: 9
+      pivot: {x: 0.49012876, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2507e7e02fcf30b4ab8b212f1597ea66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_026
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 569
+        width: 1155
+        height: 611
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.4942717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f53c1bedff2a4c866baa789032d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_027
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 583
+        width: 1147
+        height: 597
+      alignment: 9
+      pivot: {x: 0.48997384, y: 0.49413735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aaba3749f2f754f85792f49a9c7adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1118
+        height: 561
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.486631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f2cc43c019e544959b4e134bd3aa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a7120e0c3a92104da3268e5221d96f0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

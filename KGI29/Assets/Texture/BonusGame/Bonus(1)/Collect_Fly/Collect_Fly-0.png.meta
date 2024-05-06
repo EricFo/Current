@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 391a465539d29cf488261e8750227c5a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Collect_Fly-0
+    21300002: Collect_Fly_000
+    21300004: Collect_Fly_001
+    21300006: Collect_Fly_002
+    21300008: Collect_Fly_003
+    21300010: Collect_Fly_004
+    21300012: Collect_Fly_005
+    21300014: Collect_Fly_006
+    21300016: Collect_Fly_007
+    21300018: Collect_Fly_008
+    21300020: Collect_Fly_009
+    21300022: Collect_Fly_010
+    21300024: Collect_Fly_011
+    21300026: Collect_Fly_012
+    21300028: Collect_Fly_013
+    21300030: Collect_Fly_014
+    21300032: Collect_Fly_015
+    21300034: Collect_Fly_016
+    21300036: Collect_Fly_017
+    21300038: Collect_Fly_018
+    21300040: Collect_Fly_019
+    21300042: Collect_Fly_020
+    21300044: Collect_Fly_021
+    21300046: Collect_Fly_022
+    21300048: Collect_Fly_023
+    21300050: Collect_Fly_024
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect_Fly_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2926
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 1000, y: -999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133f12ed39a0f943a2cf002518b2a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2672
+        width: 278
+        height: 255
+      alignment: 9
+      pivot: {x: 0.47122303, y: 0.49803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560f8b2e8fe8404bb95ef381169c726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_002
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2642
+        width: 318
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5062893, y: 0.51929826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a3ad7a4bdb034696c2328b1a61a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_003
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2587
+        width: 368
+        height: 340
+      alignment: 9
+      pivot: {x: 0.54891306, y: 0.5735294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cded1f960b3e4a46b30d2626e11abab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_004
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2553
+        width: 390
+        height: 374
+      alignment: 9
+      pivot: {x: 0.52820516, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95cc50a16172874d977a4f41c5b0f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_005
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2502
+        width: 426
+        height: 425
+      alignment: 9
+      pivot: {x: 0.48122066, y: 0.6188235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db6727fce4b6eb44aa65caf3b2f3db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2041
+        width: 416
+        height: 459
+      alignment: 9
+      pivot: {x: 0.48317307, y: 0.63398695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be665bae11d1aba4b9da00147192e890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_007
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2007
+        width: 441
+        height: 493
+      alignment: 9
+      pivot: {x: 0.4580499, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf59eaa7860fb45aad3b19d38bf408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_008
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1922
+        width: 455
+        height: 578
+      alignment: 9
+      pivot: {x: 0.47692308, y: 0.6851211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3abace7046e847af0026ae5450169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_009
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1931
+        width: 458
+        height: 569
+      alignment: 9
+      pivot: {x: 0.51310045, y: 0.66608083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c377ac47961d48bf1d6f268132123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1301
+        width: 465
+        height: 619
+      alignment: 9
+      pivot: {x: 0.5354839, y: 0.6882068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae505bb92b72189448309164a7b1c993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_011
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1277
+        width: 471
+        height: 643
+      alignment: 9
+      pivot: {x: 0.44585988, y: 0.69517887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da68de43b4d72b74aa6eb3fe738cac33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_012
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1208
+        width: 472
+        height: 712
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.7247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925626b92b9cb54691e852e0eb018ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_013
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1175
+        width: 493
+        height: 745
+      alignment: 9
+      pivot: {x: 0.4929006, y: 0.7342282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e2ccc396ddf5428750b17b17f840b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 462
+        height: 756
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.74206346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae34c51714d4843aab7c22c4bbfdef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_015
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 461
+        width: 418
+        height: 712
+      alignment: 9
+      pivot: {x: 0.49043062, y: 0.73455054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b06e66a31b6b942b7d82978829b32f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_016
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 513
+        width: 424
+        height: 660
+      alignment: 9
+      pivot: {x: 0.46698114, y: 0.7227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68793957c9bc3464299f5c2734f1a94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_017
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 545
+        width: 337
+        height: 628
+      alignment: 9
+      pivot: {x: 0.48071218, y: 0.7372612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dbe5f75e7a83f49931eaf462f7c221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_018
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 671
+        width: 306
+        height: 502
+      alignment: 9
+      pivot: {x: 0.4248366, y: 0.7191235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0d1be4d6cff6a41b16a1d39edeb7ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 274
+        height: 414
+      alignment: 9
+      pivot: {x: 0.4489051, y: 0.7125604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f4a6153ef73a142aee4fdc87365496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_020
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 86
+        width: 175
+        height: 329
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.7294833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a145ee90f963604daf5e42e06d90011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_021
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 199
+        width: 160
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9305556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc0c44a6139ca479715113eed6b609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_022
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 298
+        width: 128
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4921875, y: 1.0854701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb076bbd3323d1845ba4e0e21fa85a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_023
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 348
+        width: 124
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5080645, y: 1.2985075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3f4ac847558ff4383b288ecfc5e43b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Fly_024
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 366
+        width: 53
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6981132, y: 1.755102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9757e306d7d5a4a81514e2ece3c934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a4a17a5a882dc0247bca31f58ee28bf7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

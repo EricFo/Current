@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: ecdf23932bfc19b49a000b26b04a2253
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Collect_Hit-1
+    21300002: Collect_Hit_019
+    21300004: Collect_Hit_020
+    21300006: Collect_Hit_021
+    21300008: Collect_Hit_022
+    21300010: Collect_Hit_023
+    21300012: Collect_Hit_024
+    21300014: Collect_Hit_025
+    21300016: Collect_Hit_026
+    21300018: Collect_Hit_027
+    21300020: Collect_Hit_028
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect_Hit_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1828
+        width: 1180
+        height: 639
+      alignment: 9
+      pivot: {x: 0.4898305, y: 0.4913928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b4d491b8c5fa43a56262247737d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_020
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1823
+        width: 1178
+        height: 644
+      alignment: 9
+      pivot: {x: 0.48981324, y: 0.49068323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f1a38ae042f9f45b96adbf69fc50ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_021
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1826
+        width: 1178
+        height: 641
+      alignment: 9
+      pivot: {x: 0.48896435, y: 0.48829952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f43078016fcdb4f8725e21cf24bd78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1182
+        width: 1179
+        height: 639
+      alignment: 9
+      pivot: {x: 0.4893978, y: 0.4913928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df708f1ec89b571408448a7e257c732c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_023
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1213
+        width: 1181
+        height: 608
+      alignment: 9
+      pivot: {x: 0.48264182, y: 0.4901316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331a9604acfe7e64ead1a95ab80b4d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_024
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1203
+        width: 1193
+        height: 618
+      alignment: 9
+      pivot: {x: 0.47694886, y: 0.4854369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bce7e3d2d037943b5d60ea377f7699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 1165
+        height: 622
+      alignment: 9
+      pivot: {x: 0.49012876, y: 0.49196142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc9ccdf31b12a48b709e8dc829501b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_026
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 578
+        width: 1154
+        height: 602
+      alignment: 9
+      pivot: {x: 0.48873484, y: 0.4950166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af9164d2f49834bb06b035cc81eb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_027
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 588
+        width: 1151
+        height: 592
+      alignment: 9
+      pivot: {x: 0.48913988, y: 0.4881757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13779d92669b4641a4d7f37ab06e0f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_Hit_028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1117
+        height: 554
+      alignment: 9
+      pivot: {x: 0.48791406, y: 0.4891697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811d28e7d72dd14a81133ba5edab27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6614384a55253b43b20b53a4fb56db1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

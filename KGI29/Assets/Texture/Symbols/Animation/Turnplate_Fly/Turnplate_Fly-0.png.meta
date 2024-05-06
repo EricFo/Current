@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: abc6fa1a422e17847b649225715303c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turnplate_Fly-0
+    21300002: Turnplate_Fly_000
+    21300004: Turnplate_Fly_001
+    21300006: Turnplate_Fly_002
+    21300008: Turnplate_Fly_003
+    21300010: Turnplate_Fly_004
+    21300012: Turnplate_Fly_005
+    21300014: Turnplate_Fly_006
+    21300016: Turnplate_Fly_007
+    21300018: Turnplate_Fly_008
+    21300020: Turnplate_Fly_009
+    21300022: Turnplate_Fly_010
+    21300024: Turnplate_Fly_011
+    21300026: Turnplate_Fly_012
+    21300028: Turnplate_Fly_013
+    21300030: Turnplate_Fly_014
+    21300032: Turnplate_Fly_015
+    21300034: Turnplate_Fly_016
+    21300036: Turnplate_Fly_017
+    21300038: Turnplate_Fly_018
+    21300040: Turnplate_Fly_019
+    21300042: Turnplate_Fly_020
+    21300044: Turnplate_Fly_021
+    21300046: Turnplate_Fly_022
+    21300048: Turnplate_Fly_023
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turnplate_Fly_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2730
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 1000, y: -999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7babc39e0ffe44a5bf4782bfe5488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2396
+        width: 368
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5570652, y: 0.45671642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547d310ed5ec1584893742e87203f1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_002
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2308
+        width: 449
+        height: 423
+      alignment: 9
+      pivot: {x: 0.55233854, y: 0.43735224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c928118fc7c5c4418f4dd760c0440a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_003
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2300
+        width: 422
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5521327, y: 0.4686775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3c826cc67121b4fa670282018cd4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_004
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2236
+        width: 470
+        height: 495
+      alignment: 9
+      pivot: {x: 0.62765956, y: 0.45050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf29ab5bb416844ca5313b47db58934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_005
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2214
+        width: 505
+        height: 517
+      alignment: 9
+      pivot: {x: 0.56633663, y: 0.47969052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada10787d6d290145bbaad26f818c5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_006
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2174
+        width: 531
+        height: 557
+      alignment: 9
+      pivot: {x: 0.5442561, y: 0.47935367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166b32ac83c20948aa5904d76b36345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_007
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1892
+        width: 499
+        height: 839
+      alignment: 9
+      pivot: {x: 0.5310621, y: 0.3420739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c3a4c0be98b1343bfb10240cb35f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_008
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1838
+        width: 534
+        height: 893
+      alignment: 9
+      pivot: {x: 0.54307115, y: 0.34602463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107beb4ccfbd312409ca57766f5e6712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 892
+        width: 502
+        height: 944
+      alignment: 9
+      pivot: {x: 0.5557769, y: 0.34745762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c420516b5c855b488763ac4b48be10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_010
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 874
+        width: 528
+        height: 962
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.33264032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b04c1dfcdeea4e977ee833fae6804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_011
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 844
+        width: 496
+        height: 992
+      alignment: 9
+      pivot: {x: 0.5342742, y: 0.33165324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fdcac8ed710a649bd758ff3ca902ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_012
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 814
+        width: 475
+        height: 1022
+      alignment: 9
+      pivot: {x: 0.5094737, y: 0.32778865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c9c2da28f3e024ab2b2b26e6590ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_013
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 786
+        width: 453
+        height: 1050
+      alignment: 9
+      pivot: {x: 0.48565122, y: 0.3342857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb6ab925e24d9419ea15b42e5ba817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_014
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 833
+        width: 464
+        height: 1003
+      alignment: 9
+      pivot: {x: 0.5064655, y: 0.3010967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d78f1084aad7f4082356cc0d16bc74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_015
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 870
+        width: 430
+        height: 966
+      alignment: 9
+      pivot: {x: 0.48604652, y: 0.28881988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60ce9981faf77d4f8ffb1e61c0c2652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_016
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 910
+        width: 434
+        height: 926
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.30237582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7789c56fdafcb284ba0e915853c75008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 395
+        height: 783
+      alignment: 9
+      pivot: {x: 0.49873418, y: 0.2605364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc3069d0f277845acb68439ecc1404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_018
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 88
+        width: 372
+        height: 696
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.28879312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217543075eb4e944b67611b9e7e4f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_019
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 187
+        width: 394
+        height: 597
+      alignment: 9
+      pivot: {x: 0.57360405, y: 0.33500838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca19ebfc9a7d394e978a49eb7f71818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_020
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 330
+        width: 388
+        height: 454
+      alignment: 9
+      pivot: {x: 0.6185567, y: 0.35682818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d333db8dee23a45865ea4608ad2ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_021
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 431
+        width: 349
+        height: 353
+      alignment: 9
+      pivot: {x: 0.6647564, y: 0.44192636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90776fa2376be24988378a4e857c5f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_022
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 548
+        width: 282
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6312057, y: 0.5677966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2719517995d37740a4c76b3595821d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turnplate_Fly_023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2730
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 1000, y: -999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06161a53a681f4583264e3b8b3b381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 842d6253d914e7840b3cfc69f5c49042
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

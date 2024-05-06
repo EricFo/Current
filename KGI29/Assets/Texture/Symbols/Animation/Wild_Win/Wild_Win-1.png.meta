@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 6559d7218421f2d46a2d7806042fcc08
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wild_Win-1
+    21300002: Wild_Win_071
+    21300004: Wild_Win_072
+    21300006: Wild_Win_073
+    21300008: Wild_Win_074
+    21300010: Wild_Win_075
+    21300012: Wild_Win_076
+    21300014: Wild_Win_077
+    21300016: Wild_Win_078
+    21300018: Wild_Win_079
+    21300020: Wild_Win_080
+    21300022: Wild_Win_081
+    21300024: Wild_Win_082
+    21300026: Wild_Win_083
+    21300028: Wild_Win_084
+    21300030: Wild_Win_085
+    21300032: Wild_Win_086
+    21300034: Wild_Win_087
+    21300036: Wild_Win_088
+    21300038: Wild_Win_089
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wild_Win_071
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1728
+        width: 441
+        height: 519
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.36608863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2bfe99c5a1b44a9510d1f2377fe8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_072
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1726
+        width: 437
+        height: 521
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.378119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b554d39c1c7fc14b9d9267c9bf3f2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_073
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1733
+        width: 431
+        height: 514
+      alignment: 9
+      pivot: {x: 0.48723897, y: 0.385214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33205784e3080e438110ad921206d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_074
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1755
+        width: 426
+        height: 492
+      alignment: 9
+      pivot: {x: 0.49530515, y: 0.4004065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e541247c3382740a710a37e727e685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_075
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1241
+        width: 423
+        height: 483
+      alignment: 9
+      pivot: {x: 0.5035461, y: 0.4037267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf530e05ab55064b8d90997239a8efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_076
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1253
+        width: 422
+        height: 471
+      alignment: 9
+      pivot: {x: 0.51184833, y: 0.40976647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f43cbe53469a041953640172b9c3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_077
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1264
+        width: 416
+        height: 460
+      alignment: 9
+      pivot: {x: 0.5168269, y: 0.4173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd178705ba5ce9f49ae2422f8481c872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_078
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1275
+        width: 421
+        height: 449
+      alignment: 9
+      pivot: {x: 0.51068884, y: 0.43207127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0132a1535a26c4587b8652286f9313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 426
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.43835616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8196ff9cae0c94aa7e5695adbc1d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_080
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 812
+        width: 425
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5011765, y: 0.45199063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d4beb483163b4daeb8bc0e753c0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_081
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 823
+        width: 425
+        height: 416
+      alignment: 9
+      pivot: {x: 0.5011765, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8ebdb869e0f5b4aae884170725165e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_082
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 830
+        width: 425
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5011765, y: 0.46454766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d141d0af71974a9c92e0ae41a1ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_083
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 391
+        width: 428
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4692c3a92fe5bb4e8cfaf7c7420cfbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_084
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 384
+        width: 430
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45783132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f2a2d0ba5569489bbfc42dda15c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_085
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 387
+        width: 432
+        height: 412
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45873785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d44a0c807be04d96973e71479fe94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_086
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 420
+        width: 436
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5045872, y: 0.40633246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8031ee7d38724714fbef5f429a61caba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_087
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 438
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5022831, y: 0.40263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c046310727b446b4c5d1e736d19b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_088
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 15
+        width: 424
+        height: 367
+      alignment: 9
+      pivot: {x: 0.49292454, y: 0.41689372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae5aa70802a3b84b8d96e17bd5d06f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Win_089
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 76
+        width: 328
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5030488, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb7262b4b3204a4b85d03ea89df6a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a539d23b015fed74d80fe52a50bfe6c2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,159 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Texture/BonusGame/Bonus(1)/Collect_Fly/Collect_Fly-0.tpsheet
+- Assets/Texture/BonusGame/bonus/Collect_Intro/Collect_Intro-0.tpsheet
+- Assets/Texture/BonusGame/bonus/Collect_Intro/Collect_Intro-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand01/Cele_Grand01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-2.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major01/Cele_Major01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-2.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini01/Cele_Mini01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand01/Meter_Grand01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand02/Meter_Grand02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand03/Meter_Grand03-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Major01/Meter_Major01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Major02/Meter_Major02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Mini01/Meter_Mini01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Mini02/Meter_Mini02-0.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Hit01/BonusSymbol_Hit01-0.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Hit02/BonusSymbol_Hit02-0.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win01/BonusSymbol_Win01-0.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win01/BonusSymbol_Win01-1.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win02/BonusSymbol_Win02-0.tpsheet
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win02/BonusSymbol_Win02-1.tpsheet
+- Assets/Texture/Symbols/Animation/Turnplate_Fly/Turnplate_Fly-0.tpsheet
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Blue/Turnplate_Fly_Blue-0.tpsheet
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Blue/Turnplate_Fly_Blue-1.tpsheet
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Purple/Turnplate_Fly_Purple-0.tpsheet
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Purple/Turnplate_Fly_Purple-1.tpsheet
+- Assets/Texture/Symbols/Animation/Wild_Win/Wild_Win-0.tpsheet
+- Assets/Texture/Symbols/Animation/Wild_Win/Wild_Win-1.tpsheet
+- Assets/Texture/TotalWin/Collect/Collect-0.tpsheet
+- Assets/Texture/TotalWin/Collect/Collect-1.tpsheet
+- Assets/Texture/TotalWin/Collect_Hit/Collect_Hit-0.tpsheet
+- Assets/Texture/TotalWin/Collect_Hit/Collect_Hit-1.tpsheet
+- Assets/Texture/TotalWin/TotalWin-0.tpsheet
+- Assets/Texture/TotalWin/TotalWin-1.tpsheet
+- Assets/Texture/TotalWin/TotalWin-2.tpsheet
+- Assets/Texture/TotalWin/TotalWin-3.tpsheet
+- Assets/Texture/TotalWin/TotalWin-4.tpsheet
+- Assets/Texture/TotalWin/TotalWin-5.tpsheet
+- Assets/Texture/TotalWin/TotalWin-6.tpsheet
+- Assets/Texture/TotalWin/TotalWin-7.tpsheet
+- Assets/Texture/Wheel/Fly_GrandStar/Fly_GrandStar-0.tpsheet
+- Assets/Texture/Wheel/Fly_MajorStar/Fly_MajorStar-0.tpsheet
+- Assets/Texture/Wheel/Fly_MiniStar/Fly_MiniStar-0.tpsheet
+textureFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Texture/BonusGame/Bonus(1)/Collect_Fly/Collect_Fly-0.png
+- Assets/Texture/BonusGame/bonus/Collect_Intro/Collect_Intro-0.png
+- Assets/Texture/BonusGame/bonus/Collect_Intro/Collect_Intro-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand01/Cele_Grand01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-2.png
+- Assets/Texture/BonusGame/Meter/Cele_Major01/Cele_Major01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-2.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini01/Cele_Mini01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-1.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand01/Meter_Grand01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand02/Meter_Grand02-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand03/Meter_Grand03-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Major01/Meter_Major01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Major02/Meter_Major02-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Mini01/Meter_Mini01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Mini02/Meter_Mini02-0.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Hit01/BonusSymbol_Hit01-0.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Hit02/BonusSymbol_Hit02-0.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win01/BonusSymbol_Win01-0.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win01/BonusSymbol_Win01-1.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win02/BonusSymbol_Win02-0.png
+- Assets/Texture/Symbols/Animation/BonusSymbol_Win02/BonusSymbol_Win02-1.png
+- Assets/Texture/Symbols/Animation/Turnplate_Fly/Turnplate_Fly-0.png
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Blue/Turnplate_Fly_Blue-0.png
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Blue/Turnplate_Fly_Blue-1.png
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Purple/Turnplate_Fly_Purple-0.png
+- Assets/Texture/Symbols/Animation/Turnplate_Fly_Purple/Turnplate_Fly_Purple-1.png
+- Assets/Texture/Symbols/Animation/Wild_Win/Wild_Win-0.png
+- Assets/Texture/Symbols/Animation/Wild_Win/Wild_Win-1.png
+- Assets/Texture/TotalWin/Collect/Collect-0.png
+- Assets/Texture/TotalWin/Collect/Collect-1.png
+- Assets/Texture/TotalWin/Collect_Hit/Collect_Hit-0.png
+- Assets/Texture/TotalWin/Collect_Hit/Collect_Hit-1.png
+- Assets/Texture/TotalWin/TotalWin-0.png
+- Assets/Texture/TotalWin/TotalWin-1.png
+- Assets/Texture/TotalWin/TotalWin-2.png
+- Assets/Texture/TotalWin/TotalWin-3.png
+- Assets/Texture/TotalWin/TotalWin-4.png
+- Assets/Texture/TotalWin/TotalWin-5.png
+- Assets/Texture/TotalWin/TotalWin-6.png
+- Assets/Texture/TotalWin/TotalWin-7.png
+- Assets/Texture/Wheel/Fly_GrandStar/Fly_GrandStar-0.png
+- Assets/Texture/Wheel/Fly_MajorStar/Fly_MajorStar-0.png
+- Assets/Texture/Wheel/Fly_MiniStar/Fly_MiniStar-0.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

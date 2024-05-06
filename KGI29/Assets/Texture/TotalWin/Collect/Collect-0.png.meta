@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 5f027fb73c1ab10499e2f52f521beb9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Collect-0
+    21300002: Collect_000
+    21300004: Collect_001
+    21300006: Collect_002
+    21300008: Collect_003
+    21300010: Collect_004
+    21300012: Collect_005
+    21300014: Collect_006
+    21300016: Collect_007
+    21300018: Collect_008
+    21300020: Collect_009
+    21300022: Collect_010
+    21300024: Collect_011
+    21300026: Collect_012
+    21300028: Collect_013
+    21300030: Collect_014
+    21300032: Collect_015
+    21300034: Collect_016
+    21300036: Collect_017
+    21300038: Collect_018
+    21300040: Collect_029
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Collect_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3838
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 800, y: -499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0c3afd79711141882464e43a4380f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3263
+        width: 1139
+        height: 576
+      alignment: 9
+      pivot: {x: 0.49165934, y: 0.49479166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fefb091b01c8f418f7623a11d845d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_002
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3229
+        width: 1155
+        height: 610
+      alignment: 9
+      pivot: {x: 0.49004328, y: 0.49836066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf57ee73f372f54c948e48f3b1f9a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_003
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3213
+        width: 1164
+        height: 626
+      alignment: 9
+      pivot: {x: 0.49054983, y: 0.49201277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76493e1e0a8f9e247a2865df88f6415b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2589
+        width: 1165
+        height: 622
+      alignment: 9
+      pivot: {x: 0.49098712, y: 0.49839228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0913901230c4bbb478b8f0b0d8bc6bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_005
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2572
+        width: 1181
+        height: 639
+      alignment: 9
+      pivot: {x: 0.49026248, y: 0.4913928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9d5ea701160d64eb6a1795e480c40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_006
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2573
+        width: 1178
+        height: 638
+      alignment: 9
+      pivot: {x: 0.48896435, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd051ef525090f04cb752e6df5ac454e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1933
+        width: 1178
+        height: 637
+      alignment: 9
+      pivot: {x: 0.49066213, y: 0.4913658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca860bba7ff474ba749a3ea148a294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_008
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1933
+        width: 1182
+        height: 637
+      alignment: 9
+      pivot: {x: 0.49069375, y: 0.4913658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f923ffb00f631b40ad4a459d52571d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_009
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1926
+        width: 1179
+        height: 644
+      alignment: 9
+      pivot: {x: 0.49024597, y: 0.49534163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd37af8d616bb4b8cf3c5889460577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 1179
+        height: 639
+      alignment: 9
+      pivot: {x: 0.49024597, y: 0.4913928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ef8ce6ff447a48aeaf9e86407ef59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_011
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1285
+        width: 1180
+        height: 639
+      alignment: 9
+      pivot: {x: 0.4898305, y: 0.4913928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27905881c369864282946b1cf16d5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_012
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1286
+        width: 1178
+        height: 638
+      alignment: 9
+      pivot: {x: 0.49066213, y: 0.48902822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ce90c06b09b1b479857cd437a0135a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 645
+        width: 1177
+        height: 638
+      alignment: 9
+      pivot: {x: 0.4902294, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96e1341a9889a4387fe9fd57aa6e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_014
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 645
+        width: 1180
+        height: 638
+      alignment: 9
+      pivot: {x: 0.48898306, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e482d0b3aa1e3a4191fa0a4d422ac3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_015
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 645
+        width: 1180
+        height: 638
+      alignment: 9
+      pivot: {x: 0.4898305, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf7f368fe793443b936381cf8c5f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1180
+        height: 642
+      alignment: 9
+      pivot: {x: 0.4898305, y: 0.49376947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d542a49981e3741ab587e165fa6e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_017
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 5
+        width: 1178
+        height: 638
+      alignment: 9
+      pivot: {x: 0.48981324, y: 0.4905956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e0971a6451eb4b97ea199be005027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_018
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 3
+        width: 1177
+        height: 640
+      alignment: 9
+      pivot: {x: 0.4902294, y: 0.4890625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60150bf88440ba42843f0c4f6284d15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collect_029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3838
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 800, y: -499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a228fedea5578468b69c5935cbd60c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa0d64c8452bd784eb81df216008a758
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
