@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 8c28e9f4f6632e840a1eb1fb25d250c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BonusSymbol_Win02-1
+    21300002: BonusSymbol_Win02_036
+    21300004: BonusSymbol_Win02_037
+    21300006: BonusSymbol_Win02_038
+    21300008: BonusSymbol_Win02_039
+    21300010: BonusSymbol_Win02_040
+    21300012: BonusSymbol_Win02_041
+    21300014: BonusSymbol_Win02_042
+    21300016: BonusSymbol_Win02_043
+    21300018: BonusSymbol_Win02_044
+    21300020: BonusSymbol_Win02_045
+    21300022: BonusSymbol_Win02_046
+    21300024: BonusSymbol_Win02_047
+    21300026: BonusSymbol_Win02_048
+    21300028: BonusSymbol_Win02_049
+    21300030: BonusSymbol_Win02_050
+    21300032: BonusSymbol_Win02_051
+    21300034: BonusSymbol_Win02_052
+    21300036: BonusSymbol_Win02_053
+    21300038: BonusSymbol_Win02_054
+    21300040: BonusSymbol_Win02_055
+    21300042: BonusSymbol_Win02_056
+    21300044: BonusSymbol_Win02_057
+    21300046: BonusSymbol_Win02_058
+    21300048: BonusSymbol_Win02_059
+    21300050: BonusSymbol_Win02_060
+    21300052: BonusSymbol_Win02_061
+    21300054: BonusSymbol_Win02_062
+    21300056: BonusSymbol_Win02_063
+    21300058: BonusSymbol_Win02_064
+    21300060: BonusSymbol_Win02_065
+    21300062: BonusSymbol_Win02_066
+    21300064: BonusSymbol_Win02_067
+    21300066: BonusSymbol_Win02_068
+    21300068: BonusSymbol_Win02_069
+    21300070: BonusSymbol_Win02_070
+    21300072: BonusSymbol_Win02_071
+    21300074: BonusSymbol_Win02_072
+    21300076: BonusSymbol_Win02_073
+    21300078: BonusSymbol_Win02_074
+    21300080: BonusSymbol_Win02_075
+    21300082: BonusSymbol_Win02_076
+    21300084: BonusSymbol_Win02_077
+    21300086: BonusSymbol_Win02_078
+    21300088: BonusSymbol_Win02_079
+    21300090: BonusSymbol_Win02_080
+    21300092: BonusSymbol_Win02_081
+    21300094: BonusSymbol_Win02_082
+    21300096: BonusSymbol_Win02_083
+    21300098: BonusSymbol_Win02_084
+    21300100: BonusSymbol_Win02_085
+    21300102: BonusSymbol_Win02_086
+    21300104: BonusSymbol_Win02_087
+    21300106: BonusSymbol_Win02_088
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2872
+        width: 536
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5317164, y: 0.4730679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931c4a448e6625547ac31100c5ea9b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_037
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2874
+        width: 539
+        height: 425
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.4729412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1898215d36fe4304ebefb97803e98205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_038
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2874
+        width: 539
+        height: 425
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.4729412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369cedfe492a521428557717dfcf68bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_039
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2875
+        width: 537
+        height: 424
+      alignment: 9
+      pivot: {x: 0.5288641, y: 0.4740566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21664659870ca46aa40250a9dec13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_040
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2878
+        width: 534
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5262172, y: 0.4750594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa92d5576aa5d2478e9fee17b651946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_041
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 2881
+        width: 530
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5226415, y: 0.47607654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca095d72e22d340b4f418f8ef448c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_042
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 2882
+        width: 527
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5199241, y: 0.48441246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af67539c618635844b453304fa1e6e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2460
+        width: 533
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5140713, y: 0.48292682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78cb4555239bd64f8335121c3781fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_044
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2461
+        width: 522
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5114943, y: 0.49144253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4d74ed9db1444db85bac4ed619189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_045
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2465
+        width: 518
+        height: 405
+      alignment: 9
+      pivot: {x: 0.507722, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f434d2b274bd55418913112e8e67377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_046
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2464
+        width: 517
+        height: 406
+      alignment: 9
+      pivot: {x: 0.50676984, y: 0.49261084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a75eb00c81f52419d2c0b67da69136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_047
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2463
+        width: 519
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5086705, y: 0.49140048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daa75fae96f920418c7ae7ff87155f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_048
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2464
+        width: 515
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.49261084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c9e4014173494f8dca30d73231947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_049
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 2466
+        width: 515
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.48267326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4ea10a8a9969043a597204a857ff8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2057
+        width: 515
+        height: 401
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.47880298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7b0075f40c5ad4b8ca6cf6c52725d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_051
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2064
+        width: 516
+        height: 394
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.4746193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4757be3c3d873498cb664735743c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_052
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2068
+        width: 515
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99631aec57b30f0479cfb15100014c6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_053
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2064
+        width: 514
+        height: 394
+      alignment: 9
+      pivot: {x: 0.51167315, y: 0.4720812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7152037f6a4228541a6fbcb522c68886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_054
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2066
+        width: 508
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5137795, y: 0.47704083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe1df8c8ceab584ea8631f86c185bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_055
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2063
+        width: 502
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5139442, y: 0.47848102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59591e8ae1a7094e9a3fe680b74fae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_056
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2057
+        width: 501
+        height: 401
+      alignment: 9
+      pivot: {x: 0.51696604, y: 0.48129675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da6e55256517942bc9d862a38b21ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_057
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2062
+        width: 496
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5201613, y: 0.48232323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c932634b0f8d1a4692692a013e42d07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1658
+        width: 492
+        height: 397
+      alignment: 9
+      pivot: {x: 0.5223577, y: 0.4861461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb424786ddf70f34ab6d465c56037a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_059
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1652
+        width: 491
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5254583, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0eabb06a12034abbccadbf7625ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_060
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1650
+        width: 494
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5323887, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566746de140b57f44866baa144fa7d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_061
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1645
+        width: 498
+        height: 410
+      alignment: 9
+      pivot: {x: 0.53614455, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b6ca01ea1a5034f8d0e22999119c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_062
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1640
+        width: 514
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5252918, y: 0.486747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf5c5bb893f20646b848531616f5c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_063
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1636
+        width: 521
+        height: 419
+      alignment: 9
+      pivot: {x: 0.5278311, y: 0.48210025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f34612ae9bbd04384a2576fcde74fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_064
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1633
+        width: 528
+        height: 422
+      alignment: 9
+      pivot: {x: 0.52840906, y: 0.48104265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de3e98a0bf96342aba7324ce767501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_065
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1630
+        width: 536
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5261194, y: 0.48235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969db752b0059214ba1f0e9a5ab5b194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_066
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1203
+        width: 537
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5325885, y: 0.4752941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5f04b57eec0d24ba2d7503e5d43c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_067
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1203
+        width: 539
+        height: 425
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.4729412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046fc4a97982804eac47767d584ce5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_068
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1203
+        width: 539
+        height: 425
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.4729412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da69e270d4a3c0b418269bde175f7662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_069
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1201
+        width: 539
+        height: 427
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.47072598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e35ac5a1ea074ca19393f06b31cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_070
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1201
+        width: 538
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5297398, y: 0.47540984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9545f29c2467ea40a3884e6eccad8e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_071
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1204
+        width: 537
+        height: 424
+      alignment: 9
+      pivot: {x: 0.5288641, y: 0.4740566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4876ffc3d0acd04da216415b034ce40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_072
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 1202
+        width: 562
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5498221, y: 0.48356807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9789719d13cc548b03e57a67776acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_073
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 568
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5440141, y: 0.49069768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2f70646358a604f8b989536b6df370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_074
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 779
+        width: 562
+        height: 420
+      alignment: 9
+      pivot: {x: 0.54626334, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0213699e01977d42858fa542ba0eb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_075
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 786
+        width: 559
+        height: 413
+      alignment: 9
+      pivot: {x: 0.54382825, y: 0.47941887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ea97d04179354ca93e5c29f74b5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_076
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 786
+        width: 557
+        height: 413
+      alignment: 9
+      pivot: {x: 0.5421903, y: 0.4842615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abb2761d65003479cfe3a244d84931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_077
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 788
+        width: 553
+        height: 411
+      alignment: 9
+      pivot: {x: 0.53887886, y: 0.486618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a30391b01618a49b0fda99ead56f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_078
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 791
+        width: 552
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5380435, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17d236d16d2d94782fb5cc0a2870bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_079
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 795
+        width: 548
+        height: 404
+      alignment: 9
+      pivot: {x: 0.53467155, y: 0.48267326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450594831d1a1148b622b8b553722aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_080
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 539
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5361781, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f668daa53f4a84d8194f74bf3950d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_081
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 382
+        width: 534
+        height: 385
+      alignment: 9
+      pivot: {x: 0.53370786, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e22528c58698f2418940b0c2874934e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_082
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 383
+        width: 529
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5330813, y: 0.4765625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3fb85bb8031df48b49f20bf293e4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_083
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 380
+        width: 525
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5314286, y: 0.47545218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f39b5803369a42be910e5d4c9346e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_084
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 380
+        width: 516
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.48320413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef64abad0521bd4599aa306da740125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_085
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 387
+        width: 498
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5461847, y: 0.48157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37544e1afb2be84db5603d404d3901e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_086
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 389
+        width: 486
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c26ac8985754542a079f3862763736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_087
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 484
+        height: 371
+      alignment: 9
+      pivot: {x: 0.55991733, y: 0.47978437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd7f9c43a5d6d34088e8fa8196c61d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Win02_088
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 14
+        width: 474
+        height: 361
+      alignment: 9
+      pivot: {x: 0.56962025, y: 0.47922438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c5f768aedded49b003ba1de5b5356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2b1ef3b78d9f1847b58fee6c2744746
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

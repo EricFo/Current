@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 424a0174593ab7b41bbea466cf9984e6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cele_Major02-0
+    21300002: Cele_Major02_000
+    21300004: Cele_Major02_001
+    21300006: Cele_Major02_002
+    21300008: Cele_Major02_003
+    21300010: Cele_Major02_004
+    21300012: Cele_Major02_005
+    21300014: Cele_Major02_006
+    21300016: Cele_Major02_007
+    21300018: Cele_Major02_008
+    21300020: Cele_Major02_009
+    21300022: Cele_Major02_010
+    21300024: Cele_Major02_011
+    21300026: Cele_Major02_012
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cele_Major02_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2944
+        width: 1360
+        height: 571
+      alignment: 9
+      pivot: {x: 0.47941175, y: 0.56042033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029f5cb87d5cb54aaef43bae05f712d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_001
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2937
+        width: 1347
+        height: 578
+      alignment: 9
+      pivot: {x: 0.484781, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a7b95594b35f4c8d217f2d07455fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_002
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 2931
+        width: 1368
+        height: 584
+      alignment: 9
+      pivot: {x: 0.4766082, y: 0.5582192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1d742f1954c44bbd15f9355650fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2340
+        width: 1362
+        height: 589
+      alignment: 9
+      pivot: {x: 0.48237884, y: 0.55857384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a20c4ef3d573343bec088ef5a257bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_004
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2340
+        width: 1373
+        height: 589
+      alignment: 9
+      pivot: {x: 0.48434085, y: 0.5551783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf07984964bd643bcb0a5e49eae878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1742
+        width: 1359
+        height: 596
+      alignment: 9
+      pivot: {x: 0.49300957, y: 0.557047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad34844c9752d42af17e4569c69003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_006
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1748
+        width: 1372
+        height: 590
+      alignment: 9
+      pivot: {x: 0.4941691, y: 0.5525424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af3093924714d2498543f5953e1b334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1164
+        width: 1386
+        height: 576
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.5381944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba316d5b79108be4b97b6509730a073b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_008
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1160
+        width: 1398
+        height: 580
+      alignment: 9
+      pivot: {x: 0.49427754, y: 0.54137933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef6ca08738aba04993456103099c6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 1410
+        height: 555
+      alignment: 9
+      pivot: {x: 0.49361703, y: 0.5603604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2681391a9d0573041af405588dc53d29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_010
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 586
+        width: 1424
+        height: 572
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c0cfe8c37c7374cb7014f795d07eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1436
+        height: 582
+      alignment: 9
+      pivot: {x: 0.4937326, y: 0.5687285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fec8856b02b0645ba62b9854f84c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Major02_012
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 25
+        width: 1449
+        height: 559
+      alignment: 9
+      pivot: {x: 0.4941339, y: 0.54561716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65cb33bb6269f3499520459e03b01fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a7b87c0620c78f44b5b59300ffbcd1b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

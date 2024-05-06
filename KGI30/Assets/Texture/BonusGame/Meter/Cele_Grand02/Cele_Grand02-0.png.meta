@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: e23c61fabfd20b4429605124f259d84f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cele_Grand02-0
+    21300002: Cele_Grand02_000
+    21300004: Cele_Grand02_001
+    21300006: Cele_Grand02_002
+    21300008: Cele_Grand02_003
+    21300010: Cele_Grand02_004
+    21300012: Cele_Grand02_005
+    21300014: Cele_Grand02_006
+    21300016: Cele_Grand02_007
+    21300018: Cele_Grand02_008
+    21300020: Cele_Grand02_009
+    21300022: Cele_Grand02_010
+    21300024: Cele_Grand02_011
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cele_Grand02_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3261
+        width: 1754
+        height: 634
+      alignment: 9
+      pivot: {x: 0.49942988, y: 0.5536278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8b8b311bedb9e499e4fd08ee1cac7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_001
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3268
+        width: 1750
+        height: 627
+      alignment: 9
+      pivot: {x: 0.5005714, y: 0.54385966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ec6853eeeeb744ac04a65cc283b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2625
+        width: 1750
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5005714, y: 0.54416406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258bf7c4c9dfc1047a92f75806ec2d46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_003
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2616
+        width: 1750
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5005714, y: 0.5458787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d963a3159798624b94a3d5a928649e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1965
+        width: 1751
+        height: 649
+      alignment: 9
+      pivot: {x: 0.50085664, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b463ed2bc8ab65746bf94906e9faa02f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_005
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1957
+        width: 1753
+        height: 657
+      alignment: 9
+      pivot: {x: 0.49971476, y: 0.5449011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6508f5140600644802b0eeb3981134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1294
+        width: 1753
+        height: 661
+      alignment: 9
+      pivot: {x: 0.49971476, y: 0.5416036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab018673b7d72d4b8d61b6b26c3a392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_007
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1306
+        width: 1750
+        height: 649
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52696455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd99890b768c8489524bf65042cd8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 645
+        width: 1750
+        height: 647
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5255023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb3c340819a32d4fba65bef04f26920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_009
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 663
+        width: 1749
+        height: 629
+      alignment: 9
+      pivot: {x: 0.49971414, y: 0.5357711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90485de11fca16b48b74b4ad4dbacc55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 1751
+        height: 633
+      alignment: 9
+      pivot: {x: 0.49914333, y: 0.53396523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5944bfb22b6c54a905d783fa7b90ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand02_011
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 4
+        width: 1747
+        height: 639
+      alignment: 9
+      pivot: {x: 0.4997138, y: 0.53208137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5cb279b2044e547a61d61289b95466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e834a5df0135ab849b6fd5d3b2b5722f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

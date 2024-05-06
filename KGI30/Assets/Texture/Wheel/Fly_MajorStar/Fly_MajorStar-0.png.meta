@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 870d6fcd9aa090f42867c1ec46b7f5ba
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fly_MajorStar-0
+    21300002: Fly_MajorStar_000
+    21300004: Fly_MajorStar_001
+    21300006: Fly_MajorStar_002
+    21300008: Fly_MajorStar_003
+    21300010: Fly_MajorStar_004
+    21300012: Fly_MajorStar_005
+    21300014: Fly_MajorStar_006
+    21300016: Fly_MajorStar_007
+    21300018: Fly_MajorStar_008
+    21300020: Fly_MajorStar_009
+    21300022: Fly_MajorStar_010
+    21300024: Fly_MajorStar_011
+    21300026: Fly_MajorStar_012
+    21300028: Fly_MajorStar_013
+    21300030: Fly_MajorStar_014
+    21300032: Fly_MajorStar_015
+    21300034: Fly_MajorStar_016
+    21300036: Fly_MajorStar_017
+    21300038: Fly_MajorStar_018
+    21300040: Fly_MajorStar_019
+    21300042: Fly_MajorStar_020
+    21300044: Fly_MajorStar_021
+    21300046: Fly_MajorStar_022
+    21300048: Fly_MajorStar_023
+    21300050: Fly_MajorStar_024
+    21300052: Fly_MajorStar_025
+    21300054: Fly_MajorStar_026
+    21300056: Fly_MajorStar_027
+    21300058: Fly_MajorStar_028
+    21300060: Fly_MajorStar_029
+    21300062: Fly_MajorStar_030
+    21300064: Fly_MajorStar_031
+    21300066: Fly_MajorStar_032
+    21300068: Fly_MajorStar_033
+    21300070: Fly_MajorStar_034
+    21300072: Fly_MajorStar_035
+    21300074: Fly_MajorStar_036
+    21300076: Fly_MajorStar_037
+    21300078: Fly_MajorStar_038
+    21300080: Fly_MajorStar_039
+    21300082: Fly_MajorStar_040
+    21300084: Fly_MajorStar_041
+    21300086: Fly_MajorStar_042
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly_MajorStar_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3382
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f896256bdaa7419c8d50b09010625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3313
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff779ec02f3db418b1632915866f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_002
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3236
+        width: 153
+        height: 147
+      alignment: 9
+      pivot: {x: 0.49673203, y: 0.4829932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e8c9469dfd16e4db571e9eb9422571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_003
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3150
+        width: 243
+        height: 233
+      alignment: 9
+      pivot: {x: 0.4979424, y: 0.48497853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dee6bae0603a4498a357716d7aefa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_004
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3065
+        width: 331
+        height: 318
+      alignment: 9
+      pivot: {x: 0.4954683, y: 0.49056605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c0a64ba6e66f43a0f9ed8a0d1bdea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_005
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2982
+        width: 419
+        height: 401
+      alignment: 9
+      pivot: {x: 0.49642006, y: 0.4862843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3623e61e8c56ba347984cc0ce4e5562c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_006
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2904
+        width: 499
+        height: 479
+      alignment: 9
+      pivot: {x: 0.49499, y: 0.48643005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa0429b44530440aab0f094a0e0b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_007
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2837
+        width: 570
+        height: 546
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5293a9d6b3e314f87edc8712fbf0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_008
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2791
+        width: 620
+        height: 592
+      alignment: 9
+      pivot: {x: 0.4951613, y: 0.4881757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dee0ad3dbdb1f499379c4b07617b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_009
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 2756
+        width: 653
+        height: 627
+      alignment: 9
+      pivot: {x: 0.4946401, y: 0.48803827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549cef6c75125ae4fa01c072714c06bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2100
+        width: 685
+        height: 654
+      alignment: 9
+      pivot: {x: 0.4948905, y: 0.48776758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a233baadaad97dc41854a5486d9440ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_011
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2070
+        width: 715
+        height: 684
+      alignment: 9
+      pivot: {x: 0.4951049, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba13ed0e5790234aa7f74be81c74de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_012
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2043
+        width: 745
+        height: 711
+      alignment: 9
+      pivot: {x: 0.49530202, y: 0.488045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ffa7ba9e42d184b8402af350717d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_013
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2017
+        width: 770
+        height: 737
+      alignment: 9
+      pivot: {x: 0.4948052, y: 0.48846677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007755e34a682da42be0a9e2b82e142f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_014
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 2000
+        width: 787
+        height: 754
+      alignment: 9
+      pivot: {x: 0.4942821, y: 0.48806366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c63ee1c191c64880fea9a965c858f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1221
+        width: 812
+        height: 777
+      alignment: 9
+      pivot: {x: 0.49507388, y: 0.48777348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5309fd3827674b9859fdaccf7ddd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_016
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1200
+        width: 834
+        height: 798
+      alignment: 9
+      pivot: {x: 0.4940048, y: 0.48746866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166c411b310a274d879a73d298788fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_017
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1186
+        width: 849
+        height: 812
+      alignment: 9
+      pivot: {x: 0.49469966, y: 0.48768473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46050cb010837b4885a232f27b7de86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_018
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1187
+        width: 851
+        height: 811
+      alignment: 9
+      pivot: {x: 0.4947121, y: 0.487053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b1864b63ab66d4fac7332db3139cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 741
+        width: 461
+        height: 443
+      alignment: 9
+      pivot: {x: 0.49457702, y: 0.48081264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd07731981fc048ba6b5ed384b8249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_020
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 741
+        width: 461
+        height: 443
+      alignment: 9
+      pivot: {x: 0.49457702, y: 0.48081264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d73ad593b04ac74c9aaf26c7eaee0a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_021
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 726
+        width: 459
+        height: 458
+      alignment: 9
+      pivot: {x: 0.47712418, y: 0.4978166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d15900873a37458be176a0878f08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_022
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 726
+        width: 450
+        height: 458
+      alignment: 9
+      pivot: {x: 0.47111112, y: 0.51965064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eae44f959cd174396092586e2115e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_023
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 723
+        width: 452
+        height: 461
+      alignment: 9
+      pivot: {x: 0.49336284, y: 0.55748373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6c7441cd1b524bb1eb6148c24ffc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_024
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 687
+        width: 437
+        height: 497
+      alignment: 9
+      pivot: {x: 0.51487416, y: 0.5975855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca65fd907c726d24283514a4854d4481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_025
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 646
+        width: 409
+        height: 538
+      alignment: 9
+      pivot: {x: 0.5378973, y: 0.62267655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4f1bf5efd3e248960bd7a65b55b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_026
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 617
+        width: 394
+        height: 567
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.6472663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994d933b1a37184ba9489ae8d28782c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 373
+        height: 587
+      alignment: 9
+      pivot: {x: 0.5147453, y: 0.6780239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f2cf6b4c939d44bd1e041a49a77eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_028
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 17
+        width: 343
+        height: 598
+      alignment: 9
+      pivot: {x: 0.49562684, y: 0.7073579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957100f782c2714d98d4768dae533bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_029
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 8
+        width: 317
+        height: 607
+      alignment: 9
+      pivot: {x: 0.48264983, y: 0.7364086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1959219c38948e641b008d95cd3d69ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_030
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2
+        width: 312
+        height: 613
+      alignment: 9
+      pivot: {x: 0.5032051, y: 0.76019573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834ae16de79b734bab397ffe9a18332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_031
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 38
+        width: 304
+        height: 577
+      alignment: 9
+      pivot: {x: 0.5230263, y: 0.75043327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3466a8ecf2e80141895fe6d070a3cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_032
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 26
+        width: 293
+        height: 589
+      alignment: 9
+      pivot: {x: 0.54266214, y: 0.7436333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b642d24f294044d893f50b2f0e1779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_033
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 14
+        width: 296
+        height: 601
+      alignment: 9
+      pivot: {x: 0.5304054, y: 0.7420965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824adffbc464a6f47ac47c1b5da5b0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_034
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 72
+        width: 290
+        height: 543
+      alignment: 9
+      pivot: {x: 0.5137931, y: 0.72007364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa95d85833f3ea94ebb8def9de16f820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_035
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 108
+        width: 258
+        height: 507
+      alignment: 9
+      pivot: {x: 0.49224806, y: 0.73175544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb94e5bfd606241ac8175df87c649c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_036
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 170
+        width: 216
+        height: 445
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.7483146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94962a9c7b7a4541a650109806b9ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_037
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 257
+        width: 178
+        height: 358
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.76256984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79de8f94f394f942a6d176d68c9f067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_038
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 356
+        width: 136
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.74903476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a18b3c827fe5c34cb59e7ec6e8d4576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_039
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 415
+        width: 104
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fa3a6a218021743abe83a82f750d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_040
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 461
+        width: 83
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4698795, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f306c8edc79c16b459165e11323ee26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_041
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 490
+        width: 74
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef159fcfc41e54cb26e1174085097f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_MajorStar_042
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 571
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.025, y: 1.9545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445119d7bdf038049936451e421e40d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b942361f38f54264fa9fda6fcc94afdf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

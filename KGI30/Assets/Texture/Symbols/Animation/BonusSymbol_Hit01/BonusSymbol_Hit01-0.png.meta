@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 082f6d7ea28dceb45ae0cfb018ccf7bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BonusSymbol_Hit01-0
+    21300002: BonusSymbol_Hit01_000
+    21300004: BonusSymbol_Hit01_001
+    21300006: BonusSymbol_Hit01_002
+    21300008: BonusSymbol_Hit01_003
+    21300010: BonusSymbol_Hit01_004
+    21300012: BonusSymbol_Hit01_005
+    21300014: BonusSymbol_Hit01_006
+    21300016: BonusSymbol_Hit01_007
+    21300018: BonusSymbol_Hit01_008
+    21300020: BonusSymbol_Hit01_009
+    21300022: BonusSymbol_Hit01_010
+    21300024: BonusSymbol_Hit01_011
+    21300026: BonusSymbol_Hit01_012
+    21300028: BonusSymbol_Hit01_013
+    21300030: BonusSymbol_Hit01_014
+    21300032: BonusSymbol_Hit01_015
+    21300034: BonusSymbol_Hit01_016
+    21300036: BonusSymbol_Hit01_017
+    21300038: BonusSymbol_Hit01_018
+    21300040: BonusSymbol_Hit01_019
+    21300042: BonusSymbol_Hit01_020
+    21300044: BonusSymbol_Hit01_021
+    21300046: BonusSymbol_Hit01_022
+    21300048: BonusSymbol_Hit01_023
+    21300050: BonusSymbol_Hit01_024
+    21300052: BonusSymbol_Hit01_025
+    21300054: BonusSymbol_Hit01_026
+    21300056: BonusSymbol_Hit01_027
+    21300058: BonusSymbol_Hit01_028
+    21300060: BonusSymbol_Hit01_029
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2277
+        width: 423
+        height: 302
+      alignment: 9
+      pivot: {x: 0.6099291, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b62154936cb74428d80ce40f93851d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_001
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2269
+        width: 462
+        height: 310
+      alignment: 9
+      pivot: {x: 0.6103896, y: 0.43225807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6485d63806591f48b55dc8871744d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_002
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2246
+        width: 492
+        height: 333
+      alignment: 9
+      pivot: {x: 0.61178863, y: 0.42642644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d089073ed89ccc4fb70ac088e06ce15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_003
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2210
+        width: 519
+        height: 369
+      alignment: 9
+      pivot: {x: 0.61271673, y: 0.42818427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bea7f65c11491040b11af134fdee553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1811
+        width: 537
+        height: 397
+      alignment: 9
+      pivot: {x: 0.61080074, y: 0.43324938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eaced47eb6cec43b5106d1426a0946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_005
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1791
+        width: 546
+        height: 417
+      alignment: 9
+      pivot: {x: 0.6098901, y: 0.43405277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1ee12a9de7d2449109186739782e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_006
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1785
+        width: 552
+        height: 423
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.43498817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496b9928d1d9914c907b77c4ad15534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1363
+        width: 550
+        height: 420
+      alignment: 9
+      pivot: {x: 0.60545456, y: 0.43571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e5b65de6418c4f9c0b254a5fd74da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_008
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1378
+        width: 547
+        height: 405
+      alignment: 9
+      pivot: {x: 0.5941499, y: 0.43209878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4429125a43fe241b175d009215727f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_009
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1400
+        width: 536
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5839552, y: 0.4308094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b314b99aabe91f4dbd5df7cd42238f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 994
+        width: 525
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5638095, y: 0.4386921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa4c48bbb4034489dbf7dbd7f07884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_011
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1003
+        width: 511
+        height: 358
+      alignment: 9
+      pivot: {x: 0.54990214, y: 0.46089387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66311d4ba1f5217479122438fcdb6492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_012
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1015
+        width: 496
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5302419, y: 0.48265895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471a4ddcf5003c46aede07b448921b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_013
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1019
+        width: 483
+        height: 342
+      alignment: 9
+      pivot: {x: 0.50931674, y: 0.49707603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29924260ea0746e439b92626a24829c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 654
+        width: 468
+        height: 338
+      alignment: 9
+      pivot: {x: 0.491453, y: 0.47928995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f4be9c9e98e2449299bc2e6adaf70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_015
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 652
+        width: 466
+        height: 340
+      alignment: 9
+      pivot: {x: 0.46781117, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca3644d42dc774b97ba2e6a21daec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_016
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 656
+        width: 468
+        height: 336
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.49702382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac1fd7eb94f7d41b7939e58e5bedb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_017
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 642
+        width: 417
+        height: 350
+      alignment: 9
+      pivot: {x: 0.50119907, y: 0.47714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65020d506a91664fbfa50135abfcfd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 306
+        width: 420
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49101797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888107b27f393454595d0c086b1051c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_019
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 313
+        width: 427
+        height: 327
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.48623854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cca210e4492c054eac88818736d590a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_020
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 312
+        width: 392
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52458297f40126144af72ccf759f2a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_021
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 329
+        width: 381
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5800525, y: 0.3954984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b399b0ea81a4e43a85e2c3de445a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_022
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 351
+        width: 386
+        height: 289
+      alignment: 9
+      pivot: {x: 0.59585494, y: 0.4186851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bad011da4e44bf4d9d0559e93b13790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 392
+        height: 296
+      alignment: 9
+      pivot: {x: 0.60459185, y: 0.41554055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d864a021286b24a93d5c3dc11d8dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_024
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3
+        width: 398
+        height: 301
+      alignment: 9
+      pivot: {x: 0.6105528, y: 0.4152824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a09aaa1a82f19f4e9bbc7e51539d05d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_025
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2
+        width: 407
+        height: 302
+      alignment: 9
+      pivot: {x: 0.61179364, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0091d80342c6e4b9edb5fd563dc609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_026
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2
+        width: 415
+        height: 302
+      alignment: 9
+      pivot: {x: 0.6120482, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1ca73129d913a4b9165f338494d4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_027
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2
+        width: 420
+        height: 302
+      alignment: 9
+      pivot: {x: 0.61190474, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab3e78520e28b14dbdef807c9f63a6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2277
+        width: 423
+        height: 302
+      alignment: 9
+      pivot: {x: 0.6099291, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b49af098b5aa8d4dadc5135222ddb28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusSymbol_Hit01_029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2277
+        width: 423
+        height: 302
+      alignment: 9
+      pivot: {x: 0.6099291, y: 0.41721854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27c1bf57f36514ca55a430feac9430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c5151bfaee75564a8715ceb45786b24
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

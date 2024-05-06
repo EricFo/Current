@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 076487e7feb2e6a479b64d5ae453096d, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  AudioCollection:
+  - audioName: FE_BonusSpin
+    audioClip: {fileID: 8300000, guid: 77c2fe62774352b41a8e73e9bef58d92, type: 3}
+  - audioName: FE_BonusSymbolFly
+    audioClip: {fileID: 8300000, guid: 3874ec6c8cd315d409557e391b379550, type: 3}
+  - audioName: FE_BonusSymbolStop
+    audioClip: {fileID: 8300000, guid: d2f971010e37f9e44b726e561e959c3d, type: 3}
+  - audioName: FE_DBoostAdd
+    audioClip: {fileID: 8300000, guid: 71243e731849fbe46bc64d8343a13762, type: 3}
+  - audioName: FE_DGetAllCollect
+    audioClip: {fileID: 8300000, guid: 7dd2131592ab2b347a2f9699ccbef671, type: 3}
+  - audioName: FE_DGetAllUpgrade
+    audioClip: {fileID: 8300000, guid: a59082fe7882dfe41a5da5e308d8cd52, type: 3}
+  - audioName: FE_GetAdd01_loop
+    audioClip: {fileID: 8300000, guid: 23778973fd7e7de4ea54235b5e1ba241, type: 3}
+  - audioName: FE_JP_change
+    audioClip: {fileID: 8300000, guid: 5e53c33d9634f6141b9b0805f14a67e5, type: 3}
+  - audioName: FE_JP_hit
+    audioClip: {fileID: 8300000, guid: d8117a24c62168a4f96b7bb45299afe2, type: 3}
+  - audioName: FE_JP_triggercombo
+    audioClip: {fileID: 8300000, guid: e773017cf64c59c4aaf8e13709ff9fa7, type: 3}
+  - audioName: FE_TotalFly
+    audioClip: {fileID: 8300000, guid: 088277aabab667b4a93291bc68c072f3, type: 3}
+  - audioName: FE_TotalMeterIntro
+    audioClip: {fileID: 8300000, guid: c9d2cb1c744bc874980a0d8ecc55d571, type: 3}
+  - audioName: FE_WheelHyper Ding
+    audioClip: {fileID: 8300000, guid: 288ddc6d18fa7e84c94c0f84a992dfb7, type: 3}
+  - audioName: FE_WheelHyper
+    audioClip: {fileID: 8300000, guid: 98e617bcd6fa19746984373cc4a1e5a0, type: 3}
+  - audioName: FE_WheelHyperSmall
+    audioClip: {fileID: 8300000, guid: 5b523841c2186bc49b2e98df541a5fd4, type: 3}
+  - audioName: FE_WheelIntro
+    audioClip: {fileID: 8300000, guid: 5cc7f4f83ffd9634aac55f33030fc29a, type: 3}
+  - audioName: FE_Wheelstop01
+    audioClip: {fileID: 8300000, guid: 072de4224b527e94ea637743c94f19fc, type: 3}
+  - audioName: FE_Wheelstop01a
+    audioClip: {fileID: 8300000, guid: 659e64da60b90564293ea2e00da52326, type: 3}
+  - audioName: FE_Wheelstop02
+    audioClip: {fileID: 8300000, guid: df74123bcdb99c147861e3b5af0f2d18, type: 3}
+  - audioName: FE_Wheelstop02b
+    audioClip: {fileID: 8300000, guid: 1a9a41887e185e64d9f76744515d2564, type: 3}
+  - audioName: FE_Wheelstop03
+    audioClip: {fileID: 8300000, guid: b8ad7d7b68d3ea14297bbb72f1b66190, type: 3}
+  - audioName: FE_Wheelstop03b
+    audioClip: {fileID: 8300000, guid: 006cbf292c2e58547b6876230f83aee5, type: 3}
+  - audioName: FE_Wheelstop03c
+    audioClip: {fileID: 8300000, guid: 214127a079b9b7c4a8096330e0916542, type: 3}
+  - audioName: FE_WheelstopCredit
+    audioClip: {fileID: 8300000, guid: d5ea89cfee38b1d42ab3bce344dbc6d5, type: 3}
+  - audioName: KGI29-Bonus-Cele1
+    audioClip: {fileID: 8300000, guid: 92831f03b3e0ac241825cc2e96e30748, type: 3}
+  - audioName: KGI29-Bonus-Cele2
+    audioClip: {fileID: 8300000, guid: afc8e850688ea7c4bab280a98374c88a, type: 3}
+  - audioName: KGI29-Bonus-Cele3
+    audioClip: {fileID: 8300000, guid: 3bbb4f35951b9f0439badf75e29201c1, type: 3}
+  - audioName: win1-FE_Wheelstop03-win1
+    audioClip: {fileID: 8300000, guid: 94ced9fba18d2284a9a6ddfaa0c1bc7a, type: 3}
+  - audioName: win1-FE_Wheelstop03-win2
+    audioClip: {fileID: 8300000, guid: a64344086535d324ab390d3333e4e5a2, type: 3}
+  - audioName: "win1-FE_Wheelstop03win1\uFF08Loop\uFF09"
+    audioClip: {fileID: 8300000, guid: 968a3b3c1230b3b43b9f1b4b24db340d, type: 3}
+  - audioName: "win1-FE_Wheelstop03win2\uFF08Loop\uFF09"
+    audioClip: {fileID: 8300000, guid: c53a6a2e9c1f47c44812db75089c088e, type: 3}
+  - audioName: AwardEnd
+    audioClip: {fileID: 8300000, guid: 382954c295a20d24cb16abd813d29153, type: 3}
+  - audioName: AwardLoop
+    audioClip: {fileID: 8300000, guid: d8bb5435a98a6354cb305a10849ad6ec, type: 3}
+  - audioName: Bell
+    audioClip: {fileID: 8300000, guid: 189d56b33798ad04382fe74d382d4e11, type: 3}
+  - audioName: BigTotalWin
+    audioClip: {fileID: 8300000, guid: 3b825f02a03d004418a8751986f10c37, type: 3}
+  - audioName: FeatureSelect
+    audioClip: {fileID: 8300000, guid: e9ebde8c2e7c81143a8684912e10a8f7, type: 3}
+  - audioName: KGI-Game29-Bonus-Intro
+    audioClip: {fileID: 8300000, guid: cbff39afa09445b408ab1b245a298ef0, type: 3}
+  - audioName: KGI-Game29-Bonus-Music1
+    audioClip: {fileID: 8300000, guid: 18c68098c2e471b4b8cc00bcf115225d, type: 3}
+  - audioName: KGI-Game29-Bonus-Music2
+    audioClip: {fileID: 8300000, guid: 12f99e122ba4f1b428e937aedcfadd17, type: 3}
+  - audioName: KGI-Game29-Bonus-Music3
+    audioClip: {fileID: 8300000, guid: 3f6e96e45b4c51a478cd0acc580e5ba4, type: 3}
+  - audioName: KGI-Game29-Bonus-Totalwin1
+    audioClip: {fileID: 8300000, guid: 4e13b5eefa9720248a4d51edfeb9e38a, type: 3}
+  - audioName: KGI-Game29-Bonus-Totalwin2
+    audioClip: {fileID: 8300000, guid: 408752fed723b674abdd9e1d33e55cfc, type: 3}
+  - audioName: KGI-Game29-Bonus-Waiting
+    audioClip: {fileID: 8300000, guid: 7e7ad3252136b0f49aba9cca3d1ff085, type: 3}
+  - audioName: KGI29-Winloop
+    audioClip: {fileID: 8300000, guid: 25b8836f5540a1b47bbc2f2f520b7181, type: 3}
+  - audioName: KGI29-Winloopend
+    audioClip: {fileID: 8300000, guid: d95cbb6f17ebb7843b9d355d20a240c4, type: 3}
+  - audioName: ReelStop
+    audioClip: {fileID: 8300000, guid: 110692eabce403e42b826607418a0b41, type: 3}
+  - audioName: SmallTotalWin
+    audioClip: {fileID: 8300000, guid: df794a564c234c447acef0457cec1a5a, type: 3}
+  - audioName: SpinBtn
+    audioClip: {fileID: 8300000, guid: 52c12328dce18f847a1d968fda652be1, type: 3}
+  CachePath: Sounds

@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: e792eac811359ae439aec317c3204492
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fly_GrandStar-0
+    21300002: Fly_GrandStar_000
+    21300004: Fly_GrandStar_001
+    21300006: Fly_GrandStar_002
+    21300008: Fly_GrandStar_003
+    21300010: Fly_GrandStar_004
+    21300012: Fly_GrandStar_005
+    21300014: Fly_GrandStar_006
+    21300016: Fly_GrandStar_007
+    21300018: Fly_GrandStar_008
+    21300020: Fly_GrandStar_009
+    21300022: Fly_GrandStar_010
+    21300024: Fly_GrandStar_011
+    21300026: Fly_GrandStar_012
+    21300028: Fly_GrandStar_013
+    21300030: Fly_GrandStar_014
+    21300032: Fly_GrandStar_015
+    21300034: Fly_GrandStar_016
+    21300036: Fly_GrandStar_017
+    21300038: Fly_GrandStar_018
+    21300040: Fly_GrandStar_019
+    21300042: Fly_GrandStar_020
+    21300044: Fly_GrandStar_021
+    21300046: Fly_GrandStar_022
+    21300048: Fly_GrandStar_023
+    21300050: Fly_GrandStar_024
+    21300052: Fly_GrandStar_025
+    21300054: Fly_GrandStar_026
+    21300056: Fly_GrandStar_027
+    21300058: Fly_GrandStar_028
+    21300060: Fly_GrandStar_029
+    21300062: Fly_GrandStar_030
+    21300064: Fly_GrandStar_031
+    21300066: Fly_GrandStar_032
+    21300068: Fly_GrandStar_033
+    21300070: Fly_GrandStar_034
+    21300072: Fly_GrandStar_035
+    21300074: Fly_GrandStar_036
+    21300076: Fly_GrandStar_037
+    21300078: Fly_GrandStar_038
+    21300080: Fly_GrandStar_039
+    21300082: Fly_GrandStar_040
+    21300084: Fly_GrandStar_041
+    21300086: Fly_GrandStar_042
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fly_GrandStar_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2654
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 500, y: -499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04012a9e20df9204e879a00eb0a5e93d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2594
+        width: 63
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a51a55722788cf4f91b9c51e8331786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_002
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2532
+        width: 131
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e44232be64cbb439ae41051a64deba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_003
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2460
+        width: 200
+        height: 195
+      alignment: 9
+      pivot: {x: 0.495, y: 0.4923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e62bbcd824f541936acba4c06c6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_004
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2393
+        width: 273
+        height: 262
+      alignment: 9
+      pivot: {x: 0.4981685, y: 0.48854962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9bb6fe1b2f6274dbe02a84544bd5e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_005
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2329
+        width: 341
+        height: 326
+      alignment: 9
+      pivot: {x: 0.49560118, y: 0.48773006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4883b889e73518f429a16344353ed6b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_006
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2266
+        width: 406
+        height: 389
+      alignment: 9
+      pivot: {x: 0.49507388, y: 0.48586118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68b3edd35b19ad4da2efc667977da09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_007
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2211
+        width: 463
+        height: 444
+      alignment: 9
+      pivot: {x: 0.49460045, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1087d9cc5fff948b04dd1111e9dfd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_008
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2170
+        width: 505
+        height: 485
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.48659793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33b0dbb1923614baba0f95a9a16475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_009
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 2139
+        width: 538
+        height: 516
+      alignment: 9
+      pivot: {x: 0.49628252, y: 0.4864341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f9a0f820e2514fa0c16602187c935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_010
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 2113
+        width: 566
+        height: 542
+      alignment: 9
+      pivot: {x: 0.49469966, y: 0.48708487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e3185c6918c12428b20739f4852c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1545
+        width: 592
+        height: 566
+      alignment: 9
+      pivot: {x: 0.49493244, y: 0.4876325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0574f84b6eefb649b483f58358856f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_012
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1521
+        width: 618
+        height: 590
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.4881356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d0a861e974f847afb64e3132f1b80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_013
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1497
+        width: 641
+        height: 614
+      alignment: 9
+      pivot: {x: 0.49453977, y: 0.4869707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c19e7c70fbaf84081315028dd6bb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_014
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1485
+        width: 658
+        height: 626
+      alignment: 9
+      pivot: {x: 0.49544072, y: 0.48722044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4cceb4478070e4b8b693dd1bbe4c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_015
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1465
+        width: 678
+        height: 646
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.4876161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a657c294c7824ebd2e342fefd04a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_016
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1447
+        width: 696
+        height: 664
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.48795182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c437d56cfb6f94b88d8dd7607e7879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 710
+        height: 678
+      alignment: 9
+      pivot: {x: 0.49577466, y: 0.48672566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ca947c198324438333eb62619a44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_018
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 766
+        width: 713
+        height: 679
+      alignment: 9
+      pivot: {x: 0.49509117, y: 0.4874816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a266feb3911b6a47a361fde6b4784c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_019
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1022
+        width: 443
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49435666, y: 0.4822695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243fb00e2290d4e429dca8b75e575acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_020
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1022
+        width: 443
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49435666, y: 0.4822695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404471ccfab15fc44b1cf38abdddad30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_021
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1011
+        width: 439
+        height: 434
+      alignment: 9
+      pivot: {x: 0.476082, y: 0.50230414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2a769cbd0fe44983b528408c4704e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_022
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1009
+        width: 431
+        height: 436
+      alignment: 9
+      pivot: {x: 0.4709977, y: 0.5229358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac7e796c9a3c64f8a44294aa2b25d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_023
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1024
+        width: 431
+        height: 421
+      alignment: 9
+      pivot: {x: 0.49419954, y: 0.5391924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1b36f54f557843964bb39cfe867ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_024
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1013
+        width: 417
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5179856, y: 0.5601852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ae490893b16fb419e59e857f0536c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 390
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5435898, y: 0.583691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7795eca24d304a448107fbe526560d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_026
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 271
+        width: 374
+        height: 493
+      alignment: 9
+      pivot: {x: 0.53743315, y: 0.6146045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a65e325d9d394bbc380965c8b63ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_027
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 241
+        width: 355
+        height: 523
+      alignment: 9
+      pivot: {x: 0.51830983, y: 0.65200764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f26605eb461d6044a635e3500587fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_028
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 213
+        width: 328
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6932849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bfb89561ded984c933d9d02ad42531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_029
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 191
+        width: 301
+        height: 573
+      alignment: 9
+      pivot: {x: 0.48504984, y: 0.7312391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b4c2646686e8343a8c4a4c55b3c338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_030
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 172
+        width: 298
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5067114, y: 0.7618243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e7f4462b7403849ab89fb87b846715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_031
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 197
+        width: 293
+        height: 567
+      alignment: 9
+      pivot: {x: 0.52901024, y: 0.7548501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d5bc4d039aff45b0b97d0fde0f88c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_032
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 180
+        width: 279
+        height: 584
+      alignment: 9
+      pivot: {x: 0.54480284, y: 0.75342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584677ce9dd968242b5e951c8e4e8c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_033
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 159
+        width: 282
+        height: 605
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.75371903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d11077ee945f1b4a970cfe340bfef14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_034
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 221
+        width: 276
+        height: 543
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.7292818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a78dbc6d0103948a05e45478f03c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_035
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 261
+        width: 248
+        height: 503
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.7375746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c202772d348a734d9d9db768337883d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_036
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 321
+        width: 210
+        height: 443
+      alignment: 9
+      pivot: {x: 0.48095238, y: 0.751693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3d79dba5185a4088d0f39aaad20d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_037
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 406
+        width: 177
+        height: 358
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.76256984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2589faa0877ad4ba559a609a1038f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_038
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 505
+        width: 137
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5182482, y: 0.74131274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b948f618750b429008912c7fb8f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_039
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 557
+        width: 107
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.73429954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d77229a15076c64bbd9c9e32668042a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 88
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7225807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332b38f4c6f81034b83657580113f627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_041
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 29
+        width: 76
+        height: 128
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.6796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6847e8e57be59bd40b7f893987706704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fly_GrandStar_042
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 113
+        width: 40
+        height: 44
+      alignment: 9
+      pivot: {x: 0.025, y: 1.9545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a5a806c67d97a40ada6df209021bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20cfa36377c333d4ca9f056f833da779
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
