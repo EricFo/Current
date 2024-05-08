@@ -1,0 +1,279 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Texture/BaseGame/Animation/Hyper/Hyper-0.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-0.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-1.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-2.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-3.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-4.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-0.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-1.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-2.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-0.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-1.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-2.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-3.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-4.tpsheet
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-5.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Change/Cattle_Change-0.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Change/Cattle_Change-1.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Hit/Cattle_Hit-0.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Hit/Cattle_Hit-1.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-0.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-1.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-2.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-0.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-1.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-2.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Trigger/Cattle_Trigger-0.tpsheet
+- Assets/Texture/Bonus_Purse/Cattle_Trigger/Cattle_Trigger-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange01/PurseChange01-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange01/PurseChange01-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-2.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-2.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-3.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-2.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-3.tpsheet
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-4.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit01/PurseHit01-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit02/PurseHit02-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit03/PurseHit03-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit03/PurseHit03-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit04/PurseHit04-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseHit04/PurseHit04-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseIntro/PurseIntro-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseIntro/PurseIntro-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop01/PurseLoop01-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop01/PurseLoop01-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop02/PurseLoop02-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop02/PurseLoop02-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-2.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-2.tpsheet
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-0.tpsheet
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-1.tpsheet
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-2.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Intro/Bonus_Intro-0.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Intro/Bonus_Intro-1.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-0.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-1.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-2.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Select/Bonus_Select-0.tpsheet
+- Assets/Texture/BonusGame/Animation/Bonus_Select/Bonus_Select-1.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFly01/BN_CoinFly01-0.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFly02/BN_CoinFly02-0.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFly03/BN_CoinFly03-0.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFlyHit01/BN_CoinFlyHit01-0.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFlyHit02/BN_CoinFlyHit02-0.tpsheet
+- Assets/Texture/FlyAnim/BN_CoinFlyHit03/BN_CoinFlyHit03-0.tpsheet
+- Assets/Texture/FlyAnim/Coin_Fly/Coin_Fly-0.tpsheet
+- Assets/Texture/Symbols/Animation/BN_CoinChange01/BN_CoinChange01-0.tpsheet
+- Assets/Texture/Symbols/Animation/BN_CoinChange02/BN_CoinChange02-0.tpsheet
+- Assets/Texture/Symbols/Animation/BN_GoldenCoinStop/BN_GoldenCoinStop-0.tpsheet
+- Assets/Texture/Symbols/Animation/BN_MixtureCoinStop/BN_MixtureCoinStop-0.tpsheet
+- Assets/Texture/Symbols/Animation/BN_SilverCoinStop/BN_SilverCoinStop-0.tpsheet
+- Assets/Texture/Symbols/Animation/Catter_Hit/Catter_Hit-0.tpsheet
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-0.tpsheet
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-1.tpsheet
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-2.tpsheet
+- Assets/Texture/Symbols/Animation/Catter_Win/Catter_Win-0.tpsheet
+- Assets/Texture/Symbols/Animation/GoldenCoin_Intro/GoldenCoin_Intro-0.tpsheet
+- Assets/Texture/Symbols/Animation/MixtureCoin_Intro/MixtureCoin_Intro-0.tpsheet
+- Assets/Texture/Symbols/Animation/SilverCoin_Intro/SilverCoin_Intro-0.tpsheet
+textureFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Texture/BaseGame/Animation/Hyper/Hyper-0.png
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-0.png
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-1.png
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-2.png
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-3.png
+- Assets/Texture/Bonus_Purse/BigCattle_Intro/BigCattle_Intro-4.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-0.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-1.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop01/BigCattle_Loop01-2.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-0.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-1.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-2.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-3.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-4.png
+- Assets/Texture/Bonus_Purse/BigCattle_Loop02/BigCattle_Loop02-5.png
+- Assets/Texture/Bonus_Purse/Cattle_Change/Cattle_Change-0.png
+- Assets/Texture/Bonus_Purse/Cattle_Change/Cattle_Change-1.png
+- Assets/Texture/Bonus_Purse/Cattle_Hit/Cattle_Hit-0.png
+- Assets/Texture/Bonus_Purse/Cattle_Hit/Cattle_Hit-1.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-0.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-1.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop/Cattle_Loop-2.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-0.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-1.png
+- Assets/Texture/Bonus_Purse/Cattle_Loop2/Cattle_Loop-2.png
+- Assets/Texture/Bonus_Purse/Cattle_Trigger/Cattle_Trigger-0.png
+- Assets/Texture/Bonus_Purse/Cattle_Trigger/Cattle_Trigger-1.png
+- Assets/Texture/Bonus_Purse/PurseChange01/PurseChange01-0.png
+- Assets/Texture/Bonus_Purse/PurseChange01/PurseChange01-1.png
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-0.png
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-1.png
+- Assets/Texture/Bonus_Purse/PurseChange02/PurseChange02-2.png
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-0.png
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-1.png
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-2.png
+- Assets/Texture/Bonus_Purse/PurseChange03/PurseChange03-3.png
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-0.png
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-1.png
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-2.png
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-3.png
+- Assets/Texture/Bonus_Purse/PurseChange04/PurseChange04-4.png
+- Assets/Texture/Bonus_Purse/PurseHit01/PurseHit01-0.png
+- Assets/Texture/Bonus_Purse/PurseHit02/PurseHit02-0.png
+- Assets/Texture/Bonus_Purse/PurseHit03/PurseHit03-0.png
+- Assets/Texture/Bonus_Purse/PurseHit03/PurseHit03-1.png
+- Assets/Texture/Bonus_Purse/PurseHit04/PurseHit04-0.png
+- Assets/Texture/Bonus_Purse/PurseHit04/PurseHit04-1.png
+- Assets/Texture/Bonus_Purse/PurseIntro/PurseIntro-0.png
+- Assets/Texture/Bonus_Purse/PurseIntro/PurseIntro-1.png
+- Assets/Texture/Bonus_Purse/PurseLoop01/PurseLoop01-0.png
+- Assets/Texture/Bonus_Purse/PurseLoop01/PurseLoop01-1.png
+- Assets/Texture/Bonus_Purse/PurseLoop02/PurseLoop02-0.png
+- Assets/Texture/Bonus_Purse/PurseLoop02/PurseLoop02-1.png
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-0.png
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-1.png
+- Assets/Texture/Bonus_Purse/PurseLoop03/PurseLoop03-2.png
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-0.png
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-1.png
+- Assets/Texture/Bonus_Purse/PurseLoop04/PurseLoop04-2.png
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-0.png
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-1.png
+- Assets/Texture/Bonus_Purse/PurseTrigger/PurseTrigger-2.png
+- Assets/Texture/BonusGame/Animation/Bonus_Intro/Bonus_Intro-0.png
+- Assets/Texture/BonusGame/Animation/Bonus_Intro/Bonus_Intro-1.png
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-0.png
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-1.png
+- Assets/Texture/BonusGame/Animation/Bonus_Loop/Bonus_Loop-2.png
+- Assets/Texture/BonusGame/Animation/Bonus_Select/Bonus_Select-0.png
+- Assets/Texture/BonusGame/Animation/Bonus_Select/Bonus_Select-1.png
+- Assets/Texture/FlyAnim/BN_CoinFly01/BN_CoinFly01-0.png
+- Assets/Texture/FlyAnim/BN_CoinFly02/BN_CoinFly02-0.png
+- Assets/Texture/FlyAnim/BN_CoinFly03/BN_CoinFly03-0.png
+- Assets/Texture/FlyAnim/BN_CoinFlyHit01/BN_CoinFlyHit01-0.png
+- Assets/Texture/FlyAnim/BN_CoinFlyHit02/BN_CoinFlyHit02-0.png
+- Assets/Texture/FlyAnim/BN_CoinFlyHit03/BN_CoinFlyHit03-0.png
+- Assets/Texture/FlyAnim/Coin_Fly/Coin_Fly-0.png
+- Assets/Texture/Symbols/Animation/BN_CoinChange01/BN_CoinChange01-0.png
+- Assets/Texture/Symbols/Animation/BN_CoinChange02/BN_CoinChange02-0.png
+- Assets/Texture/Symbols/Animation/BN_GoldenCoinStop/BN_GoldenCoinStop-0.png
+- Assets/Texture/Symbols/Animation/BN_MixtureCoinStop/BN_MixtureCoinStop-0.png
+- Assets/Texture/Symbols/Animation/BN_SilverCoinStop/BN_SilverCoinStop-0.png
+- Assets/Texture/Symbols/Animation/Catter_Hit/Catter_Hit-0.png
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-0.png
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-1.png
+- Assets/Texture/Symbols/Animation/Catter_Upgrade/Catter_Upgrade-2.png
+- Assets/Texture/Symbols/Animation/Catter_Win/Catter_Win-0.png
+- Assets/Texture/Symbols/Animation/GoldenCoin_Intro/GoldenCoin_Intro-0.png
+- Assets/Texture/Symbols/Animation/MixtureCoin_Intro/MixtureCoin_Intro-0.png
+- Assets/Texture/Symbols/Animation/SilverCoin_Intro/SilverCoin_Intro-0.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

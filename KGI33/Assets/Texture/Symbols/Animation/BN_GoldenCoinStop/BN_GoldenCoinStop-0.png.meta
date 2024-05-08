@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: c862246ef9b8f5040b82a4ade01481f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3206
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 250, y: -249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031bf921abfd03270800000000000000
+      internalID: 8228322509475262768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2811
+        width: 397
+        height: 396
+      alignment: 9
+      pivot: {x: 0.49874055, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14255b9cf3ec77c20800000000000000
+      internalID: 3204256433259762241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_002
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2781
+        width: 425
+        height: 426
+      alignment: 9
+      pivot: {x: 0.5011765, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb4738f39d670050800000000000000
+      internalID: 5766698330163202993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_003
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2766
+        width: 432
+        height: 441
+      alignment: 9
+      pivot: {x: 0.49537036, y: 0.5011338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827c7328d8b39d8e0800000000000000
+      internalID: -1668236708002937048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_004
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2769
+        width: 427
+        height: 438
+      alignment: 9
+      pivot: {x: 0.4847775, y: 0.4977169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194293412900bd780800000000000000
+      internalID: -8657325231285132143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2296
+        width: 453
+        height: 468
+      alignment: 9
+      pivot: {x: 0.48565122, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a052a2f5a17cce020800000000000000
+      internalID: 2372490019797083402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_006
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2296
+        width: 452
+        height: 468
+      alignment: 9
+      pivot: {x: 0.48230088, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568394b5e556e6f40800000000000000
+      internalID: 5723623632367335525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_007
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2298
+        width: 454
+        height: 466
+      alignment: 9
+      pivot: {x: 0.48678413, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e273039c0a907a0800000000000000
+      internalID: -6410415808627396989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_008
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2295
+        width: 462
+        height: 469
+      alignment: 9
+      pivot: {x: 0.495671, y: 0.5010661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec46671f35196d10800000000000000
+      internalID: 2119248460374232289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1825
+        width: 468
+        height: 468
+      alignment: 9
+      pivot: {x: 0.50213677, y: 0.50213677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b557119c2863f0800000000000000
+      internalID: -907426323241782232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_010
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1826
+        width: 467
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5010707, y: 0.5010707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f8bb7ab817952d0800000000000000
+      internalID: -3289473208188956875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_011
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1825
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288aca5c74ca3d390800000000000000
+      internalID: -7794697105789114238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_012
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1825
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b6e23814407aac0800000000000000
+      internalID: -3844099077517186245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1356
+        width: 467
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5010707, y: 0.49892932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e183829480d9c0800000000000000
+      internalID: -3904475112123800408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_014
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1356
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49892932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ff8ecb05b72ec0800000000000000
+      internalID: -3591703115489872991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_015
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1355
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538c56071ff21f20800000000000000
+      internalID: 3392053943719461716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_016
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1356
+        width: 469
+        height: 467
+      alignment: 9
+      pivot: {x: 0.4989339, y: 0.5010707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484368adab86ef210800000000000000
+      internalID: 1368646488506643588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 885
+        width: 467
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5010707, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735651591c2b4d50800000000000000
+      internalID: 6722515356031013749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_018
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 886
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5010707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d072ec1616ba388d0800000000000000
+      internalID: -2845242104826943731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_019
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 885
+        width: 467
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5010707, y: 0.50213677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d9d86061184ea0800000000000000
+      internalID: -5888437407013284704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_020
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 885
+        width: 467
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5010707, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b01cb4cd6f7de0800000000000000
+      internalID: -1333226272942148498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 448
+        height: 453
+      alignment: 9
+      pivot: {x: 0.50446427, y: 0.5121413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d96019da38f6020800000000000000
+      internalID: 2337231513114287399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_022
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 429
+        width: 447
+        height: 454
+      alignment: 9
+      pivot: {x: 0.5033557, y: 0.5154185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df23aa9e356de30800000000000000
+      internalID: 4527898738415566223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_023
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 433
+        width: 447
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5033557, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25cf000222ba6530800000000000000
+      internalID: 3849084690641175852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_024
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 448
+        width: 431
+        height: 435
+      alignment: 9
+      pivot: {x: 0.5058005, y: 0.5149425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0884f31d4a06b70800000000000000
+      internalID: 8890286883046195425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 423
+        height: 424
+      alignment: 9
+      pivot: {x: 0.5035461, y: 0.5141509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88be65335684850e0800000000000000
+      internalID: -2280993611772925048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_026
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 29
+        width: 394
+        height: 398
+      alignment: 9
+      pivot: {x: 0.50507617, y: 0.5125628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ac16471f414fd0800000000000000
+      internalID: -2359517768386303620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_027
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 56
+        width: 368
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5054348, y: 0.5148248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939473e9931eabb20800000000000000
+      internalID: 3151078526882892089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_028
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 99
+        width: 325
+        height: 328
+      alignment: 9
+      pivot: {x: 0.50461537, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf429e3e301778950800000000000000
+      internalID: 6451249252754072827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_GoldenCoinStop_029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3206
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 250, y: -249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4683b3c26493430800000000000000
+      internalID: 3763116119430817004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BN_GoldenCoinStop_000: 8228322509475262768
+      BN_GoldenCoinStop_001: 3204256433259762241
+      BN_GoldenCoinStop_002: 5766698330163202993
+      BN_GoldenCoinStop_003: -1668236708002937048
+      BN_GoldenCoinStop_004: -8657325231285132143
+      BN_GoldenCoinStop_005: 2372490019797083402
+      BN_GoldenCoinStop_006: 5723623632367335525
+      BN_GoldenCoinStop_007: -6410415808627396989
+      BN_GoldenCoinStop_008: 2119248460374232289
+      BN_GoldenCoinStop_009: -907426323241782232
+      BN_GoldenCoinStop_010: -3289473208188956875
+      BN_GoldenCoinStop_011: -7794697105789114238
+      BN_GoldenCoinStop_012: -3844099077517186245
+      BN_GoldenCoinStop_013: -3904475112123800408
+      BN_GoldenCoinStop_014: -3591703115489872991
+      BN_GoldenCoinStop_015: 3392053943719461716
+      BN_GoldenCoinStop_016: 1368646488506643588
+      BN_GoldenCoinStop_017: 6722515356031013749
+      BN_GoldenCoinStop_018: -2845242104826943731
+      BN_GoldenCoinStop_019: -5888437407013284704
+      BN_GoldenCoinStop_020: -1333226272942148498
+      BN_GoldenCoinStop_021: 2337231513114287399
+      BN_GoldenCoinStop_022: 4527898738415566223
+      BN_GoldenCoinStop_023: 3849084690641175852
+      BN_GoldenCoinStop_024: 8890286883046195425
+      BN_GoldenCoinStop_025: -2280993611772925048
+      BN_GoldenCoinStop_026: -2359517768386303620
+      BN_GoldenCoinStop_027: 3151078526882892089
+      BN_GoldenCoinStop_028: 6451249252754072827
+      BN_GoldenCoinStop_029: 3763116119430817004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

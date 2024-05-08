@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: c64b7eebd63e9414db7314ae9cd69752
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mixture_coin_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3490
+        width: 264
+        height: 265
+      alignment: 9
+      pivot: {x: 0.49621212, y: 0.49433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054725f78865254b0800000000000000
+      internalID: -5453201054540598192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_001
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3449
+        width: 324
+        height: 306
+      alignment: 9
+      pivot: {x: 0.49691358, y: 0.46732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5a198204c4b990800000000000000
+      internalID: -7371051174929473794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_002
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3457
+        width: 382
+        height: 298
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.4362416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc2eb64c930de550800000000000000
+      internalID: 6191609032440949937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3173
+        width: 450
+        height: 274
+      alignment: 9
+      pivot: {x: 0.4977778, y: 0.45255473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c883915965c430800000000000000
+      internalID: 3802561259472733566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_004
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2990
+        width: 525
+        height: 457
+      alignment: 9
+      pivot: {x: 0.49714285, y: 0.4989059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f735e10cf66bc530800000000000000
+      internalID: 3876305136832034804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2392
+        width: 594
+        height: 596
+      alignment: 9
+      pivot: {x: 0.4983165, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eaa2a9451136e20800000000000000
+      internalID: 3342534403500453448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1749
+        width: 649
+        height: 641
+      alignment: 9
+      pivot: {x: 0.49922958, y: 0.5023401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e570e5a2fcbad0d0800000000000000
+      internalID: -3397195218546559511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1210
+        width: 618
+        height: 537
+      alignment: 9
+      pivot: {x: 0.49838188, y: 0.49534452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e903fb3b3d0d3bb30800000000000000
+      internalID: 4302011676741283998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 887
+        width: 577
+        height: 321
+      alignment: 9
+      pivot: {x: 0.49913344, y: 0.5451713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d3710a13d5165c0800000000000000
+      internalID: -4223992507776156357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 539
+        height: 398
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.59799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e35b92055e8800800000000000000
+      internalID: 616523668680597580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 504
+        height: 481
+      alignment: 9
+      pivot: {x: 0.49801588, y: 0.5426195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1c441c44291800800000000000000
+      internalID: 583537535897836556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mixture_coin_011
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 8
+        width: 472
+        height: 477
+      alignment: 9
+      pivot: {x: 0.49788135, y: 0.5052411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66249f7d793067fe0800000000000000
+      internalID: -1191761100694535578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mixture_coin_000: -5453201054540598192
+      mixture_coin_001: -7371051174929473794
+      mixture_coin_002: 6191609032440949937
+      mixture_coin_003: 3802561259472733566
+      mixture_coin_004: 3876305136832034804
+      mixture_coin_005: 3342534403500453448
+      mixture_coin_006: -3397195218546559511
+      mixture_coin_007: 4302011676741283998
+      mixture_coin_008: -4223992507776156357
+      mixture_coin_009: 616523668680597580
+      mixture_coin_010: 583537535897836556
+      mixture_coin_011: -1191761100694535578
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 775b17242dfc54944a67dc50c9ba21ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cattle_Trigger_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3103
+        width: 626
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d47b1967c127d40800000000000000
+      internalID: 5580554183841893653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_001
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3099
+        width: 622
+        height: 760
+      alignment: 9
+      pivot: {x: 0.50321543, y: 0.49342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939035779f4814200800000000000000
+      internalID: 162557268545702201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_002
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3094
+        width: 611
+        height: 765
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.48104575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd268410e960680800000000000000
+      internalID: -8789163894420349549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_003
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3090
+        width: 594
+        height: 769
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.46814045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594a2bd8ea1aae30800000000000000
+      internalID: 4515451163804059989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_004
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 3088
+        width: 585
+        height: 771
+      alignment: 9
+      pivot: {x: 0.52649575, y: 0.45784694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09cec21a5dd773b0800000000000000
+      internalID: -5514695839759546102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_005
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 3086
+        width: 572
+        height: 773
+      alignment: 9
+      pivot: {x: 0.54195803, y: 0.45278138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4687b79a718089c60800000000000000
+      internalID: 7825013250276948068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2309
+        width: 581
+        height: 775
+      alignment: 9
+      pivot: {x: 0.5576592, y: 0.45548388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482219d99fd5efe0800000000000000
+      internalID: -1160275477113198526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_007
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2313
+        width: 578
+        height: 771
+      alignment: 9
+      pivot: {x: 0.5432526, y: 0.46692607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5439b62ed9a896e80800000000000000
+      internalID: -8184858437055966395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_008
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2317
+        width: 587
+        height: 767
+      alignment: 9
+      pivot: {x: 0.53321975, y: 0.4797914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22de13cb19b521d70800000000000000
+      internalID: 9012366485807557922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_009
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2320
+        width: 593
+        height: 764
+      alignment: 9
+      pivot: {x: 0.51096123, y: 0.4908377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6d9ee28a84e0f20800000000000000
+      internalID: 3390727456635344570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_010
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2325
+        width: 606
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49802372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc7b4e3d6d0610d0800000000000000
+      internalID: -3452557301485175601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_011
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2334
+        width: 624
+        height: 750
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0191554157b0a9c0800000000000000
+      internalID: -3917930116129124082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1558
+        width: 641
+        height: 749
+      alignment: 9
+      pivot: {x: 0.47581902, y: 0.5046729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8973317113b44e2d0800000000000000
+      internalID: -3250390356842039400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_013
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1560
+        width: 656
+        height: 747
+      alignment: 9
+      pivot: {x: 0.4679878, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad401f6e4abfc550800000000000000
+      internalID: 6183365659436535207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_014
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1559
+        width: 655
+        height: 748
+      alignment: 9
+      pivot: {x: 0.46717557, y: 0.5053476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db06615abb2c6800800000000000000
+      internalID: 606908129017727960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_015
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1553
+        width: 652
+        height: 754
+      alignment: 9
+      pivot: {x: 0.46932516, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f1cca43ae43660800000000000000
+      internalID: 7364768802615193640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_016
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1550
+        width: 645
+        height: 757
+      alignment: 9
+      pivot: {x: 0.4744186, y: 0.4993395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ebb6d271620820800000000000000
+      internalID: 2882973857327342486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_017
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1552
+        width: 636
+        height: 755
+      alignment: 9
+      pivot: {x: 0.4827044, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b45d4f0637ddc0800000000000000
+      internalID: -3614360736591726108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 794
+        width: 624
+        height: 754
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c9a38fce426d80800000000000000
+      internalID: -8258952113469930574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_019
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 794
+        width: 611
+        height: 754
+      alignment: 9
+      pivot: {x: 0.507365, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceee7cbdc8d997130800000000000000
+      internalID: 3565053808348753644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_020
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 793
+        width: 601
+        height: 755
+      alignment: 9
+      pivot: {x: 0.52246255, y: 0.49668875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f549c2535602e0800000000000000
+      internalID: -2159947356248345522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_021
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 788
+        width: 600
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5233333, y: 0.48421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8142b513ba28f0290800000000000000
+      internalID: -7921969547742338024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_022
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 783
+        width: 608
+        height: 765
+      alignment: 9
+      pivot: {x: 0.5197368, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b6c390a1a8db20800000000000000
+      internalID: 3159452849646514396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_023
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 779
+        width: 610
+        height: 769
+      alignment: 9
+      pivot: {x: 0.5180328, y: 0.46163848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12c55c32742c3b0800000000000000
+      internalID: -5493750376478006803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 621
+        height: 771
+      alignment: 9
+      pivot: {x: 0.5136876, y: 0.4539559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c2a04cce77ac490800000000000000
+      internalID: -7725230352015676328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_025
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3
+        width: 626
+        height: 774
+      alignment: 9
+      pivot: {x: 0.5063898, y: 0.45607236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16defd995da405be0800000000000000
+      internalID: -1490609195389555359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_026
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 11
+        width: 637
+        height: 766
+      alignment: 9
+      pivot: {x: 0.49921507, y: 0.4699739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6054ffd81b9d2a7f0800000000000000
+      internalID: -602680043499469562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_027
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 16
+        width: 643
+        height: 761
+      alignment: 9
+      pivot: {x: 0.49455675, y: 0.48357424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460acdb3ca5ff140800000000000000
+      internalID: 4755619528275789376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_028
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 24
+        width: 643
+        height: 753
+      alignment: 9
+      pivot: {x: 0.49300155, y: 0.49800798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40ce0cdc9ef00b30800000000000000
+      internalID: 4251677997898055759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_029
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 30
+        width: 639
+        height: 747
+      alignment: 9
+      pivot: {x: 0.4945227, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871f16041dafc470800000000000000
+      internalID: 8417136530092398477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Trigger_034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3103
+        width: 626
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f50869e83751760800000000000000
+      internalID: 7427970216665046804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cattle_Trigger_000: 5580554183841893653
+      Cattle_Trigger_001: 162557268545702201
+      Cattle_Trigger_002: -8789163894420349549
+      Cattle_Trigger_003: 4515451163804059989
+      Cattle_Trigger_004: -5514695839759546102
+      Cattle_Trigger_005: 7825013250276948068
+      Cattle_Trigger_006: -1160275477113198526
+      Cattle_Trigger_007: -8184858437055966395
+      Cattle_Trigger_008: 9012366485807557922
+      Cattle_Trigger_009: 3390727456635344570
+      Cattle_Trigger_010: -3452557301485175601
+      Cattle_Trigger_011: -3917930116129124082
+      Cattle_Trigger_012: -3250390356842039400
+      Cattle_Trigger_013: 6183365659436535207
+      Cattle_Trigger_014: 606908129017727960
+      Cattle_Trigger_015: 7364768802615193640
+      Cattle_Trigger_016: 2882973857327342486
+      Cattle_Trigger_017: -3614360736591726108
+      Cattle_Trigger_018: -8258952113469930574
+      Cattle_Trigger_019: 3565053808348753644
+      Cattle_Trigger_020: -2159947356248345522
+      Cattle_Trigger_021: -7921969547742338024
+      Cattle_Trigger_022: 3159452849646514396
+      Cattle_Trigger_023: -5493750376478006803
+      Cattle_Trigger_024: -7725230352015676328
+      Cattle_Trigger_025: -1490609195389555359
+      Cattle_Trigger_026: -602680043499469562
+      Cattle_Trigger_027: 4755619528275789376
+      Cattle_Trigger_028: 4251677997898055759
+      Cattle_Trigger_029: 8417136530092398477
+      Cattle_Trigger_034: 7427970216665046804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: d94196ceaf176074687f790224b91a4d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigCattle_Loop02_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2926
+        width: 1001
+        height: 729
+      alignment: 9
+      pivot: {x: 0.46953046, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d7db8f19cb1570800000000000000
+      internalID: 8438559464136102272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_021
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2926
+        width: 999
+        height: 729
+      alignment: 9
+      pivot: {x: 0.46846846, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf520c04dfde6f0800000000000000
+      internalID: -653587916355405103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_022
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2928
+        width: 1000
+        height: 727
+      alignment: 9
+      pivot: {x: 0.468, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e259039aa8f582e0800000000000000
+      internalID: -2124018237740330267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_023
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2928
+        width: 1004
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46713147, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92e83f263bfe180800000000000000
+      internalID: -9083844685808653831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2197
+        width: 1004
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46613547, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9467cce6b17604800800000000000000
+      internalID: 594588518333576777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_025
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2197
+        width: 1001
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46653345, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1794bafaa9c0d38e0800000000000000
+      internalID: -1712198424819185295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_026
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2196
+        width: 1001
+        height: 728
+      alignment: 9
+      pivot: {x: 0.46553448, y: 0.6181319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218312889a2fb9ec0800000000000000
+      internalID: -3558984270558971886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_027
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 2196
+        width: 997
+        height: 728
+      alignment: 9
+      pivot: {x: 0.46339017, y: 0.6181319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79fc3551dffe81d0800000000000000
+      internalID: -3346456198546392706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1466
+        width: 997
+        height: 728
+      alignment: 9
+      pivot: {x: 0.46238717, y: 0.6181319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747df6a7243ba2a50800000000000000
+      internalID: 6497202510538725191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_029
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1465
+        width: 1001
+        height: 729
+      alignment: 9
+      pivot: {x: 0.46453547, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d86890dfdf1840800000000000000
+      internalID: 5197118582012039506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_030
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1467
+        width: 1000
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d0c7c1d9b9c440800000000000000
+      internalID: 4956697175548547276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_031
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1465
+        width: 1000
+        height: 729
+      alignment: 9
+      pivot: {x: 0.463, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec80344bf872a2240800000000000000
+      internalID: 4767666653683189966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 736
+        width: 996
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46084338, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b3e82d7539f7f00800000000000000
+      internalID: 1116773238015146801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_033
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 734
+        width: 1000
+        height: 729
+      alignment: 9
+      pivot: {x: 0.46, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758402d2d7caa9f0800000000000000
+      internalID: -456332703944112769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_034
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 734
+        width: 1000
+        height: 729
+      alignment: 9
+      pivot: {x: 0.462, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf53a1adf8544f0800000000000000
+      internalID: -845111188156711879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_035
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 736
+        width: 997
+        height: 727
+      alignment: 9
+      pivot: {x: 0.46038115, y: 0.61898214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53bba9f63f8298e0800000000000000
+      internalID: -1688129444030729379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 996
+        height: 728
+      alignment: 9
+      pivot: {x: 0.45983934, y: 0.6181319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0e06f5ee107fc0800000000000000
+      internalID: -3499262937442415064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_037
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3
+        width: 997
+        height: 729
+      alignment: 9
+      pivot: {x: 0.46038115, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28d0cac66786060800000000000000
+      internalID: 6946932634334102201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_038
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3
+        width: 996
+        height: 729
+      alignment: 9
+      pivot: {x: 0.45983934, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc996c887e5c2e20800000000000000
+      internalID: 3327138096564772085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigCattle_Loop02_039
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3
+        width: 996
+        height: 729
+      alignment: 9
+      pivot: {x: 0.45983934, y: 0.61728394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf0109b2c62f1e0800000000000000
+      internalID: -2165549536455361408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BigCattle_Loop02_020: 8438559464136102272
+      BigCattle_Loop02_021: -653587916355405103
+      BigCattle_Loop02_022: -2124018237740330267
+      BigCattle_Loop02_023: -9083844685808653831
+      BigCattle_Loop02_024: 594588518333576777
+      BigCattle_Loop02_025: -1712198424819185295
+      BigCattle_Loop02_026: -3558984270558971886
+      BigCattle_Loop02_027: -3346456198546392706
+      BigCattle_Loop02_028: 6497202510538725191
+      BigCattle_Loop02_029: 5197118582012039506
+      BigCattle_Loop02_030: 4956697175548547276
+      BigCattle_Loop02_031: 4767666653683189966
+      BigCattle_Loop02_032: 1116773238015146801
+      BigCattle_Loop02_033: -456332703944112769
+      BigCattle_Loop02_034: -845111188156711879
+      BigCattle_Loop02_035: -1688129444030729379
+      BigCattle_Loop02_036: -3499262937442415064
+      BigCattle_Loop02_037: 6946932634334102201
+      BigCattle_Loop02_038: 3327138096564772085
+      BigCattle_Loop02_039: -2165549536455361408
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

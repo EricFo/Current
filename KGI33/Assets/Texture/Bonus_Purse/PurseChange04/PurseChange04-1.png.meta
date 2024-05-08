@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 5f11817c5a14b4d4cb6cf77990d21e7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurseChange04_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3336
+        width: 731
+        height: 735
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.67891157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_018
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3309
+        width: 768
+        height: 762
+      alignment: 9
+      pivot: {x: 0.578125, y: 0.664042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2df0374e566650800000000000000
+      internalID: 6225767194743877492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_019
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3287
+        width: 796
+        height: 784
+      alignment: 9
+      pivot: {x: 0.57788944, y: 0.65688777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eae733906193f50800000000000000
+      internalID: 6861539736050118213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_020
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3275
+        width: 822
+        height: 796
+      alignment: 9
+      pivot: {x: 0.57664233, y: 0.6532663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2da4c5cc7f80920800000000000000
+      internalID: 2956885612462527174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_021
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 3262
+        width: 856
+        height: 809
+      alignment: 9
+      pivot: {x: 0.57359815, y: 0.6489493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051126a89f5282e0800000000000000
+      internalID: -2125030964938599154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2438
+        width: 888
+        height: 822
+      alignment: 9
+      pivot: {x: 0.5709459, y: 0.6459854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f5e551fa81ada0800000000000000
+      internalID: -5935310064764716808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_023
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2427
+        width: 917
+        height: 833
+      alignment: 9
+      pivot: {x: 0.56924754, y: 0.6410564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c6e1913f601470800000000000000
+      internalID: 8363306766718912776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_024
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2410
+        width: 937
+        height: 850
+      alignment: 9
+      pivot: {x: 0.56776947, y: 0.63411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31b945071e03b6e0800000000000000
+      internalID: -1823097932119166660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_025
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 2392
+        width: 959
+        height: 868
+      alignment: 9
+      pivot: {x: 0.5662148, y: 0.6313364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdba228dbfe9a50800000000000000
+      internalID: 6529933415446993747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1513
+        width: 976
+        height: 877
+      alignment: 9
+      pivot: {x: 0.56557375, y: 0.6282782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545db3536ec8e5fe0800000000000000
+      internalID: -1198365530470492859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_027
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1510
+        width: 984
+        height: 880
+      alignment: 9
+      pivot: {x: 0.56504065, y: 0.6272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad942be4eeadca7a0800000000000000
+      internalID: -6364471456323974694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_028
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1530
+        width: 947
+        height: 860
+      alignment: 9
+      pivot: {x: 0.56705385, y: 0.6302326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396dee064e86acd50800000000000000
+      internalID: 6758329520910947987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_029
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1566
+        width: 862
+        height: 824
+      alignment: 9
+      pivot: {x: 0.57192576, y: 0.64320385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3e4828b6b74980800000000000000
+      internalID: -8554668065100513471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 728
+        width: 778
+        height: 780
+      alignment: 9
+      pivot: {x: 0.57840616, y: 0.6602564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a9db0bbb8811170800000000000000
+      internalID: 8147443540595415668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_031
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 766
+        width: 741
+        height: 742
+      alignment: 9
+      pivot: {x: 0.57759786, y: 0.67520213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba68dc52ead1f92d0800000000000000
+      internalID: -3269862170651949397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_032
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 784
+        width: 723
+        height: 724
+      alignment: 9
+      pivot: {x: 0.57814664, y: 0.6864641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7e2cc59a741920800000000000000
+      internalID: 2960125638883572911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_033
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 802
+        width: 701
+        height: 706
+      alignment: 9
+      pivot: {x: 0.5791726, y: 0.69405097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d888c7be2b4a1de30800000000000000
+      internalID: 4526580188846000269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_034
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 809
+        width: 686
+        height: 699
+      alignment: 9
+      pivot: {x: 0.58309036, y: 0.6981402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323aa4fd376a5a70800000000000000
+      internalID: 8816472736326627891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 713
+        height: 725
+      alignment: 9
+      pivot: {x: 0.5778401, y: 0.68689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d75be384eddcd0800000000000000
+      internalID: -2531616160272099501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PurseChange04_017: 0
+      PurseChange04_018: 6225767194743877492
+      PurseChange04_019: 6861539736050118213
+      PurseChange04_020: 2956885612462527174
+      PurseChange04_021: -2125030964938599154
+      PurseChange04_022: -5935310064764716808
+      PurseChange04_023: 8363306766718912776
+      PurseChange04_024: -1823097932119166660
+      PurseChange04_025: 6529933415446993747
+      PurseChange04_026: -1198365530470492859
+      PurseChange04_027: -6364471456323974694
+      PurseChange04_028: 6758329520910947987
+      PurseChange04_029: -8554668065100513471
+      PurseChange04_030: 8147443540595415668
+      PurseChange04_031: -3269862170651949397
+      PurseChange04_032: 2960125638883572911
+      PurseChange04_033: 4526580188846000269
+      PurseChange04_034: 8816472736326627891
+      PurseChange04_035: -2531616160272099501
+      PurseChange04_036: 3859487163833991254
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 6d6d0dcdeef21c945b91bbd4823497a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catter_Upgrade_030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1551
+        width: 1442
+        height: 612
+      alignment: 9
+      pivot: {x: 0.49861303, y: 0.4232026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109c80d38a9622c0800000000000000
+      internalID: -4456704890306260974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_031
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1569
+        width: 1434
+        height: 594
+      alignment: 9
+      pivot: {x: 0.4986053, y: 0.42087543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b3acb185681280800000000000000
+      internalID: -9072389841447832975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 963
+        width: 1430
+        height: 586
+      alignment: 9
+      pivot: {x: 0.4986014, y: 0.42662117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5bec1090bb27f40800000000000000
+      internalID: 5724843723700745715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_033
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1010
+        width: 1422
+        height: 539
+      alignment: 9
+      pivot: {x: 0.49859354, y: 0.4638219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00cb50557287d350800000000000000
+      internalID: 6041440865511784459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 1374
+        height: 529
+      alignment: 9
+      pivot: {x: 0.4985444, y: 0.46880907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ebac80785ae740800000000000000
+      internalID: 5182051561662833699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_035
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 438
+        width: 1368
+        height: 523
+      alignment: 9
+      pivot: {x: 0.49853802, y: 0.47227535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fc553d657ddc700800000000000000
+      internalID: 562342296403955584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_036
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 448
+        width: 1290
+        height: 513
+      alignment: 9
+      pivot: {x: 0.49844962, y: 0.46783626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91c706f9898dc40800000000000000
+      internalID: 5537343552137992628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Upgrade_037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1264
+        height: 428
+      alignment: 9
+      pivot: {x: 0.49841774, y: 0.5607477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9591ec47f930cb0800000000000000
+      internalID: -4898896645626177063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Catter_Upgrade_030: -4456704890306260974
+      Catter_Upgrade_031: -9072389841447832975
+      Catter_Upgrade_032: 5724843723700745715
+      Catter_Upgrade_033: 6041440865511784459
+      Catter_Upgrade_034: 5182051561662833699
+      Catter_Upgrade_035: 562342296403955584
+      Catter_Upgrade_036: 5537343552137992628
+      Catter_Upgrade_037: -4898896645626177063
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

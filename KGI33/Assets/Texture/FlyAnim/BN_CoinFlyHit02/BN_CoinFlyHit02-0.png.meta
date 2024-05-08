@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 14f6cd42d0f01d646b821e38e69a072a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2572
+        width: 199
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5678392, y: 0.5748792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787561e3e2df4d0a0800000000000000
+      internalID: -6857577957526448249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_014
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2463
+        width: 311
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5176849, y: 0.528481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd636253fddc8d810800000000000000
+      internalID: 1790407210432870109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_015
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2336
+        width: 416
+        height: 443
+      alignment: 9
+      pivot: {x: 0.49278846, y: 0.5214447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8ab41f7b0b8d60800000000000000
+      internalID: 7893415412333449114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_016
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2263
+        width: 518
+        height: 516
+      alignment: 9
+      pivot: {x: 0.49420848, y: 0.49031007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9b8b6202ff49d70800000000000000
+      internalID: 9049138064847845801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1699
+        width: 565
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.4911032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497597d39bf2e850800000000000000
+      internalID: 6404958232469928267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_018
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1699
+        width: 565
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.4911032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a622c2739f7f7bb0800000000000000
+      internalID: -4936086395312527710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_019
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1699
+        width: 565
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.4911032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84fe57c7d0c5a040800000000000000
+      internalID: 4658341422580036748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1135
+        width: 565
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.4911032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbfd980de7cc4c10800000000000000
+      internalID: 2039224552157739997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_021
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1142
+        width: 556
+        height: 555
+      alignment: 9
+      pivot: {x: 0.49820143, y: 0.4918919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52cc46eb4deaea0800000000000000
+      internalID: -5859512150962461201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_022
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1142
+        width: 560
+        height: 555
+      alignment: 9
+      pivot: {x: 0.5017857, y: 0.4918919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba14350749c2f1ee0800000000000000
+      internalID: -1288261952353386069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 583
+        width: 556
+        height: 550
+      alignment: 9
+      pivot: {x: 0.50359714, y: 0.48727274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf310c788e1f83b0800000000000000
+      internalID: -5508150247705985093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_024
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 582
+        width: 536
+        height: 551
+      alignment: 9
+      pivot: {x: 0.49440297, y: 0.4845735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767aa93866926c010800000000000000
+      internalID: 1208699070266910567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_025
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 576
+        width: 512
+        height: 557
+      alignment: 9
+      pivot: {x: 0.49414062, y: 0.48114902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5272c83c196055540800000000000000
+      internalID: 4995906584758200101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 484
+        height: 564
+      alignment: 9
+      pivot: {x: 0.48347107, y: 0.48049647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3757f84e63f5dd0800000000000000
+      internalID: -2495215313252682809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_027
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 8
+        width: 476
+        height: 566
+      alignment: 9
+      pivot: {x: 0.48109242, y: 0.4770318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09b8997b05fe410800000000000000
+      internalID: 1508513149677703342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_028
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4
+        width: 478
+        height: 570
+      alignment: 9
+      pivot: {x: 0.48117155, y: 0.48070174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806bafc7992b3990800000000000000
+      internalID: -7405279430279733112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinFlyHit02_029
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 573
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 340, y: -339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92904f8380ccc4780800000000000000
+      internalID: -8697352444671948503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BN_CoinFlyHit02_013: -6857577957526448249
+      BN_CoinFlyHit02_014: 1790407210432870109
+      BN_CoinFlyHit02_015: 7893415412333449114
+      BN_CoinFlyHit02_016: 9049138064847845801
+      BN_CoinFlyHit02_017: 6404958232469928267
+      BN_CoinFlyHit02_018: -4936086395312527710
+      BN_CoinFlyHit02_019: 4658341422580036748
+      BN_CoinFlyHit02_020: 2039224552157739997
+      BN_CoinFlyHit02_021: -5859512150962461201
+      BN_CoinFlyHit02_022: -1288261952353386069
+      BN_CoinFlyHit02_023: -5508150247705985093
+      BN_CoinFlyHit02_024: 1208699070266910567
+      BN_CoinFlyHit02_025: 4995906584758200101
+      BN_CoinFlyHit02_026: -2495215313252682809
+      BN_CoinFlyHit02_027: 1508513149677703342
+      BN_CoinFlyHit02_028: -7405279430279733112
+      BN_CoinFlyHit02_029: -8697352444671948503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

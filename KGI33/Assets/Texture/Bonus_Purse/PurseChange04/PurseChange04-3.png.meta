@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 8569f6481cb6c4b499d41c96d96d4862
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurseChange04_048
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1883
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6b7326e56ae550800000000000000
+      internalID: 6190872676886343673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_049
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2373
+        width: 1031
+        height: 910
+      alignment: 9
+      pivot: {x: 0.5829292, y: 0.5879121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34084dac8a9c101f0800000000000000
+      internalID: -1080360708797595581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_050
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2365
+        width: 1040
+        height: 918
+      alignment: 9
+      pivot: {x: 0.5798077, y: 0.5904139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4caae433f58410800000000000000
+      internalID: 1478855461262086073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_051
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 954
+        width: 1055
+        height: 927
+      alignment: 9
+      pivot: {x: 0.57535547, y: 0.5933118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce85c200c6620fa0800000000000000
+      internalID: -5835989192252485946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_052
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 947
+        width: 1070
+        height: 934
+      alignment: 9
+      pivot: {x: 0.5672897, y: 0.5963597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602079848671c7020800000000000000
+      internalID: 2340771642987708934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_053
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 942
+        width: 1070
+        height: 939
+      alignment: 9
+      pivot: {x: 0.56448597, y: 0.599574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41861f1e234a0ba40800000000000000
+      internalID: 5381982093153757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_054
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1059
+        height: 938
+      alignment: 9
+      pivot: {x: 0.5646837, y: 0.59808105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3f2cbe773f2970800000000000000
+      internalID: 8732259219957300447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_055
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 10
+        width: 1036
+        height: 930
+      alignment: 9
+      pivot: {x: 0.5704633, y: 0.5967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8a81eb9276f6b0800000000000000
+      internalID: -5262893100706395101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseChange04_056
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 10
+        width: 1012
+        height: 930
+      alignment: 9
+      pivot: {x: 0.5770751, y: 0.5892473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066979b4af2965830800000000000000
+      internalID: 4059593717828785760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PurseChange04_048: 6190872676886343673
+      PurseChange04_049: -1080360708797595581
+      PurseChange04_050: 1478855461262086073
+      PurseChange04_051: -5835989192252485946
+      PurseChange04_052: 2340771642987708934
+      PurseChange04_053: 5381982093153757204
+      PurseChange04_054: 8732259219957300447
+      PurseChange04_055: -5262893100706395101
+      PurseChange04_056: 4059593717828785760
+      PurseChange04_057: 6538277417825049623
+      PurseChange04_058: -6405004616133305752
+      PurseChange04_059: 2085654289345319143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
