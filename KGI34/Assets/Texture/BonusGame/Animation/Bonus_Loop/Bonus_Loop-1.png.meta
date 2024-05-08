@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 16b9e177835f5af4ba1d9f1dfcdf0194
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonus_Loop_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2675
+        width: 1033
+        height: 892
+      alignment: 9
+      pivot: {x: 0.49564376, y: 0.4955157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56e3b6f97a1fb80800000000000000
+      internalID: -8362718729909410368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_015
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2678
+        width: 1032
+        height: 889
+      alignment: 9
+      pivot: {x: 0.49612403, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a9ddf2d5ba5df0800000000000000
+      internalID: -190640116403164919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_016
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2678
+        width: 1032
+        height: 889
+      alignment: 9
+      pivot: {x: 0.49612403, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e7336ccb1cd6c20800000000000000
+      internalID: 3201427926653566466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1786
+        width: 1030
+        height: 887
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.49267194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925aed3ecd676b290800000000000000
+      internalID: -7874976207322831575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_018
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1785
+        width: 1030
+        height: 888
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4301a9dd5dfaaa0800000000000000
+      internalID: -6147459818588195600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_019
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1784
+        width: 1027
+        height: 889
+      alignment: 9
+      pivot: {x: 0.49269718, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616cdb64a81d7e4c0800000000000000
+      internalID: -4258204530832980458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 894
+        width: 1023
+        height: 888
+      alignment: 9
+      pivot: {x: 0.49364614, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2beef163725a480800000000000000
+      internalID: -8888655176128351575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_021
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 894
+        width: 1019
+        height: 888
+      alignment: 9
+      pivot: {x: 0.4936212, y: 0.49324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5bf4c55bc558ce0800000000000000
+      internalID: -1403613774848477779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_022
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 893
+        width: 1012
+        height: 889
+      alignment: 9
+      pivot: {x: 0.493083, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea8fec3fdf1ff40800000000000000
+      internalID: 5760664621974859287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_023
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 893
+        width: 1003
+        height: 889
+      alignment: 9
+      pivot: {x: 0.49351946, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f0f9bfe43a625b0800000000000000
+      internalID: -5393443944105308321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 997
+        height: 889
+      alignment: 9
+      pivot: {x: 0.49348044, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c7fadc12b82080800000000000000
+      internalID: -9211917200783850240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_025
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2
+        width: 988
+        height: 889
+      alignment: 9
+      pivot: {x: 0.4959514, y: 0.49381328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cef29eaa64a4f100800000000000000
+      internalID: 140918266457685700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_026
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1
+        width: 969
+        height: 890
+      alignment: 9
+      pivot: {x: 0.50258, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d917fc2cec6f7660800000000000000
+      internalID: 7385741675533375953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Loop_027
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1
+        width: 963
+        height: 890
+      alignment: 9
+      pivot: {x: 0.50363445, y: 0.49438202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e853f3b237069b0800000000000000
+      internalID: -5088940949347398034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bonus_Loop_014: -8362718729909410368
+      Bonus_Loop_015: -190640116403164919
+      Bonus_Loop_016: 3201427926653566466
+      Bonus_Loop_017: -7874976207322831575
+      Bonus_Loop_018: -6147459818588195600
+      Bonus_Loop_019: -4258204530832980458
+      Bonus_Loop_020: -8888655176128351575
+      Bonus_Loop_021: -1403613774848477779
+      Bonus_Loop_022: 5760664621974859287
+      Bonus_Loop_023: -5393443944105308321
+      Bonus_Loop_024: -9211917200783850240
+      Bonus_Loop_025: 140918266457685700
+      Bonus_Loop_026: 7385741675533375953
+      Bonus_Loop_027: -5088940949347398034
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

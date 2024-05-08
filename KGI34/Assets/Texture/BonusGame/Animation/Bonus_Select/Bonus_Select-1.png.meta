@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: aeb66ce8d951e834397282268ea502ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonus_Select_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2703
+        width: 1195
+        height: 900
+      alignment: 9
+      pivot: {x: 0.50209206, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_019
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2703
+        width: 1381
+        height: 900
+      alignment: 9
+      pivot: {x: 0.50181025, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_020
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2703
+        width: 1376
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5021802, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb34b8b7f19e5f60800000000000000
+      internalID: 8025012079162571704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1801
+        width: 1351
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5011103, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f021a7f86bdee0800000000000000
+      internalID: -1235278260013567021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_022
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1801
+        width: 1304
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55e78477acf10d0800000000000000
+      internalID: -3449816175876352598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_023
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1801
+        width: 1242
+        height: 900
+      alignment: 9
+      pivot: {x: 0.49919486, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de874231586f726e0800000000000000
+      internalID: -1862248869482170131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 899
+        width: 1163
+        height: 900
+      alignment: 9
+      pivot: {x: 0.49871024, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c46f7aee3813a7d0800000000000000
+      internalID: -2908454275849952061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_025
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 899
+        width: 1105
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5013575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc9be5fc26f57470800000000000000
+      internalID: 8391884153639640248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_026
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 902
+        width: 1049
+        height: 897
+      alignment: 9
+      pivot: {x: 0.5042898, y: 0.49832776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b4c58969431680800000000000000
+      internalID: -8785597730505050935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 1032
+        height: 893
+      alignment: 9
+      pivot: {x: 0.49031007, y: 0.49608064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65fc0685d938caa0800000000000000
+      internalID: -6140594502679857813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_028
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 6
+        width: 975
+        height: 891
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adf2899cfc444b70800000000000000
+      internalID: 8882309012872428965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus_Select_029
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 6
+        width: 973
+        height: 891
+      alignment: 9
+      pivot: {x: 0.5087359, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26caab7fd2d631c0800000000000000
+      internalID: -4524196918352755156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bonus_Select_018: 0
+      Bonus_Select_019: 0
+      Bonus_Select_020: 8025012079162571704
+      Bonus_Select_021: -1235278260013567021
+      Bonus_Select_022: -3449816175876352598
+      Bonus_Select_023: -1862248869482170131
+      Bonus_Select_024: -2908454275849952061
+      Bonus_Select_025: 8391884153639640248
+      Bonus_Select_026: -8785597730505050935
+      Bonus_Select_027: -6140594502679857813
+      Bonus_Select_028: 8882309012872428965
+      Bonus_Select_029: -4524196918352755156
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

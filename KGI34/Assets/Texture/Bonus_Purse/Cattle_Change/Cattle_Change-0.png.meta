@@ -1,0 +1,827 @@
+fileFormatVersion: 2
+guid: 09d2b8048784b97468cb2fbd6c9a5d7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cattle_Change_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3055
+        width: 626
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7be57e6a2946d450800000000000000
+      internalID: 6113153990792702842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_001
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3053
+        width: 622
+        height: 758
+      alignment: 9
+      pivot: {x: 0.50321543, y: 0.4934037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3943f50cf1e26e90800000000000000
+      internalID: -7033811195451455169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_002
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3051
+        width: 613
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5106036, y: 0.47763157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e10a9fbdbe9fe70800000000000000
+      internalID: 9149603447998258725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_003
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 3052
+        width: 594
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.45981553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4ae6ffb6306290800000000000000
+      internalID: -7899253548298645625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_004
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3053
+        width: 585
+        height: 758
+      alignment: 9
+      pivot: {x: 0.52820516, y: 0.4419525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3188af525a87f7e70800000000000000
+      internalID: 9115136821523286035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_005
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 3055
+        width: 571
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5394046, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df322e5722d46a340800000000000000
+      internalID: 4874668457077122045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2296
+        width: 570
+        height: 753
+      alignment: 9
+      pivot: {x: 0.55789477, y: 0.4249668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9238aba7757090800000000000000
+      internalID: -8037386380827779116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_007
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2290
+        width: 566
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5706714, y: 0.4347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bba984f6528deb0800000000000000
+      internalID: -4694961451644044529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_008
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2287
+        width: 566
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5777385, y: 0.45800525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eac81a2585dbd80800000000000000
+      internalID: -8233327431842484593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_009
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2286
+        width: 571
+        height: 763
+      alignment: 9
+      pivot: {x: 0.55691767, y: 0.48885977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d325b3fa94250550800000000000000
+      internalID: 6126343116039726032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_010
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2287
+        width: 577
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5303293, y: 0.5144357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca89d5105f2e1b4c0800000000000000
+      internalID: -4273385029480114004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_011
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2286
+        width: 597
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5108878, y: 0.5242464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e0a91a2a2284020800000000000000
+      internalID: 2326147289428135508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_012
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2284
+        width: 614
+        height: 765
+      alignment: 9
+      pivot: {x: 0.49674267, y: 0.52026147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa60f8e965c9370800000000000000
+      internalID: 8330628649732975259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1521
+        width: 633
+        height: 761
+      alignment: 9
+      pivot: {x: 0.4849921, y: 0.50591326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9dd9680f3cbe560800000000000000
+      internalID: 7344179055175784955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_014
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1527
+        width: 648
+        height: 755
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.49536425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d30c70520eb0c00800000000000000
+      internalID: 868033802847403411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_015
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1534
+        width: 662
+        height: 748
+      alignment: 9
+      pivot: {x: 0.46223566, y: 0.49197862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348233407e1de47f0800000000000000
+      internalID: -626332508019808189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_016
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1538
+        width: 673
+        height: 744
+      alignment: 9
+      pivot: {x: 0.45616642, y: 0.5013441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696dc3bba14c07570800000000000000
+      internalID: 8462479318918682262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_017
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1536
+        width: 665
+        height: 746
+      alignment: 9
+      pivot: {x: 0.46165413, y: 0.5093834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0d5095a684d2a0800000000000000
+      internalID: -6713593098852823980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_018
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1532
+        width: 660
+        height: 750
+      alignment: 9
+      pivot: {x: 0.46818182, y: 0.5146667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515a99dab2976420800000000000000
+      internalID: 2623226639178944859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 766
+        width: 651
+        height: 753
+      alignment: 9
+      pivot: {x: 0.47772658, y: 0.51527226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b060cee2b27ac0800000000000000
+      internalID: -3858825192203569895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_020
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 763
+        width: 640
+        height: 756
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.51058203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc138a58405833960800000000000000
+      internalID: 7580548852263432652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_021
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 763
+        width: 631
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5007924, y: 0.505291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39ba7ba940f22200800000000000000
+      internalID: 153949536484243770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_022
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 762
+        width: 620
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5112903, y: 0.5006605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51be69f965ea0b20800000000000000
+      internalID: 3101543536717115740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_023
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 764
+        width: 602
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87fbdfc6d5825a0800000000000000
+      internalID: -6545879335687980851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_024
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 761
+        width: 596
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5318792, y: 0.5026385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a477401caee91a50800000000000000
+      internalID: 6492482760606184613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 587
+        height: 753
+      alignment: 9
+      pivot: {x: 0.54003406, y: 0.50199205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea91618756fad5b0800000000000000
+      internalID: -5342687152228427038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_026
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2
+        width: 592
+        height: 757
+      alignment: 9
+      pivot: {x: 0.535473, y: 0.5033025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd66e9fa5a115230800000000000000
+      internalID: 3625708153051966974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_027
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3
+        width: 603
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5273632, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289978c8c77b94340800000000000000
+      internalID: 4848608219402574210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_028
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 4
+        width: 613
+        height: 755
+      alignment: 9
+      pivot: {x: 0.51386625, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776cad15d5b3fb3f0800000000000000
+      internalID: -882921729950038409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_029
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3
+        width: 626
+        height: 756
+      alignment: 9
+      pivot: {x: 0.50479233, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d608c3f390c78440800000000000000
+      internalID: 4938127258117736146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_030
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 3
+        width: 632
+        height: 756
+      alignment: 9
+      pivot: {x: 0.49683544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6494f78d3e3458c30800000000000000
+      internalID: 4360966460047051078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Change_039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3055
+        width: 626
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c11f1e0f301dbd0800000000000000
+      internalID: -2607298376153097060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cattle_Change_000: 6113153990792702842
+      Cattle_Change_001: -7033811195451455169
+      Cattle_Change_002: 9149603447998258725
+      Cattle_Change_003: -7899253548298645625
+      Cattle_Change_004: 9115136821523286035
+      Cattle_Change_005: 4874668457077122045
+      Cattle_Change_006: -8037386380827779116
+      Cattle_Change_007: -4694961451644044529
+      Cattle_Change_008: -8233327431842484593
+      Cattle_Change_009: 6126343116039726032
+      Cattle_Change_010: -4273385029480114004
+      Cattle_Change_011: 2326147289428135508
+      Cattle_Change_012: 8330628649732975259
+      Cattle_Change_013: 7344179055175784955
+      Cattle_Change_014: 868033802847403411
+      Cattle_Change_015: -626332508019808189
+      Cattle_Change_016: 8462479318918682262
+      Cattle_Change_017: -6713593098852823980
+      Cattle_Change_018: 2623226639178944859
+      Cattle_Change_019: -3858825192203569895
+      Cattle_Change_020: 7580548852263432652
+      Cattle_Change_021: 153949536484243770
+      Cattle_Change_022: 3101543536717115740
+      Cattle_Change_023: -6545879335687980851
+      Cattle_Change_024: 6492482760606184613
+      Cattle_Change_025: -5342687152228427038
+      Cattle_Change_026: 3625708153051966974
+      Cattle_Change_027: 4848608219402574210
+      Cattle_Change_028: -882921729950038409
+      Cattle_Change_029: 4938127258117736146
+      Cattle_Change_030: 4360966460047051078
+      Cattle_Change_039: -2607298376153097060
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
