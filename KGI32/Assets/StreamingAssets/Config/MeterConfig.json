@@ -1,0 +1,8 @@
+{
+  //对应 MAXI MEGA MAJOR MINI
+  "MeterBase": [ 5000, 400, 25, 10 ],
+  //对应 MAXI MEGA MAJOR MINI,每次点Spin增加一点,需要结合ExchangeRate进行计算
+  "Increment": [ 2, 2, 0, 0 ],
+  //对应 MAXI MEGA MAJOR MINI,换算公式 MeterBase += Increment / ExchangeRate 
+  "ExchangeRate": [ 1000, 1000, 1000, 1000 ]
+}

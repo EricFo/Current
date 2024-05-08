@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: cf7208c3625eae945b28b42b75b7e96e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1294
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 230, y: -229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13769e58cffafbc90800000000000000
+      internalID: -7151804184127772879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 941
+        width: 346
+        height: 354
+      alignment: 9
+      pivot: {x: 0.50289017, y: 0.49717513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6eb8188d045700800000000000000
+      internalID: 528061934491036261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_002
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 921
+        width: 367
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5013624, y: 0.49465242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd171124ac1e4be0800000000000000
+      internalID: -1491222935357678132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_003
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 911
+        width: 370
+        height: 384
+      alignment: 9
+      pivot: {x: 0.4945946, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ffe3a68e59b6830800000000000000
+      internalID: 4065507914079469463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_004
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 915
+        width: 362
+        height: 380
+      alignment: 9
+      pivot: {x: 0.48066297, y: 0.48947367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2065d9b6dfdc50800000000000000
+      internalID: 6692303664932990801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_005
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 877
+        width: 389
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4730077, y: 0.48564592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0399404c5c547e90800000000000000
+      internalID: -7028891567133191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_006
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 878
+        width: 392
+        height: 417
+      alignment: 9
+      pivot: {x: 0.4744898, y: 0.48681056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ce8a5a1211f5100800000000000000
+      internalID: 98816553036344452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_007
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 877
+        width: 394
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4822335, y: 0.48803827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb191565c93fd5ca0800000000000000
+      internalID: -6026392873563221569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_008
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 873
+        width: 400
+        height: 422
+      alignment: 9
+      pivot: {x: 0.49, y: 0.49052134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a71911114b6930800000000000000
+      internalID: 4137472224361161730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_009
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 870
+        width: 407
+        height: 425
+      alignment: 9
+      pivot: {x: 0.4938575, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe99e0aeaffff90800000000000000
+      internalID: -6917534619443531885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 409
+        height: 430
+      alignment: 9
+      pivot: {x: 0.4987775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaa270bf72141030800000000000000
+      internalID: 3464414352985205419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_011
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 438
+        width: 412
+        height: 430
+      alignment: 9
+      pivot: {x: 0.50242716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf01b0c14ae1fa0800000000000000
+      internalID: -5828040427419140943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_012
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 438
+        width: 415
+        height: 430
+      alignment: 9
+      pivot: {x: 0.49879518, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280208812bd488e0800000000000000
+      internalID: -1691986622922225621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_013
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 436
+        width: 417
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5059952, y: 0.5046296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e847954a000290800000000000000
+      internalID: -7926324050164913921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_014
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 439
+        width: 419
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5059666, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7580e08e1f317b0800000000000000
+      internalID: -5254590361241102337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_015
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 439
+        width: 421
+        height: 429
+      alignment: 9
+      pivot: {x: 0.50831354, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac7248c4942b7cb0800000000000000
+      internalID: -4865254751010128732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_016
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 438
+        width: 421
+        height: 430
+      alignment: 9
+      pivot: {x: 0.50593823, y: 0.5023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2afc98903d9960800000000000000
+      internalID: 7610292377352809333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_017
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 436
+        width: 423
+        height: 432
+      alignment: 9
+      pivot: {x: 0.50827426, y: 0.5023148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8af8d870006290800000000000000
+      internalID: -7899313227371474961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_018
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 440
+        width: 421
+        height: 428
+      alignment: 9
+      pivot: {x: 0.50593823, y: 0.5046729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc8025068cedb50800000000000000
+      internalID: 6619948818299931941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 421
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5035629, y: 0.5023256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c37267fb62c980800000000000000
+      internalID: -8520128834778708722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_020
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 421
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5035629, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a68b0062e0fed0800000000000000
+      internalID: -2382155300740880351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_021
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 39
+        width: 393
+        height: 395
+      alignment: 9
+      pivot: {x: 0.51399493, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0c4aecbc45f7920800000000000000
+      internalID: 2990201911919296732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_022
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 41
+        width: 385
+        height: 393
+      alignment: 9
+      pivot: {x: 0.5038961, y: 0.5038168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ec42249e6212f80800000000000000
+      internalID: -8133176668775461302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_023
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 40
+        width: 386
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5051814, y: 0.5025381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792908b856238bf60800000000000000
+      internalID: 8050239745638306455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_024
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 49
+        width: 377
+        height: 385
+      alignment: 9
+      pivot: {x: 0.50132626, y: 0.5038961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2befc0e860d190800000000000000
+      internalID: -7939730828283924816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_025
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 60
+        width: 367
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5040872, y: 0.5026738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad35f135bbfb0950800000000000000
+      internalID: 6416498849765211564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_026
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 78
+        width: 347
+        height: 356
+      alignment: 9
+      pivot: {x: 0.50432277, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13247d8088d064270800000000000000
+      internalID: 8234283846608568881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_027
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 95
+        width: 330
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5060606, y: 0.49852508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f8c02d02d217c0800000000000000
+      internalID: -4101985356754652880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_028
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 131
+        width: 306
+        height: 303
+      alignment: 9
+      pivot: {x: 0.51960784, y: 0.49834985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a15452ff20fa4390800000000000000
+      internalID: -7833184513137815135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_MixtureCoinStop_029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1294
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 230, y: -229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc4732541b9f830800000000000000
+      internalID: 4105507445830635279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BN_MixtureCoinStop_000: -7151804184127772879
+      BN_MixtureCoinStop_001: 528061934491036261
+      BN_MixtureCoinStop_002: -1491222935357678132
+      BN_MixtureCoinStop_003: 4065507914079469463
+      BN_MixtureCoinStop_004: 6692303664932990801
+      BN_MixtureCoinStop_005: -7028891567133191414
+      BN_MixtureCoinStop_006: 98816553036344452
+      BN_MixtureCoinStop_007: -6026392873563221569
+      BN_MixtureCoinStop_008: 4137472224361161730
+      BN_MixtureCoinStop_009: -6917534619443531885
+      BN_MixtureCoinStop_010: 3464414352985205419
+      BN_MixtureCoinStop_011: -5828040427419140943
+      BN_MixtureCoinStop_012: -1691986622922225621
+      BN_MixtureCoinStop_013: -7926324050164913921
+      BN_MixtureCoinStop_014: -5254590361241102337
+      BN_MixtureCoinStop_015: -4865254751010128732
+      BN_MixtureCoinStop_016: 7610292377352809333
+      BN_MixtureCoinStop_017: -7899313227371474961
+      BN_MixtureCoinStop_018: 6619948818299931941
+      BN_MixtureCoinStop_019: -8520128834778708722
+      BN_MixtureCoinStop_020: -2382155300740880351
+      BN_MixtureCoinStop_021: 2990201911919296732
+      BN_MixtureCoinStop_022: -8133176668775461302
+      BN_MixtureCoinStop_023: 8050239745638306455
+      BN_MixtureCoinStop_024: -7939730828283924816
+      BN_MixtureCoinStop_025: 6416498849765211564
+      BN_MixtureCoinStop_026: 8234283846608568881
+      BN_MixtureCoinStop_027: -4101985356754652880
+      BN_MixtureCoinStop_028: -7833184513137815135
+      BN_MixtureCoinStop_029: 4105507445830635279
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

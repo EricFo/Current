@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 076487e7feb2e6a479b64d5ae453096d, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  AudioCollection:
+  - audioName: CustomerWinV1_01
+    audioClip: {fileID: 8300000, guid: 18b18903b7a7e2c43bf1d1693a794877, type: 3}
+  - audioName: CustomerWinV1_02
+    audioClip: {fileID: 8300000, guid: 371415f6a43c594409a4945659e99525, type: 3}
+  - audioName: CustomerWinV1_03
+    audioClip: {fileID: 8300000, guid: 3c994b84e5942ce498eee42ee308796b, type: 3}
+  - audioName: CustomerWinV1_04
+    audioClip: {fileID: 8300000, guid: faca7290edcd81c4592f8a52d1e148bb, type: 3}
+  - audioName: CustomerWinV1_05
+    audioClip: {fileID: 8300000, guid: f16a8aa1d562fe347b069bf786ae0017, type: 3}
+  - audioName: CustomerWinV1_06
+    audioClip: {fileID: 8300000, guid: 89b8c3de713ae4746b74231f492c68b8, type: 3}
+  - audioName: CustomerWinV1_07
+    audioClip: {fileID: 8300000, guid: 91fb2a2c47ee6a94b9a84514f0480a8e, type: 3}
+  - audioName: CustomerWinV1_08
+    audioClip: {fileID: 8300000, guid: 79c38448b4b60ff44beca912b7ae16d5, type: 3}
+  - audioName: CustomerWinV1_09
+    audioClip: {fileID: 8300000, guid: ae843ea04dbfb0146bbf042d9b489888, type: 3}
+  - audioName: CustomerWinV1_10
+    audioClip: {fileID: 8300000, guid: 1a8af6f5a2e650147878bd2a0fa615fb, type: 3}
+  - audioName: CustomerWinV1_11
+    audioClip: {fileID: 8300000, guid: 43ebc325a9b51de489a494e7b625ffe5, type: 3}
+  - audioName: CustomerWinV1_12
+    audioClip: {fileID: 8300000, guid: eb04338d69675cc49bc137c95f3efb61, type: 3}
+  - audioName: CustomerWinV1_13
+    audioClip: {fileID: 8300000, guid: 3f76b44d9fc52544886b24d96ea2a355, type: 3}
+  - audioName: CustomerWinV1_14
+    audioClip: {fileID: 8300000, guid: d98cb924662f9e141b5fe5024cf1f2ec, type: 3}
+  - audioName: CustomerWinV1_15
+    audioClip: {fileID: 8300000, guid: 1bfa40ab36fc5d847b986dcca000a652, type: 3}
+  - audioName: CustomerWinV1_16
+    audioClip: {fileID: 8300000, guid: b93e76b009b3cf540847182633ad279d, type: 3}
+  - audioName: CustomerWinV1_17
+    audioClip: {fileID: 8300000, guid: 9a073a8185f129d4fb5cf1b94dec20ff, type: 3}
+  - audioName: CustomerWinV1_18
+    audioClip: {fileID: 8300000, guid: 6e08bd8fcacef5b4890a54c4ca6027df, type: 3}
+  - audioName: CustomerWinV1_19
+    audioClip: {fileID: 8300000, guid: 6d806b329f779604c99e8ff1ab52fa85, type: 3}
+  - audioName: CustomerWinV1_20
+    audioClip: {fileID: 8300000, guid: d98b4a19e19dd144ca9c586660ec9a2b, type: 3}
+  - audioName: CustomerWinV1_21
+    audioClip: {fileID: 8300000, guid: 4692d82534629f74591c2f3da80bae26, type: 3}
+  - audioName: CustomerWinV1_22
+    audioClip: {fileID: 8300000, guid: 88836671fa4d7d941a251c5135e0011b, type: 3}
+  - audioName: CustomerWinV1_23
+    audioClip: {fileID: 8300000, guid: b2fe274d23e0dc2488133583a9f20abe, type: 3}
+  - audioName: CustomerWinV1_24
+    audioClip: {fileID: 8300000, guid: fcdae98b05c4855419130b528dbadb4e, type: 3}
+  - audioName: CustomerWinV1_P1
+    audioClip: {fileID: 8300000, guid: 35e1ca50dca8d3e408ca654a13dde32f, type: 3}
+  - audioName: CustomerWinV1_P2
+    audioClip: {fileID: 8300000, guid: 7bc8b7f9371d4da4eac74dfde4f94175, type: 3}
+  - audioName: CustomerWinV2_01
+    audioClip: {fileID: 8300000, guid: 33d0a8b2980797142be5a18d97b5e9d9, type: 3}
+  - audioName: CustomerWinV2_02
+    audioClip: {fileID: 8300000, guid: 36b3a19ac2e202847917e5d5fa6d0146, type: 3}
+  - audioName: CustomerWinV2_03
+    audioClip: {fileID: 8300000, guid: 8f64cb9bfa40b7540b9d91418b658956, type: 3}
+  - audioName: CustomerWinV2_04
+    audioClip: {fileID: 8300000, guid: 6b3d6aaaf9977364f80aa68efbe7a377, type: 3}
+  - audioName: CustomerWinV2_05
+    audioClip: {fileID: 8300000, guid: e72eb3108ce801b409c821ed18253112, type: 3}
+  - audioName: CustomerWinV2_06
+    audioClip: {fileID: 8300000, guid: 9151c0ed701370045a8479e1f2a83d7d, type: 3}
+  - audioName: CustomerWinV2_07
+    audioClip: {fileID: 8300000, guid: 2151c79c1b19c2041bba71664acb875c, type: 3}
+  - audioName: CustomerWinV2_08
+    audioClip: {fileID: 8300000, guid: 3a850f6b562526b46972ff330d221702, type: 3}
+  - audioName: CustomerWinV2_09
+    audioClip: {fileID: 8300000, guid: 37a4e067ad4db2b4fbefed3651f25e87, type: 3}
+  - audioName: CustomerWinV2_10
+    audioClip: {fileID: 8300000, guid: d84430d07b2c8774b8e06f34eb0e9ba5, type: 3}
+  - audioName: CustomerWinV2_11
+    audioClip: {fileID: 8300000, guid: 9f3f88ccc5c3a5f48bb5aa6fe70aad22, type: 3}
+  - audioName: CustomerWinV2_12
+    audioClip: {fileID: 8300000, guid: 49ff6a6b518872b459c7f3056a1b32df, type: 3}
+  - audioName: CustomerWinV2_13
+    audioClip: {fileID: 8300000, guid: 3523ce05c03765742adbc88f5e5f3d47, type: 3}
+  - audioName: CustomerWinV2_14
+    audioClip: {fileID: 8300000, guid: b0dabe6efc5ca1649a24bb06985db9dd, type: 3}
+  - audioName: CustomerWinV2_15
+    audioClip: {fileID: 8300000, guid: 2bd51e3f627a0464087defec4c3c97b3, type: 3}
+  - audioName: CustomerWinV2_16
+    audioClip: {fileID: 8300000, guid: 714beb7e074c4ed42a7dfdd3d81e0820, type: 3}
+  - audioName: CustomerWinV2_17
+    audioClip: {fileID: 8300000, guid: f548a4074ab60c14ab9954fbee5d8894, type: 3}
+  - audioName: CustomerWinV2_18
+    audioClip: {fileID: 8300000, guid: 9888d7bcfa8c5b340bfe9d1dbd4c2619, type: 3}
+  - audioName: CustomerWinV2_19
+    audioClip: {fileID: 8300000, guid: d957ad0b7cb96884cb513d5932331558, type: 3}
+  - audioName: CustomerWinV2_20
+    audioClip: {fileID: 8300000, guid: 5ad10eefe099aae4cae557e734f5ce24, type: 3}
+  - audioName: CustomerWinV2_21
+    audioClip: {fileID: 8300000, guid: 49404d5ef02ad2e42995b6b0717a62c0, type: 3}
+  - audioName: CustomerWinV2_22
+    audioClip: {fileID: 8300000, guid: 7dd4ed38e82e9204491a12438a06f00c, type: 3}
+  - audioName: CustomerWinV2_23
+    audioClip: {fileID: 8300000, guid: 728ee6a397c341b4f82770be93083ffc, type: 3}
+  - audioName: CustomerWinV2_24
+    audioClip: {fileID: 8300000, guid: 5ba01a8f8119e2845a04f8d4ec2ae379, type: 3}
+  - audioName: CustomerWinV2_P1
+    audioClip: {fileID: 8300000, guid: 8dfdf0b61968b464e9c6a31ebb28b85a, type: 3}
+  - audioName: CustomerWinV2_P2
+    audioClip: {fileID: 8300000, guid: 4691c89a98e320b40ae27a25b88b8a71, type: 3}
+  - audioName: BG_reelstop_bonus
+    audioClip: {fileID: 8300000, guid: 9c691e7424791b14fa8c0cb7bced5aed, type: 3}
+  - audioName: FE_BagChange
+    audioClip: {fileID: 8300000, guid: 82c57440140849645af33452f52a6eab, type: 3}
+  - audioName: FE_BagChange01
+    audioClip: {fileID: 8300000, guid: be2c1402319e34e4a83b13c9a944ac5f, type: 3}
+  - audioName: FE_BagChange02
+    audioClip: {fileID: 8300000, guid: 96ed62bb695bbe043ba18cd0e3a70aa9, type: 3}
+  - audioName: FE_BagChange03
+    audioClip: {fileID: 8300000, guid: 5193a71e5d877774e9c4176b7c47f65d, type: 3}
+  - audioName: FE_BagChange04
+    audioClip: {fileID: 8300000, guid: fcb16a4d4b3027943a10dabdaf557043, type: 3}
+  - audioName: FE_BagChangeHit
+    audioClip: {fileID: 8300000, guid: 596af1a2bb9503f47a802b7baced7965, type: 3}
+  - audioName: FE_BagHit
+    audioClip: {fileID: 8300000, guid: b756d38582b91a14ebbe87422e3bf325, type: 3}
+  - audioName: FE_BagPick
+    audioClip: {fileID: 8300000, guid: 79c832b8f05810e4087f410eea231df6, type: 3}
+  - audioName: FE_BagPickCoin
+    audioClip: {fileID: 8300000, guid: 0e553f58a3f5af343b20f00416e40bce, type: 3}
+  - audioName: FE_BagPickCREDIT
+    audioClip: {fileID: 8300000, guid: 7887abbcb902488499d4674db9a58578, type: 3}
+  - audioName: FE_BagPickSPIN
+    audioClip: {fileID: 8300000, guid: 516c4c2c0030ed64f83df8fc9fe847b8, type: 3}
+  - audioName: FE_BagPickStart
+    audioClip: {fileID: 8300000, guid: 57d91a5a63d10394c9b43025cfa1b800, type: 3}
+  - audioName: FE_BagTrigger
+    audioClip: {fileID: 8300000, guid: d0f28700de5737e4ea8c4ab85cfd7389, type: 3}
+  - audioName: FE_BigWinAward
+    audioClip: {fileID: 8300000, guid: 5cdbeb441ffec394799087efa03641cc, type: 3}
+  - audioName: FE_BonusBagIntro
+    audioClip: {fileID: 8300000, guid: 9ceb88320a7c49b4a907ab7b5758c761, type: 3}
+  - audioName: FE_BonusTurn
+    audioClip: {fileID: 8300000, guid: 6060d45b31fc65b48892593d1d4439a1, type: 3}
+  - audioName: FE_CoinAddSpin
+    audioClip: {fileID: 8300000, guid: 693f682753917ac4e934af15aa686f43, type: 3}
+  - audioName: FE_CoinCreditAppear
+    audioClip: {fileID: 8300000, guid: 65e29fc8cbff62446933f7e9d0d4f73c, type: 3}
+  - audioName: FE_CoinCreditAppearSpecial
+    audioClip: {fileID: 8300000, guid: 43f705f194e971f40b0877aa974beee3, type: 3}
+  - audioName: FE_CoinCreditCollect_a
+    audioClip: {fileID: 8300000, guid: 2cc6512dfb63119479b69a0871ce9ab2, type: 3}
+  - audioName: "FE_CoinCreditCollect_a\uFF08Base\uFF09"
+    audioClip: {fileID: 8300000, guid: 4e1f5234d5ebf0f48b71693c795e2ad5, type: 3}
+  - audioName: FE_CoinCreditCollect_b
+    audioClip: {fileID: 8300000, guid: e8fda1dcd5b9446429b89e1e8c5cefe5, type: 3}
+  - audioName: "FE_CoinCreditCollect_b\uFF08Base\uFF09"
+    audioClip: {fileID: 8300000, guid: 89cdeb51a88f77b4ea340bae478a8b2b, type: 3}
+  - audioName: FE_CoinFlydown
+    audioClip: {fileID: 8300000, guid: dc3752efa48c3764696388966fec8447, type: 3}
+  - audioName: FE_CoinLight
+    audioClip: {fileID: 8300000, guid: 1835d98bc10776c489f1cfc9c4ef58d5, type: 3}
+  - audioName: FE_CoinStop special
+    audioClip: {fileID: 8300000, guid: bbe2aa6e77778c74d80bcb6d03c24861, type: 3}
+  - audioName: FE_CoinStop
+    audioClip: {fileID: 8300000, guid: 9683893f913161d40bf1275416db66b3, type: 3}
+  - audioName: FE_CoinUpgrade
+    audioClip: {fileID: 8300000, guid: c6de43264ae7b9b42a710220c8b4a373, type: 3}
+  - audioName: FE_hyper
+    audioClip: {fileID: 8300000, guid: f1a076ea7d694cf4f954474394d9ca14, type: 3}
+  - audioName: "FE_SpecialActive Bonus\uFF08bonus\uFF09"
+    audioClip: {fileID: 8300000, guid: 3551069836a63d04fa831020272ff61e, type: 3}
+  - audioName: FE_SpecialActive
+    audioClip: {fileID: 8300000, guid: ceeef3cd334fa70438c56e7275b8d4d5, type: 3}
+  - audioName: FE_SpecialActive02
+    audioClip: {fileID: 8300000, guid: d4ddb820f36e74841bde1b55ab1c1fb5, type: 3}
+  - audioName: FE_SpecialFly
+    audioClip: {fileID: 8300000, guid: 8ca83fa4729b87543a6474c0d035ec81, type: 3}
+  - audioName: FE_SpecialStop
+    audioClip: {fileID: 8300000, guid: 8ccb298503aa61f459093625468810a9, type: 3}
+  - audioName: "FE_SpecialStop\uFF08bonus\uFF09"
+    audioClip: {fileID: 8300000, guid: 72f107d7886432c4da229680f0d2830c, type: 3}
+  - audioName: KGI_Game32_Bonus_Intro
+    audioClip: {fileID: 8300000, guid: 9bf5f8d8cb06b5444a2aecb4bc279632, type: 3}
+  - audioName: KGI_Game32_Bonus_Music
+    audioClip: {fileID: 8300000, guid: 1a4d3f1588b8ac549a13808331eb75a9, type: 3}
+  - audioName: KGI_Game32_Bonus_Totalwin1
+    audioClip: {fileID: 8300000, guid: 1dd9ac1810a69564788d623322df3e6e, type: 3}
+  - audioName: KGI_Game32_Bonus_Totalwin2
+    audioClip: {fileID: 8300000, guid: b529e21598674cc4196238dc401591d9, type: 3}
+  - audioName: KGI_Game32_Bonus_Waiting
+    audioClip: {fileID: 8300000, guid: 81c68e4e895f15f49a517a7b456bc5bd, type: 3}
+  - audioName: KGI_Game32_Cele1
+    audioClip: {fileID: 8300000, guid: 60418dc24f6870a499a47de26d09f4c1, type: 3}
+  - audioName: KGI_Game32_Cele2
+    audioClip: {fileID: 8300000, guid: f1df703e44873eb4b850451b6976e4e8, type: 3}
+  - audioName: KGI_Game32_Cele3
+    audioClip: {fileID: 8300000, guid: b1f9cf9d7f8f3ae42a36eae57cb9284b, type: 3}
+  - audioName: KGI_Game32_Cele4
+    audioClip: {fileID: 8300000, guid: d97ba1d3a473a334eb29f33d04de8985, type: 3}
+  - audioName: AwardEnd
+    audioClip: {fileID: 8300000, guid: 382954c295a20d24cb16abd813d29153, type: 3}
+  - audioName: AwardLoop
+    audioClip: {fileID: 8300000, guid: d8bb5435a98a6354cb305a10849ad6ec, type: 3}
+  - audioName: Bell
+    audioClip: {fileID: 8300000, guid: 189d56b33798ad04382fe74d382d4e11, type: 3}
+  - audioName: BigTotalWin
+    audioClip: {fileID: 8300000, guid: 3b825f02a03d004418a8751986f10c37, type: 3}
+  - audioName: FeatureSelect
+    audioClip: {fileID: 8300000, guid: 2feb66377274f884cb040c35c5508fcc, type: 3}
+  - audioName: ReelStop
+    audioClip: {fileID: 8300000, guid: 110692eabce403e42b826607418a0b41, type: 3}
+  - audioName: SmallTotalWin
+    audioClip: {fileID: 8300000, guid: df794a564c234c447acef0457cec1a5a, type: 3}
+  - audioName: SpinBtn
+    audioClip: {fileID: 8300000, guid: 52c12328dce18f847a1d968fda652be1, type: 3}
+  CachePath: Sounds

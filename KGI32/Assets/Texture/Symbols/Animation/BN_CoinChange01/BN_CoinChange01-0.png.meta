@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 2de7dce2e73738045ae23c69000dcf89
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BN_CoinChange01_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3918
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 350, y: -349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d406d0f9b6eab9a00800000000000000
+      internalID: 764396339022618701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3401
+        width: 506
+        height: 518
+      alignment: 9
+      pivot: {x: 0.49802372, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361cd982de54be400800000000000000
+      internalID: 354453880569708899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_002
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3443
+        width: 464
+        height: 476
+      alignment: 9
+      pivot: {x: 0.49784482, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5850cc7255021d10800000000000000
+      internalID: 2094742628519139419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_003
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3485
+        width: 433
+        height: 434
+      alignment: 9
+      pivot: {x: 0.5034642, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bddd61cb992eaf0800000000000000
+      internalID: -368563186374419619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_004
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3527
+        width: 420
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5095238, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cdd69bb59a808e0800000000000000
+      internalID: -1726944245678482311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3049
+        width: 414
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5024155, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6a51e105a8cc60800000000000000
+      internalID: 7838696578932699046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_006
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3090
+        width: 389
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5347044, y: 0.49838188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f680891b71229e390800000000000000
+      internalID: -7788656595401439121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_007
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2998
+        width: 367
+        height: 401
+      alignment: 9
+      pivot: {x: 0.5640327, y: 0.47630924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528df2c250913c2c0800000000000000
+      internalID: -4412655699886090203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_008
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 3172
+        width: 251
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4860558, y: 0.49779737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5082cd3f8ef6f9e40800000000000000
+      internalID: 5665369902569760773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_009
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3136
+        width: 257
+        height: 263
+      alignment: 9
+      pivot: {x: 0.52918285, y: 0.5779468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d04e6d9239251f80800000000000000
+      internalID: -8136551854408580909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2605
+        width: 447
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5346756, y: 0.5242967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d087a603fbfaf60800000000000000
+      internalID: 8047861273799953810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_011
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2570
+        width: 451
+        height: 426
+      alignment: 9
+      pivot: {x: 0.52771616, y: 0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a3089dd2a0d7aa0800000000000000
+      internalID: -6161757523134105071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_012
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2529
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.50214595, y: 0.5182013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f92310d2a1ee9690800000000000000
+      internalID: -7593383832308209162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_013
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2529
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.50214595, y: 0.5182013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3ece43a20af240800000000000000
+      internalID: 4826172851105972019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2060
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.50214595, y: 0.5182013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053fc2a83a123e9c0800000000000000
+      internalID: -3899235866091130032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_015
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2060
+        width: 466
+        height: 467
+      alignment: 9
+      pivot: {x: 0.50214595, y: 0.5182013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0befe7bd43abe5b0800000000000000
+      internalID: -5337993379123827958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_016
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2069
+        width: 459
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5054466, y: 0.51965064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4baf8cd74f8db0800000000000000
+      internalID: -4787528866242802940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_017
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2057
+        width: 464
+        height: 470
+      alignment: 9
+      pivot: {x: 0.51077586, y: 0.506383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc2306d5b8bd810800000000000000
+      internalID: 1791178509972065109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1581
+        width: 460
+        height: 474
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.4978903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e514a9f6ac68e7d0800000000000000
+      internalID: -2888939696549521947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_019
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1577
+        width: 448
+        height: 478
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2886e1dd666464710800000000000000
+      internalID: 1677105318852454530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_020
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1574
+        width: 424
+        height: 481
+      alignment: 9
+      pivot: {x: 0.5023585, y: 0.49688148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a255c8c90fc94130800000000000000
+      internalID: 3551597422088377001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_021
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1576
+        width: 403
+        height: 479
+      alignment: 9
+      pivot: {x: 0.48883376, y: 0.49686846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de73efc925bb640800000000000000
+      internalID: 5096758237533302103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1102
+        width: 447
+        height: 470
+      alignment: 9
+      pivot: {x: 0.53243846, y: 0.5042553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb255f04da10460800000000000000
+      internalID: 7206231373274857121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_023
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1100
+        width: 426
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.50635594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be9cd7e3108dbb90800000000000000
+      internalID: -7224477404249678160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_024
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1103
+        width: 434
+        height: 469
+      alignment: 9
+      pivot: {x: 0.4953917, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13432dd13a6985800800000000000000
+      internalID: 601396177578112049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_025
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1149
+        width: 397
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49874055, y: 0.47754136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74b49881397f1b70800000000000000
+      internalID: 8871943044594971772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 713
+        width: 432
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5324074, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4aab02e26e513b0800000000000000
+      internalID: -5542270680617540363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_027
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 722
+        width: 382
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5157068, y: 0.47340426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e680b1cd48ccd40800000000000000
+      internalID: 5606001717050633830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_028
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 726
+        width: 380
+        height: 372
+      alignment: 9
+      pivot: {x: 0.50789475, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe14e790309048a0800000000000000
+      internalID: -6322895338447036681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_029
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 727
+        width: 379
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5065963, y: 0.45822102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a8d1b6b1899ca0800000000000000
+      internalID: -6009629606081419264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_030
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 728
+        width: 376
+        height: 370
+      alignment: 9
+      pivot: {x: 0.50265956, y: 0.45675677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7aabf256f9260d0800000000000000
+      internalID: -3431004709161621538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 369
+        height: 372
+      alignment: 9
+      pivot: {x: 0.501355, y: 0.44892472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1587e0be5d082f0800000000000000
+      internalID: -972542313975230016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_032
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 342
+        width: 361
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5041551, y: 0.44715446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f851860d79aa41e30800000000000000
+      internalID: 4473387898899010959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_033
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 344
+        width: 352
+        height: 367
+      alignment: 9
+      pivot: {x: 0.4971591, y: 0.44686648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499c9a4b275d73ab0800000000000000
+      internalID: -5028315770301855340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_034
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 351
+        width: 352
+        height: 360
+      alignment: 9
+      pivot: {x: 0.4971591, y: 0.43888888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6df4d652a3cb250800000000000000
+      internalID: 5961703939153843938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_035
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 370
+        width: 347
+        height: 341
+      alignment: 9
+      pivot: {x: 0.49567723, y: 0.41055718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885cd017c8f676610800000000000000
+      internalID: 1614381640418444680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 340
+        height: 333
+      alignment: 9
+      pivot: {x: 0.4882353, y: 0.4144144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584f33c4e4f27440800000000000000
+      internalID: 4932273805289539678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_037
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 328
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.43125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be832d7da32397280800000000000000
+      internalID: -9045143148286560021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_038
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 22
+        width: 304
+        height: 315
+      alignment: 9
+      pivot: {x: 0.48355263, y: 0.43809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc8084848a27e90800000000000000
+      internalID: -7029371039972274280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_039
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 22
+        width: 303
+        height: 315
+      alignment: 9
+      pivot: {x: 0.48514852, y: 0.43809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043986daaeaba140800000000000000
+      internalID: 4732067882249827334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_040
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 47
+        width: 287
+        height: 290
+      alignment: 9
+      pivot: {x: 0.456446, y: 0.47586206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef2e6adeb084660800000000000000
+      internalID: 7370153905526865517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BN_CoinChange01_041
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 69
+        width: 262
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51492536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b62c12224c085f0800000000000000
+      internalID: -756389086523921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BN_CoinChange01_000: 764396339022618701
+      BN_CoinChange01_001: 354453880569708899
+      BN_CoinChange01_002: 2094742628519139419
+      BN_CoinChange01_003: -368563186374419619
+      BN_CoinChange01_004: -1726944245678482311
+      BN_CoinChange01_005: 7838696578932699046
+      BN_CoinChange01_006: -7788656595401439121
+      BN_CoinChange01_007: -4412655699886090203
+      BN_CoinChange01_008: 5665369902569760773
+      BN_CoinChange01_009: -8136551854408580909
+      BN_CoinChange01_010: 8047861273799953810
+      BN_CoinChange01_011: -6161757523134105071
+      BN_CoinChange01_012: -7593383832308209162
+      BN_CoinChange01_013: 4826172851105972019
+      BN_CoinChange01_014: -3899235866091130032
+      BN_CoinChange01_015: -5337993379123827958
+      BN_CoinChange01_016: -4787528866242802940
+      BN_CoinChange01_017: 1791178509972065109
+      BN_CoinChange01_018: -2888939696549521947
+      BN_CoinChange01_019: 1677105318852454530
+      BN_CoinChange01_020: 3551597422088377001
+      BN_CoinChange01_021: 5096758237533302103
+      BN_CoinChange01_022: 7206231373274857121
+      BN_CoinChange01_023: -7224477404249678160
+      BN_CoinChange01_024: 601396177578112049
+      BN_CoinChange01_025: 8871943044594971772
+      BN_CoinChange01_026: -5542270680617540363
+      BN_CoinChange01_027: 5606001717050633830
+      BN_CoinChange01_028: -6322895338447036681
+      BN_CoinChange01_029: -6009629606081419264
+      BN_CoinChange01_030: -3431004709161621538
+      BN_CoinChange01_031: -972542313975230016
+      BN_CoinChange01_032: 4473387898899010959
+      BN_CoinChange01_033: -5028315770301855340
+      BN_CoinChange01_034: 5961703939153843938
+      BN_CoinChange01_035: 1614381640418444680
+      BN_CoinChange01_036: 4932273805289539678
+      BN_CoinChange01_037: -9045143148286560021
+      BN_CoinChange01_038: -7029371039972274280
+      BN_CoinChange01_039: 4732067882249827334
+      BN_CoinChange01_040: 7370153905526865517
+      BN_CoinChange01_041: -756389086523921615
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

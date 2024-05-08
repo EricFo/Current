@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: a11ad846b61dc9349ac795f48349f4cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2604
+        width: 276
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5159011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829942afc9ff42be0800000000000000
+      internalID: -1502795325958219480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_001
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2479
+        width: 395
+        height: 408
+      alignment: 9
+      pivot: {x: 0.49873418, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf2cf4d09831e70800000000000000
+      internalID: 9084755563602180921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_002
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2479
+        width: 395
+        height: 408
+      alignment: 9
+      pivot: {x: 0.49873418, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cccbeba062366500800000000000000
+      internalID: 389053808596733125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_003
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2480
+        width: 396
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5085995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470e730bdeab34b0800000000000000
+      internalID: -5459577867576932538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_004
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2485
+        width: 415
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5036145, y: 0.50248754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad20320c771c79ef0800000000000000
+      internalID: -101399746523757862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2078
+        width: 409
+        height: 399
+      alignment: 9
+      pivot: {x: 0.51589245, y: 0.5112782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353c9087852012d0800000000000000
+      internalID: -3310104462208781006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_006
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2076
+        width: 413
+        height: 401
+      alignment: 9
+      pivot: {x: 0.527845, y: 0.5137157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a49b8826797b7590800000000000000
+      internalID: -7675407591529540447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_007
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2076
+        width: 413
+        height: 401
+      alignment: 9
+      pivot: {x: 0.527845, y: 0.5137157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b24d13d22f9eb00800000000000000
+      internalID: 858483479914228560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_008
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 2078
+        width: 417
+        height: 399
+      alignment: 9
+      pivot: {x: 0.5227818, y: 0.5112782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1905c62dc458efb0800000000000000
+      internalID: -4618348177772967649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1667
+        width: 421
+        height: 407
+      alignment: 9
+      pivot: {x: 0.51781476, y: 0.4987715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53fb657278cec750800000000000000
+      internalID: 6327214920423961436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_010
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1666
+        width: 425
+        height: 408
+      alignment: 9
+      pivot: {x: 0.51529413, y: 0.49509802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b49dc1e753afd50800000000000000
+      internalID: 6771783805471116086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_011
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1666
+        width: 430
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5139535, y: 0.4877451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891798cf44963ca60800000000000000
+      internalID: 7693108333494497688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_012
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1666
+        width: 430
+        height: 408
+      alignment: 9
+      pivot: {x: 0.5139535, y: 0.4877451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15978bc4ed3abf0800000000000000
+      internalID: -314163127891963453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1254
+        width: 441
+        height: 410
+      alignment: 9
+      pivot: {x: 0.52154195, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d006ce3bef062a20800000000000000
+      internalID: 3037132501752873171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_014
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1249
+        width: 436
+        height: 415
+      alignment: 9
+      pivot: {x: 0.5114679, y: 0.4698795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892b589330876c410800000000000000
+      internalID: 1497015881392566936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_015
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1245
+        width: 435
+        height: 419
+      alignment: 9
+      pivot: {x: 0.508046, y: 0.46539378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc38ee6e3dd2ef60800000000000000
+      internalID: 8062249543165033668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_016
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1245
+        width: 446
+        height: 419
+      alignment: 9
+      pivot: {x: 0.5156951, y: 0.46539378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c92f356ac5bb970800000000000000
+      internalID: 8771706568676908093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 824
+        width: 434
+        height: 419
+      alignment: 9
+      pivot: {x: 0.50230414, y: 0.46539378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f83261117b5bec0800000000000000
+      internalID: -3551731447098011838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_018
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 824
+        width: 435
+        height: 419
+      alignment: 9
+      pivot: {x: 0.50344825, y: 0.46539378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844c39bcfafa8170800000000000000
+      internalID: 8181627636418364551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_019
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 825
+        width: 431
+        height: 418
+      alignment: 9
+      pivot: {x: 0.5058005, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a0b7090b7054d0800000000000000
+      internalID: -3147880860818037024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_020
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 825
+        width: 417
+        height: 418
+      alignment: 9
+      pivot: {x: 0.50359714, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad19a78d491a10830800000000000000
+      internalID: 4035684401759818202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 404
+        width: 407
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4963145, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08f5ddc36aac450800000000000000
+      internalID: 6109878624823771378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_022
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 404
+        width: 407
+        height: 418
+      alignment: 9
+      pivot: {x: 0.4963145, y: 0.46411484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7023c4cf5cc024b0800000000000000
+      internalID: -5467145235932700546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_023
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 401
+        width: 415
+        height: 421
+      alignment: 9
+      pivot: {x: 0.51325303, y: 0.4608076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b4360dd221bbd0800000000000000
+      internalID: -2616271575838313518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_024
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 412
+        width: 405
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5037037, y: 0.47317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35933ce430aad1fd0800000000000000
+      internalID: -2369550897743972013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_025
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 416
+        width: 393
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5063613, y: 0.47783253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a336533d103e19480800000000000000
+      internalID: -8894078192102055110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 396
+        height: 398
+      alignment: 9
+      pivot: {x: 0.510101, y: 0.4874372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4eb80a6c000f1e0800000000000000
+      internalID: -2166230567668161325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_027
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 379
+        height: 394
+      alignment: 9
+      pivot: {x: 0.49604222, y: 0.4822335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08e41da35ce8d9f0800000000000000
+      internalID: -443344719165724662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_028
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 23
+        width: 371
+        height: 376
+      alignment: 9
+      pivot: {x: 0.49595687, y: 0.4973404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4374482dec02a010800000000000000
+      internalID: 1198534663556330316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenCoin_Intro_029
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 72
+        width: 353
+        height: 327
+      alignment: 9
+      pivot: {x: 0.50141644, y: 0.50152904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a8560b0f3932480800000000000000
+      internalID: -8925127374557312434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GoldenCoin_Intro_000: -1502795325958219480
+      GoldenCoin_Intro_001: 9084755563602180921
+      GoldenCoin_Intro_002: 389053808596733125
+      GoldenCoin_Intro_003: -5459577867576932538
+      GoldenCoin_Intro_004: -101399746523757862
+      GoldenCoin_Intro_005: -3310104462208781006
+      GoldenCoin_Intro_006: -7675407591529540447
+      GoldenCoin_Intro_007: 858483479914228560
+      GoldenCoin_Intro_008: -4618348177772967649
+      GoldenCoin_Intro_009: 6327214920423961436
+      GoldenCoin_Intro_010: 6771783805471116086
+      GoldenCoin_Intro_011: 7693108333494497688
+      GoldenCoin_Intro_012: -314163127891963453
+      GoldenCoin_Intro_013: 3037132501752873171
+      GoldenCoin_Intro_014: 1497015881392566936
+      GoldenCoin_Intro_015: 8062249543165033668
+      GoldenCoin_Intro_016: 8771706568676908093
+      GoldenCoin_Intro_017: -3551731447098011838
+      GoldenCoin_Intro_018: 8181627636418364551
+      GoldenCoin_Intro_019: -3147880860818037024
+      GoldenCoin_Intro_020: 4035684401759818202
+      GoldenCoin_Intro_021: 6109878624823771378
+      GoldenCoin_Intro_022: -5467145235932700546
+      GoldenCoin_Intro_023: -2616271575838313518
+      GoldenCoin_Intro_024: -2369550897743972013
+      GoldenCoin_Intro_025: -8894078192102055110
+      GoldenCoin_Intro_026: -2166230567668161325
+      GoldenCoin_Intro_027: -443344719165724662
+      GoldenCoin_Intro_028: 1198534663556330316
+      GoldenCoin_Intro_029: -8925127374557312434
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

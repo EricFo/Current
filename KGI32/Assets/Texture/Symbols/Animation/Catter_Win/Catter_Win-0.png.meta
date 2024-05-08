@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 37975912a13ca7c48b739268508ef752
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Catter_Win_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3014
+        width: 540
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.5011765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00304a28e83696c50800000000000000
+      internalID: 6658962987772281600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_001
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3016
+        width: 538
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c50b1ec39a96b0800000000000000
+      internalID: -5288752298967318205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_002
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3015
+        width: 540
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f702e6ac6224b50800000000000000
+      internalID: 6575861056787218299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_003
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3016
+        width: 537
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49906892, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d8125aa8b692850800000000000000
+      internalID: 6352726992602893678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_004
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3015
+        width: 537
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e8325c64ea2ea30800000000000000
+      internalID: 4243145417914814074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_005
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 3015
+        width: 538
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffd8c9939cab820800000000000000
+      internalID: 2934879356462170108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2586
+        width: 537
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49906892, y: 0.5046948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68c2519feff78e0800000000000000
+      internalID: -1693354589112465685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_007
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2585
+        width: 537
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b671d0c793c96f70800000000000000
+      internalID: 9181084371913897650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_008
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2583
+        width: 541
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5009242, y: 0.4988345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c4bf3264101690800000000000000
+      internalID: -7633578956184827624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_009
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2585
+        width: 539
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177f48812d7820c50800000000000000
+      internalID: 6630010937867040625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_010
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 2581
+        width: 536
+        height: 431
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4965197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71a9404cb33ff20800000000000000
+      internalID: 3455171052200138686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_011
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 2583
+        width: 537
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5009311, y: 0.4988345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dcc017e09664360800000000000000
+      internalID: 7153520568871734602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_012
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2585
+        width: 537
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49906892, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c08c19e77d4240800000000000000
+      internalID: 4777606622799251620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2153
+        width: 539
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ede37c6fbb161f50800000000000000
+      internalID: 6851694392063028709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_014
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2153
+        width: 539
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a718c7f0b751e40800000000000000
+      internalID: 5626538615912888953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_015
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2153
+        width: 538
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efedbfd4f771891a0800000000000000
+      internalID: -6802661401606496514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_016
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2155
+        width: 540
+        height: 424
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a9312dbb3d5ffd0800000000000000
+      internalID: -2308706430320666085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_017
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2156
+        width: 538
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce237b054469430800000000000000
+      internalID: 3789291249940491467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_018
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 2156
+        width: 538
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f61b96d02ea912e0800000000000000
+      internalID: -2154499490657397001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1727
+        width: 539
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.504717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d303e1b7e306a10800000000000000
+      internalID: 1900587741258726744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_020
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1727
+        width: 537
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12bd408d92c45270800000000000000
+      internalID: 8238423600085709342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_021
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1724
+        width: 538
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.50351286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36103c3b05deac670800000000000000
+      internalID: 8559914972640117091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_022
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1724
+        width: 538
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.50351286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb8694733a84f30800000000000000
+      internalID: 4560074080562757243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_023
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1726
+        width: 538
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5035294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f7e9be38906d940800000000000000
+      internalID: 5320450471983218472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_024
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1720
+        width: 538
+        height: 431
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.4988399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a827c012cc396c0800000000000000
+      internalID: -4137739190308533692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_025
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 1720
+        width: 538
+        height: 431
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.49187934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f6fb91ca4a505b0800000000000000
+      internalID: -5402731118887735400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1289
+        width: 538
+        height: 429
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4988345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b1250c30747c00800000000000000
+      internalID: 897465628840016092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_027
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1290
+        width: 539
+        height: 428
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf9dfa0ab8a89620800000000000000
+      internalID: 2781158286903058361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_028
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1293
+        width: 536
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5035294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b71ea1ab3631060800000000000000
+      internalID: 6922986703164636013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_029
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1293
+        width: 537
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49906892, y: 0.5035294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c127c1bc8df6f3f0800000000000000
+      internalID: -867227097502375482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_030
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1291
+        width: 540
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c030b64c8c03fe920800000000000000
+      internalID: 3021687513835832076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_031
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 1290
+        width: 539
+        height: 428
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.50233644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f5eee55260eedd0800000000000000
+      internalID: -2455017989294104752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 862
+        width: 540
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49814814, y: 0.5035294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54305ff0c29a66f70800000000000000
+      internalID: 9180210897152705349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_033
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 864
+        width: 538
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e94df54f1e95b90800000000000000
+      internalID: -7252517285207433602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_034
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 864
+        width: 537
+        height: 423
+      alignment: 9
+      pivot: {x: 0.49906892, y: 0.5035461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ada295ebc3f5310800000000000000
+      internalID: 1395901197745576560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_035
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 862
+        width: 538
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e29e4a70cc6a620800000000000000
+      internalID: 2785137752778812994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_036
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 861
+        width: 539
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9cd35e425d0f030800000000000000
+      internalID: 3526552862672669171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_037
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 862
+        width: 538
+        height: 425
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.5058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec877b246850c9450800000000000000
+      internalID: 6096754069755885774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 539
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d06bf31300d360800000000000000
+      internalID: 7192251989267370567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_039
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 432
+        width: 538
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b36309d52ded50800000000000000
+      internalID: 6768107429002720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_040
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 429
+        width: 536
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75042c717b219480800000000000000
+      internalID: -8894280022665984642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_041
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 431
+        width: 537
+        height: 428
+      alignment: 9
+      pivot: {x: 0.49720672, y: 0.50233644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed104f32fd1ce40800000000000000
+      internalID: 5675062350974148223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_042
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 432
+        width: 539
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c846754268ca988f0800000000000000
+      internalID: -537708988358761332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_043
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 432
+        width: 535
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49906543, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60217a7514497f010800000000000000
+      internalID: 1222608832218731014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_044
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 432
+        width: 537
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5009311, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a8b1178ca87e20800000000000000
+      internalID: 3348616019067840863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_045
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 538
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49814126, y: 0.504717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12a2dba71babe10800000000000000
+      internalID: 2214277307523801568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_046
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1
+        width: 539
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea58ad3df8e54d0800000000000000
+      internalID: -3143917349790961992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_047
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1
+        width: 539
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49721706, y: 0.5023474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844081376435a3a40800000000000000
+      internalID: 5348679069499655240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_048
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2
+        width: 540
+        height: 425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5011765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d5a78405f931cf0800000000000000
+      internalID: -282707184432030347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catter_Win_049
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 3
+        width: 539
+        height: 424
+      alignment: 9
+      pivot: {x: 0.49907234, y: 0.5023585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546fa896f03770eb0800000000000000
+      internalID: -4753704371633850811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Catter_Win_000: 6658962987772281600
+      Catter_Win_001: -5288752298967318205
+      Catter_Win_002: 6575861056787218299
+      Catter_Win_003: 6352726992602893678
+      Catter_Win_004: 4243145417914814074
+      Catter_Win_005: 2934879356462170108
+      Catter_Win_006: -1693354589112465685
+      Catter_Win_007: 9181084371913897650
+      Catter_Win_008: -7633578956184827624
+      Catter_Win_009: 6630010937867040625
+      Catter_Win_010: 3455171052200138686
+      Catter_Win_011: 7153520568871734602
+      Catter_Win_012: 4777606622799251620
+      Catter_Win_013: 6851694392063028709
+      Catter_Win_014: 5626538615912888953
+      Catter_Win_015: -6802661401606496514
+      Catter_Win_016: -2308706430320666085
+      Catter_Win_017: 3789291249940491467
+      Catter_Win_018: -2154499490657397001
+      Catter_Win_019: 1900587741258726744
+      Catter_Win_020: 8238423600085709342
+      Catter_Win_021: 8559914972640117091
+      Catter_Win_022: 4560074080562757243
+      Catter_Win_023: 5320450471983218472
+      Catter_Win_024: -4137739190308533692
+      Catter_Win_025: -5402731118887735400
+      Catter_Win_026: 897465628840016092
+      Catter_Win_027: 2781158286903058361
+      Catter_Win_028: 6922986703164636013
+      Catter_Win_029: -867227097502375482
+      Catter_Win_030: 3021687513835832076
+      Catter_Win_031: -2455017989294104752
+      Catter_Win_032: 9180210897152705349
+      Catter_Win_033: -7252517285207433602
+      Catter_Win_034: 1395901197745576560
+      Catter_Win_035: 2785137752778812994
+      Catter_Win_036: 3526552862672669171
+      Catter_Win_037: 6096754069755885774
+      Catter_Win_038: 7192251989267370567
+      Catter_Win_039: 6768107429002720313
+      Catter_Win_040: -8894280022665984642
+      Catter_Win_041: 5675062350974148223
+      Catter_Win_042: -537708988358761332
+      Catter_Win_043: 1222608832218731014
+      Catter_Win_044: 3348616019067840863
+      Catter_Win_045: 2214277307523801568
+      Catter_Win_046: -3143917349790961992
+      Catter_Win_047: 5348679069499655240
+      Catter_Win_048: -282707184432030347
+      Catter_Win_049: -4753704371633850811
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

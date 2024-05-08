@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 59cd27ebd478956478e9aba8f26937fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cattle_Hit_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3054
+        width: 626
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4993395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bddc15e028f0230800000000000000
+      internalID: 3607244824560655263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_001
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3053
+        width: 620
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5016129, y: 0.49868074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b935f94bb406fc090800000000000000
+      internalID: -8012079333799668837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_002
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 3049
+        width: 618
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd21974a131c6400800000000000000
+      internalID: 318650677227236797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_003
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3048
+        width: 613
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5008157, y: 0.49541286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b883223e1e2410800000000000000
+      internalID: 1454132930380607973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_004
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 3046
+        width: 605
+        height: 765
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.49411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19891fc470078e030800000000000000
+      internalID: 3524189885075396753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_005
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 3049
+        width: 596
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5016779, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3561f128992c7a20800000000000000
+      internalID: 3061367580086330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2280
+        width: 590
+        height: 764
+      alignment: 9
+      pivot: {x: 0.5016949, y: 0.4947644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a204d2fcb6a531f50800000000000000
+      internalID: 6850918877244506154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_007
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2282
+        width: 581
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5008606, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05596d36b114fa4d0800000000000000
+      internalID: -3121204430849534640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_008
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2283
+        width: 582
+        height: 761
+      alignment: 9
+      pivot: {x: 0.50859106, y: 0.49671486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927eaf94034c97ce0800000000000000
+      internalID: -1406877696897915095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_009
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2283
+        width: 591
+        height: 761
+      alignment: 9
+      pivot: {x: 0.50423014, y: 0.49671486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3d5d6eaaffe5980800000000000000
+      internalID: -8548113933220326460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_010
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 2284
+        width: 598
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49736843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfadf7b68545f6680800000000000000
+      internalID: -8759690011474928901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_011
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 2283
+        width: 607
+        height: 761
+      alignment: 9
+      pivot: {x: 0.49752882, y: 0.49671486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad16cab3ab2d570800000000000000
+      internalID: 8490053013004737101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1519
+        width: 618
+        height: 759
+      alignment: 9
+      pivot: {x: 0.4935275, y: 0.49802372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3718184ba6a506e10800000000000000
+      internalID: 2188848833243480435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_013
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1520
+        width: 626
+        height: 758
+      alignment: 9
+      pivot: {x: 0.49201277, y: 0.49868074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832c2b96767a0810800000000000000
+      internalID: 1732327258458956686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_014
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1521
+        width: 633
+        height: 757
+      alignment: 9
+      pivot: {x: 0.48815167, y: 0.4993395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5f1a90f2390080800000000000000
+      internalID: -9220782753105093101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_015
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1524
+        width: 638
+        height: 754
+      alignment: 9
+      pivot: {x: 0.48589343, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabafc7fab13b1a50800000000000000
+      internalID: 6492837966875962287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_016
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1524
+        width: 644
+        height: 754
+      alignment: 9
+      pivot: {x: 0.48447204, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c918d8d86ed61b20800000000000000
+      internalID: 3104913535014541769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_017
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1524
+        width: 642
+        height: 754
+      alignment: 9
+      pivot: {x: 0.48753893, y: 0.50132626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506584506e2434c60800000000000000
+      internalID: 7801152535234369029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 641
+        height: 755
+      alignment: 9
+      pivot: {x: 0.48829952, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ed4484bca4d6e0800000000000000
+      internalID: -1813634858609677950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_019
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 761
+        width: 633
+        height: 756
+      alignment: 9
+      pivot: {x: 0.49447078, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35313def77c7de720800000000000000
+      internalID: 2877092591777813331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_020
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 761
+        width: 630
+        height: 756
+      alignment: 9
+      pivot: {x: 0.4968254, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c567d11d7e4a0af0800000000000000
+      internalID: -429444515383253560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_021
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 761
+        width: 623
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5024077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2735cefc8d160eab0800000000000000
+      internalID: -4980873604042566798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_022
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 762
+        width: 620
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5048387, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745c0633133ce7b0800000000000000
+      internalID: -5193720112660851595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_023
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 761
+        width: 616
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5081169, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164be4ee5e9e94630800000000000000
+      internalID: 3911914925102904417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 612
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5114379, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c165bf875ef9e2a70800000000000000
+      internalID: 8804150129481963036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_025
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 4
+        width: 605
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5173554, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33a17220921eb50800000000000000
+      internalID: 6620618016434041768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_026
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4
+        width: 610
+        height: 755
+      alignment: 9
+      pivot: {x: 0.51311475, y: 0.50066227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5077a96acc126830800000000000000
+      internalID: 4062841469523161178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_027
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2
+        width: 613
+        height: 757
+      alignment: 9
+      pivot: {x: 0.5106036, y: 0.4993395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7568d3e9c2bc9b1a0800000000000000
+      internalID: -6793175170417850793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_028
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 3
+        width: 620
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5048387, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec12768b99f5f85c0800000000000000
+      internalID: -4211042012739722802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cattle_Hit_029
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 3
+        width: 625
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3712fbb3cea4160800000000000000
+      internalID: 7010675511309464544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cattle_Hit_000: 3607244824560655263
+      Cattle_Hit_001: -8012079333799668837
+      Cattle_Hit_002: 318650677227236797
+      Cattle_Hit_003: 1454132930380607973
+      Cattle_Hit_004: 3524189885075396753
+      Cattle_Hit_005: 3061367580086330685
+      Cattle_Hit_006: 6850918877244506154
+      Cattle_Hit_007: -3121204430849534640
+      Cattle_Hit_008: -1406877696897915095
+      Cattle_Hit_009: -8548113933220326460
+      Cattle_Hit_010: -8759690011474928901
+      Cattle_Hit_011: 8490053013004737101
+      Cattle_Hit_012: 2188848833243480435
+      Cattle_Hit_013: 1732327258458956686
+      Cattle_Hit_014: -9220782753105093101
+      Cattle_Hit_015: 6492837966875962287
+      Cattle_Hit_016: 3104913535014541769
+      Cattle_Hit_017: 7801152535234369029
+      Cattle_Hit_018: -1813634858609677950
+      Cattle_Hit_019: 2877092591777813331
+      Cattle_Hit_020: -429444515383253560
+      Cattle_Hit_021: -4980873604042566798
+      Cattle_Hit_022: -5193720112660851595
+      Cattle_Hit_023: 3911914925102904417
+      Cattle_Hit_024: 8804150129481963036
+      Cattle_Hit_025: 6620618016434041768
+      Cattle_Hit_026: 4062841469523161178
+      Cattle_Hit_027: -6793175170417850793
+      Cattle_Hit_028: -4211042012739722802
+      Cattle_Hit_029: 7010675511309464544
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+{
+  "Cheats": {
+    "TriggerBonusGame": [
+      ["PIC01"],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ],
+      [ "N" ],[ "Coin" ],[ "Scatter" ],[ "Coin" ],[ "Coin" ],
+      [ "T" ],[ "J" ],[ "Q" ],[ "K" ],[ "A" ]
+    ],
+    "UpgradeCattle": [
+      ["PIC01"],[ "PIC02" ],[ "PIC03" ],[ "PIC04" ],[ "PIC05" ],
+      [ "N" ],[ "Wild" ],[ "Scatter" ],[ "Wild" ],[ "N" ],
+      [ "T" ],[ "J" ],[ "Q" ],[ "K" ],[ "A" ]
+    ],
+    "BigPayout": [
+      ["PIC01"],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ],
+      [ "PIC01" ],[ "Coin" ],[ "Scatter" ],[ "Coin" ],[ "Coin" ],
+      [ "PIC01" ],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ],[ "PIC01" ]
+    ],
+    "TriggerFreeGame": [
+      [ "N", "Scatter", "T" ],
+      [ "A", "PIC02", "PIC03" ],
+      [ "PIC05", "Scatter", "A" ],
+      [ "Q", "J", "PIC04" ],
+      [ "K", "Scatter", "N" ]
+    ],
+    "TriggerJackPot": [
+      ["PIC01"],[ "PIC02" ],[ "PIC03" ],[ "PIC04" ],[ "PIC05" ],
+      [ "A" ],[ "Coin" ],[ "Scatter" ],[ "Coin" ],[ "Coin" ],
+      [ "PIC01" ],[ "PIC02" ],[ "PIC03" ],[ "PIC04" ],[ "PIC05" ]
+    ],
+    "FreeAndJackPot": [
+      [ "N", "Scatter", "T" ],
+      [ "A", "Wild", "PIC03" ],
+      [ "PIC05", "Scatter", "A" ],
+      [ "Q", "Wild", "PIC04" ],
+      [ "K", "Scatter", "N" ]
+    ]
+  }
+}

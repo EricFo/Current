@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 28eb47a30be897f40928abc211846747
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hyper_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2595
+        width: 478
+        height: 428
+      alignment: 9
+      pivot: {x: 0.4916318, y: 0.52102804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ca00eb25a715e0800000000000000
+      internalID: -1938899506698731494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_001
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2594
+        width: 475
+        height: 429
+      alignment: 9
+      pivot: {x: 0.49263158, y: 0.5244755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fad65771978ee0800000000000000
+      internalID: -1258877629082439225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_002
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2596
+        width: 480
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49166667, y: 0.52224827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82ff9b7bdafd390800000000000000
+      internalID: -7791317825716541230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_003
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2594
+        width: 482
+        height: 429
+      alignment: 9
+      pivot: {x: 0.48755187, y: 0.5244755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500353ee7dd52980800000000000000
+      internalID: -8564195579325644712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2162
+        width: 482
+        height: 430
+      alignment: 9
+      pivot: {x: 0.49377593, y: 0.53023255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fbd259d038706a0800000000000000
+      internalID: -6483069044215922936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_005
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2158
+        width: 487
+        height: 434
+      alignment: 9
+      pivot: {x: 0.49486652, y: 0.5299539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5563319cdf6a19f70800000000000000
+      internalID: 9192311923370309205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_006
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2157
+        width: 492
+        height: 435
+      alignment: 9
+      pivot: {x: 0.49186993, y: 0.53103447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c614e5d10bf61a70800000000000000
+      internalID: 8797494907416876743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_007
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2153
+        width: 493
+        height: 439
+      alignment: 9
+      pivot: {x: 0.4969574, y: 0.5330296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc45afbb4e56dec0800000000000000
+      internalID: -3542540377449476933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1714
+        width: 495
+        height: 437
+      alignment: 9
+      pivot: {x: 0.4969697, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1cfbc42785f220800000000000000
+      internalID: 2519068158694530898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_009
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1716
+        width: 502
+        height: 435
+      alignment: 9
+      pivot: {x: 0.49601594, y: 0.51954025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d09722d3b9a71bf0800000000000000
+      internalID: -353627455935246123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_010
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1720
+        width: 503
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4970179, y: 0.5174014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec0e790516c5f140800000000000000
+      internalID: 4752922775415295209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_011
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1724
+        width: 501
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49501, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede0e943ed0aa9bd0800000000000000
+      internalID: -2622606956763935010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1281
+        width: 503
+        height: 431
+      alignment: 9
+      pivot: {x: 0.4950298, y: 0.5058005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b37e8409732be580800000000000000
+      internalID: -8796898444463672397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_013
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1281
+        width: 506
+        height: 431
+      alignment: 9
+      pivot: {x: 0.486166, y: 0.50812066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92043df5917bb77f0800000000000000
+      internalID: -613695604596195287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_014
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1283
+        width: 497
+        height: 429
+      alignment: 9
+      pivot: {x: 0.4889336, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74affed564b0020800000000000000
+      internalID: 2309016603229571032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_015
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1285
+        width: 490
+        height: 427
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.51053864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33cb7d822300420800000000000000
+      internalID: 2594128536364921839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 852
+        width: 484
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49173555, y: 0.50351286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d153083aa0faa90800000000000000
+      internalID: -7300604773597373028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_017
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 859
+        width: 482
+        height: 420
+      alignment: 9
+      pivot: {x: 0.4979253, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef5571f700fbedb0800000000000000
+      internalID: -4761448264107728919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_018
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 853
+        width: 478
+        height: 426
+      alignment: 9
+      pivot: {x: 0.50209206, y: 0.4976526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b51d215e67ab700800000000000000
+      internalID: 556888230168976159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_019
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 852
+        width: 487
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5010267, y: 0.50117093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc00764bdff549de0800000000000000
+      internalID: -1327330446909439793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 481
+        height: 415
+      alignment: 9
+      pivot: {x: 0.4989605, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b86eef994372b50800000000000000
+      internalID: 6568276417554320219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_021
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 437
+        width: 487
+        height: 413
+      alignment: 9
+      pivot: {x: 0.49486652, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe1eee2097aa840800000000000000
+      internalID: 5236130570276301786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_022
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 431
+        width: 489
+        height: 419
+      alignment: 9
+      pivot: {x: 0.4989775, y: 0.5155131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d749a5e299d3b1270800000000000000
+      internalID: 8222233272811951229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_023
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 433
+        width: 487
+        height: 417
+      alignment: 9
+      pivot: {x: 0.49691993, y: 0.5155875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302afc3674e6a0e0800000000000000
+      internalID: -2258866966599425997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hyper_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 480
+        height: 427
+      alignment: 9
+      pivot: {x: 0.49791667, y: 0.5175644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e634636286ebe1980800000000000000
+      internalID: -8566200086685138066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hyper_000: -1938899506698731494
+      Hyper_001: -1258877629082439225
+      Hyper_002: -7791317825716541230
+      Hyper_003: -8564195579325644712
+      Hyper_004: -6483069044215922936
+      Hyper_005: 9192311923370309205
+      Hyper_006: 8797494907416876743
+      Hyper_007: -3542540377449476933
+      Hyper_008: 2519068158694530898
+      Hyper_009: -353627455935246123
+      Hyper_010: 4752922775415295209
+      Hyper_011: -2622606956763935010
+      Hyper_012: -8796898444463672397
+      Hyper_013: -613695604596195287
+      Hyper_014: 2309016603229571032
+      Hyper_015: 2594128536364921839
+      Hyper_016: -7300604773597373028
+      Hyper_017: -4761448264107728919
+      Hyper_018: 556888230168976159
+      Hyper_019: -1327330446909439793
+      Hyper_020: 6568276417554320219
+      Hyper_021: 5236130570276301786
+      Hyper_022: 8222233272811951229
+      Hyper_023: -2258866966599425997
+      Hyper_024: -8566200086685138066
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

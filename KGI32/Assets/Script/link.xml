@@ -1,0 +1,20 @@
+<linker>
+   <assembly fullname="System">
+    <type fullname="System.ComponentModel.TypeConverter" preserve="all" />
+    <!-- <namespace fullname="System.ComponentModel" preserve="all" /> -->
+  </assembly>
+  <assembly fullname="System.Core" preserve="all">
+    <type fullname="System.Linq.Expressions.Interpreter.LightLambda" preserve="all"/>
+  </assembly>
+  <assembly fullname="mscorlib" preserve="all">    </assembly>
+  <assembly fullname="System.Linq" preserve="all">    </assembly>
+  <assembly fullname="DOTween" preserve="all">    </assembly>
+  <assembly fullname="UnityEngine" preserve="all">    </assembly>
+  <assembly fullname="JsonDotNet">
+    <namespace fullname="Newtonsoft.Json" preserve="all"/>
+    <assembly fullname="Newtonsoft.Json.Linq" preserve="all">    </assembly>
+  </assembly>
+  <assembly fullname="UnityEngine.UI" preserve="all">    </assembly>
+  <assembly fullname="UnityEngine.CoreModule" preserve="all">    </assembly>
+  <assembly fullname="UnityEngine.Networking" preserve="all">    </assembly>
+</linker>

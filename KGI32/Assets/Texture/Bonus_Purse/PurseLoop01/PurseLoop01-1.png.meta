@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 8a4be80c5046e5547b8f70995a6dfc22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurseLoop01_056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3163
+        width: 458
+        height: 516
+      alignment: 9
+      pivot: {x: 0.57641923, y: 0.90891474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_057
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3162
+        width: 458
+        height: 517
+      alignment: 9
+      pivot: {x: 0.57641923, y: 0.90715665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_058
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2643
+        width: 457
+        height: 517
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.90715665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_059
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2644
+        width: 457
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.90891474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2126
+        width: 456
+        height: 515
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.91067964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_061
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2125
+        width: 457
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.90891474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_062
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1607
+        width: 456
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.90891474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_063
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1608
+        width: 456
+        height: 515
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.91067964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc49712c9c08d3f0800000000000000
+      internalID: -875936262807532358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1088
+        width: 457
+        height: 517
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.90715665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a833d646098eef80800000000000000
+      internalID: -8075366421777663834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_065
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1081
+        width: 456
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.8950382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e74e84cf170c780800000000000000
+      internalID: -8664800354692202962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_066
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 552
+        width: 456
+        height: 527
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.88994306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f414c5639a36c0800000000000000
+      internalID: -4162852840259915179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_067
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 546
+        width: 457
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.87992495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89b12c0134497730800000000000000
+      internalID: 3997301121715648909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_068
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 458
+        height: 540
+      alignment: 9
+      pivot: {x: 0.57641923, y: 0.86851853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac545f67e0cab10800000000000000
+      internalID: 1993984639102208552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurseLoop01_069
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 29
+        width: 457
+        height: 515
+      alignment: 9
+      pivot: {x: 0.5754923, y: 0.91067964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea5a03e0d7c5d4e0800000000000000
+      internalID: -1957438763046380821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PurseLoop01_056: 0
+      PurseLoop01_057: 0
+      PurseLoop01_058: 0
+      PurseLoop01_059: 0
+      PurseLoop01_060: 0
+      PurseLoop01_061: 0
+      PurseLoop01_062: 0
+      PurseLoop01_063: -875936262807532358
+      PurseLoop01_064: -8075366421777663834
+      PurseLoop01_065: -8664800354692202962
+      PurseLoop01_066: -4162852840259915179
+      PurseLoop01_067: 3997301121715648909
+      PurseLoop01_068: 1993984639102208552
+      PurseLoop01_069: -1957438763046380821
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
