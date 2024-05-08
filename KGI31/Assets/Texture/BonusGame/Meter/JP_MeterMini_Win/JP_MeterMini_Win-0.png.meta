@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: b37d714894aebc24f9e3000b9082659d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JP_MeterMini_Win-0
+    21300002: JP_MeterMini_Win_000
+    21300004: JP_MeterMini_Win_001
+    21300006: JP_MeterMini_Win_002
+    21300008: JP_MeterMini_Win_003
+    21300010: JP_MeterMini_Win_004
+    21300012: JP_MeterMini_Win_005
+    21300014: JP_MeterMini_Win_006
+    21300016: JP_MeterMini_Win_007
+    21300018: JP_MeterMini_Win_008
+    21300020: JP_MeterMini_Win_009
+    21300022: JP_MeterMini_Win_010
+    21300024: JP_MeterMini_Win_011
+    21300026: JP_MeterMini_Win_012
+    21300028: JP_MeterMini_Win_013
+    21300030: JP_MeterMini_Win_014
+    21300032: JP_MeterMini_Win_015
+    21300034: JP_MeterMini_Win_016
+    21300036: JP_MeterMini_Win_017
+    21300038: JP_MeterMini_Win_018
+    21300040: JP_MeterMini_Win_019
+    21300042: JP_MeterMini_Win_020
+    21300044: JP_MeterMini_Win_021
+    21300046: JP_MeterMini_Win_022
+    21300048: JP_MeterMini_Win_023
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3501
+        width: 1125
+        height: 494
+      alignment: 9
+      pivot: {x: 0.49244446, y: 0.51821864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94eb101b5c80584eb798c118b491240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_001
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3507
+        width: 1110
+        height: 488
+      alignment: 9
+      pivot: {x: 0.4927928, y: 0.5102459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3942e2e4f1d96c4aa99047036c13e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_002
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3505
+        width: 1094
+        height: 490
+      alignment: 9
+      pivot: {x: 0.49268737, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065194d90449a9c43b60b2224f98be42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3007
+        width: 1097
+        height: 492
+      alignment: 9
+      pivot: {x: 0.4886053, y: 0.5223577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc8c81535ff01640ab14ca744f85e55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_004
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3004
+        width: 1109
+        height: 495
+      alignment: 9
+      pivot: {x: 0.48872858, y: 0.53535354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb692c00f88ec7d43bee645b65c0d38d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_005
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 3004
+        width: 1121
+        height: 495
+      alignment: 9
+      pivot: {x: 0.48884925, y: 0.55151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324858aeb088594d95ca9a4b6bad230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2499
+        width: 1123
+        height: 503
+      alignment: 9
+      pivot: {x: 0.49065006, y: 0.5467197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f526d697658d26247a88fd82462d387c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_007
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2503
+        width: 1123
+        height: 499
+      alignment: 9
+      pivot: {x: 0.49599287, y: 0.5290581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c4f33f94b60447ba81542a46bdc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_008
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 2507
+        width: 1124
+        height: 495
+      alignment: 9
+      pivot: {x: 0.5017794, y: 0.51717174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd52f76dd431f4daa2cc4fa2b59e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2011
+        width: 1124
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5080071, y: 0.5123457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51af3c7288963c048ae7e9d3d7d96a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_010
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2012
+        width: 1123
+        height: 485
+      alignment: 9
+      pivot: {x: 0.51291186, y: 0.52577317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9b8f298acbea45a8d0ac8745df6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_011
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2004
+        width: 1117
+        height: 493
+      alignment: 9
+      pivot: {x: 0.512086, y: 0.53144014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10cc9f311f0297499180610b5a78d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1499
+        width: 1120
+        height: 503
+      alignment: 9
+      pivot: {x: 0.50535715, y: 0.5328032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae1b45c3199b845b0dabe363b37495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_013
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1503
+        width: 1123
+        height: 499
+      alignment: 9
+      pivot: {x: 0.4986643, y: 0.54108214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7adc525811cf6948a5231b85e217730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_014
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1514
+        width: 1135
+        height: 488
+      alignment: 9
+      pivot: {x: 0.4969163, y: 0.5409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249f215675faae44caffe41ce4e78541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1016
+        width: 1137
+        height: 481
+      alignment: 9
+      pivot: {x: 0.49956024, y: 0.53222454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219d64bbde4c0240be4b4d9615fcc25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_016
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1023
+        width: 1117
+        height: 474
+      alignment: 9
+      pivot: {x: 0.49955237, y: 0.5232068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30be1fcd4146a94b9326f52e8e515f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_017
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1016
+        width: 1122
+        height: 481
+      alignment: 9
+      pivot: {x: 0.49554366, y: 0.5135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48fa3683444bd14fbbedf12cc1f5000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 1135
+        height: 493
+      alignment: 9
+      pivot: {x: 0.49779737, y: 0.51926976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67e9d48f99a70447a2a869f6cd583bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_019
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 525
+        width: 1134
+        height: 489
+      alignment: 9
+      pivot: {x: 0.50176364, y: 0.52556235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c851387e4385a4797ef4114b5a47cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_020
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 511
+        width: 1121
+        height: 503
+      alignment: 9
+      pivot: {x: 0.500446, y: 0.5248509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8035d9a6883a94d4db161cfdcdd33156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 1119
+        height: 507
+      alignment: 9
+      pivot: {x: 0.49419123, y: 0.5167653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1913b2b8ac86734593888871f982a3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_022
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 10
+        width: 1111
+        height: 499
+      alignment: 9
+      pivot: {x: 0.49054906, y: 0.50901806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff0438eef4cc8a4b8f3299ef36f2acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterMini_Win_023
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 13
+        width: 1127
+        height: 496
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5221774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a489b4235b92c4681a30f2b2c68b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32446ec17c028b04f9723058ed737a06
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

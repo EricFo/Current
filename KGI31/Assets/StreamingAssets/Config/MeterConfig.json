@@ -1,0 +1,8 @@
+{
+  //��Ӧ MAXI MEGA MAJOR MINI
+  "MeterBase": [ 5000, 300, 25, 25 ],
+  //��Ӧ MAXI MEGA MAJOR MINI,ÿ�ε�Spin����һ��,��Ҫ���ExchangeRate���м���
+  "Increment": [ 2, 0, 0, 0 ],
+  //��Ӧ MAXI MEGA MAJOR MINI,���㹫ʽ MeterBase += Increment / ExchangeRate 
+  "ExchangeRate": [ 1000, 1000, 1000, 1000 ]
+}

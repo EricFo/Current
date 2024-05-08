@@ -1,0 +1,138 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand01/Cele_Grand01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-2.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-3.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-4.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-5.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-6.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-7.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major01/Cele_Major01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-2.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini01/Cele_Mini01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-2.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-0.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-1.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-2.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-3.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-4.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-5.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-0.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-1.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-2.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-3.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-4.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-5.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-6.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-7.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterMajor_Win/JP_MeterMajor_Win-0.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterMajor_Win/JP_MeterMajor_Win-1.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterMini_Win/JP_MeterMini_Win-0.tpsheet
+- Assets/Texture/BonusGame/Meter/JP_MeterMini_Win/JP_MeterMini_Win-1.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand01/Meter_Grand01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand02/Meter_Grand02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Grand03/Meter_Grand03-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Major01/Meter_Major01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Major02/Meter_Major02-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Mini01/Meter_Mini01-0.tpsheet
+- Assets/Texture/BonusGame/Meter/Meter_Mini02/Meter_Mini02-0.tpsheet
+textureFileNames:
+- Assets/Art/Meter/JP_GrandBase_Idle/JP_GrandBase_Idle-0.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand01/Cele_Grand01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-2.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-3.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-4.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-5.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-6.png
+- Assets/Texture/BonusGame/Meter/Cele_Grand02/Cele_Grand02-7.png
+- Assets/Texture/BonusGame/Meter/Cele_Major01/Cele_Major01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Major02/Cele_Major02-2.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini01/Cele_Mini01-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-0.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-1.png
+- Assets/Texture/BonusGame/Meter/Cele_Mini02/Cele_Mini02-2.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-0.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-1.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-2.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-3.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-4.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Loop/JP_MeterGrand_Loop-5.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-0.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-1.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-2.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-3.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-4.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-5.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-6.png
+- Assets/Texture/BonusGame/Meter/JP_MeterGrand_Win/JP_MeterGrand_Win-7.png
+- Assets/Texture/BonusGame/Meter/JP_MeterMajor_Win/JP_MeterMajor_Win-0.png
+- Assets/Texture/BonusGame/Meter/JP_MeterMajor_Win/JP_MeterMajor_Win-1.png
+- Assets/Texture/BonusGame/Meter/JP_MeterMini_Win/JP_MeterMini_Win-0.png
+- Assets/Texture/BonusGame/Meter/JP_MeterMini_Win/JP_MeterMini_Win-1.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand01/Meter_Grand01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand02/Meter_Grand02-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Grand03/Meter_Grand03-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Major01/Meter_Major01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Major02/Meter_Major02-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Mini01/Meter_Mini01-0.png
+- Assets/Texture/BonusGame/Meter/Meter_Mini02/Meter_Mini02-0.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

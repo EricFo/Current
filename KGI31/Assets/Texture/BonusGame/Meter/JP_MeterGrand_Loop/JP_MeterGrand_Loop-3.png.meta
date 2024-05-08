@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: becfae0ceb2768c4790ef841e0fd9932
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JP_MeterGrand_Loop-3
+    21300002: JP_MeterGrand_Loop_018
+    21300004: JP_MeterGrand_Loop_019
+    21300006: JP_MeterGrand_Loop_020
+    21300008: JP_MeterGrand_Loop_021
+    21300010: JP_MeterGrand_Loop_022
+    21300012: JP_MeterGrand_Loop_023
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JP_MeterGrand_Loop_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2754
+        width: 2114
+        height: 717
+      alignment: 9
+      pivot: {x: 0.5108799, y: 0.48117155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a21278341b32af4ab06c37089f9aa2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterGrand_Loop_019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2051
+        width: 2114
+        height: 701
+      alignment: 9
+      pivot: {x: 0.5108799, y: 0.49215406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6644a3998faeb4986f3649ab45e662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterGrand_Loop_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1359
+        width: 2105
+        height: 690
+      alignment: 9
+      pivot: {x: 0.5068884, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e611e015518a49960ba7ca2ba3ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterGrand_Loop_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 2099
+        height: 683
+      alignment: 9
+      pivot: {x: 0.5030967, y: 0.49048316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0827babab2cb03f41b13d0852fc39ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JP_MeterGrand_Loop_022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 2115
+        height: 670
+      alignment: 9
+      pivot: {x: 0.50969267, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d03459516c85540a86addf0dccd636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44ad75bb3d5db654faa8a31c160dc275
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

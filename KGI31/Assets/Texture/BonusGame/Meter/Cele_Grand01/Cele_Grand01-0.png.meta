@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 198a08e13cfbbf5419f485bab441f8b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cele_Grand01-0
+    21300002: Cele_Grand01_000
+    21300004: Cele_Grand01_001
+    21300006: Cele_Grand01_002
+    21300008: Cele_Grand01_003
+    21300010: Cele_Grand01_004
+    21300012: Cele_Grand01_005
+    21300014: Cele_Grand01_006
+    21300016: Cele_Grand01_007
+    21300018: Cele_Grand01_008
+    21300020: Cele_Grand01_009
+    21300022: Cele_Grand01_010
+    21300024: Cele_Grand01_011
+    21300026: Cele_Grand01_012
+    21300028: Cele_Grand01_013
+    21300030: Cele_Grand01_014
+    21300032: Cele_Grand01_015
+    21300034: Cele_Grand01_016
+    21300036: Cele_Grand01_017
+    21300038: Cele_Grand01_018
+    21300040: Cele_Grand01_019
+    21300042: Cele_Grand01_020
+    21300044: Cele_Grand01_021
+    21300046: Cele_Grand01_022
+    21300048: Cele_Grand01_023
+    21300050: Cele_Grand01_024
+    21300052: Cele_Grand01_025
+    21300054: Cele_Grand01_026
+    21300056: Cele_Grand01_027
+    21300058: Cele_Grand01_028
+    21300060: Cele_Grand01_029
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cele_Grand01_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1031
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2ef5223e9aa24c919efbe4c8ca708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_001
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1031
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9869550a97b281144852e31fc52a45c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_002
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1031
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dec5fdd15281ff418fe104d48dac5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_003
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1031
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69a9b8d41c01f14290946286bc6f091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_004
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1031
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11bd28b56234fe44b01ab5faa7ddef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 825
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d0409ea15a3449b81c026bb726861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_006
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 825
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09e9f1184ba0e40a7e6369d098f75c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_007
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 825
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cc2a4d7ac15f4082ff02405d2a38d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_008
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 825
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9dd2df9152eb488a8b4c637dfd56e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_009
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 825
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11811294bd5e1f34e811e5a55877b1c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7e67ae073ff5146814be918674aee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_011
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 619
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c92ebf08c752459826f67871c08c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_012
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 619
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a9016311022a42bb90f397e702fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_013
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 619
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae12bf5b36c494ba3b3ece904696bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_014
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 619
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b09131f5718344b8686aa1539debd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 413
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832bf05515a5bf749adbef4633f5c4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_016
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 413
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d770ddc92b7233344909395be934dd45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_017
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 413
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c349a7d595cf418c843de3f63bc5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_018
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 413
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578c6a93b861e7a4fa316a9b638082b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_019
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 413
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c747bbf4a9c7cae45bd898f06260673a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72c5efd8397b94f91843338bac09bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_021
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 207
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e92af535ad29f24881799c91ccfe71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_022
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 207
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c3c319cb9673f4495b4d4e61205428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_023
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 207
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a105679f35e19b94aa19fa6ac5105be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_024
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 207
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd0ef3c4d878c44f8be9b5bd980be19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_025
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b10aef5a4288449a7224702546ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_026
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645f624212183d744be36565d309c575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_027
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a0bf6bdbff904182c74f9dc0f1e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_028
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5c727f9fb01145b2dfd0b3fa4de39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cele_Grand01_029
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1
+        width: 755
+        height: 204
+      alignment: 9
+      pivot: {x: 0.49933776, y: -0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ecbd565def96a4ba84cde3ddf35bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55bbd4eefcf0dfa43b5a3b2474b6d9f9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

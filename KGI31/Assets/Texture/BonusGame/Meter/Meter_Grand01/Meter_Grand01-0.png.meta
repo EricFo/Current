@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 089d382026e3754498494852b6d73b43
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Meter_Grand01-0
+    21300002: Meter_Grand01_000
+    21300004: Meter_Grand01_001
+    21300006: Meter_Grand01_002
+    21300008: Meter_Grand01_003
+    21300010: Meter_Grand01_004
+    21300012: Meter_Grand01_005
+    21300014: Meter_Grand01_006
+    21300016: Meter_Grand01_007
+    21300018: Meter_Grand01_008
+    21300020: Meter_Grand01_009
+    21300022: Meter_Grand01_010
+    21300024: Meter_Grand01_011
+    21300026: Meter_Grand01_012
+    21300028: Meter_Grand01_013
+    21300030: Meter_Grand01_014
+    21300032: Meter_Grand01_015
+    21300034: Meter_Grand01_016
+    21300036: Meter_Grand01_017
+    21300038: Meter_Grand01_018
+    21300040: Meter_Grand01_019
+    21300042: Meter_Grand01_020
+    21300044: Meter_Grand01_021
+    21300046: Meter_Grand01_022
+    21300048: Meter_Grand01_023
+    21300050: Meter_Grand01_024
+    21300052: Meter_Grand01_025
+    21300054: Meter_Grand01_026
+    21300056: Meter_Grand01_027
+    21300058: Meter_Grand01_028
+    21300060: Meter_Grand01_029
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meter_Grand01_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 714
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5a89902dcec4a43a503c022ec9242f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_001
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 714
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8530f276e3d78b1459b0e97e8676af97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_002
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 714
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3f62f0bd5080148a46620d60b099c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 635
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773de507f3fe514ca16d54ca5909616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_004
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 635
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55499a736cfaa9b45ad2648599215ebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_005
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 635
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1692927a4fcdd4d8beb81805a26c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 556
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283d76d08f0b06428e8437d9dbefcce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_007
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 556
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c981a3b400a70459a4a7656450d6c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_008
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 556
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c1a2cd5810bd45935f9f0caaaf905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13298d454500249b5164411a32fd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_010
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 477
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92f28a7ba25dd4b82e3c0ee9d3cadc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_011
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 477
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cceb7a923fedd4da25147b35d6072c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607947009910a9243a88d96b76e42080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_013
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 398
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55bbd22184d92043b5368f318e29184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_014
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 398
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f50949b3d961144ae5994fa13c4ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987cf8afc55db8641928e487abfe5c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_016
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 319
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d2de25e6d3a840a41a4d433d2271d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_017
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 319
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ff253d02b6084eaa78b939864fb06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06788c7cd6d013d4db7225cc95aa3536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_019
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 240
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d5982cccaf36458bf116cad6d2521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_020
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 240
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442c88f82bca8e40946263af4acb863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1339db283c24364a9c5b7ac5312efa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_022
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 161
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074fdccd8b91d349b9fb1dbcf17a011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_023
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 161
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b5a82e123efe429d5d8c80430f001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5506ef4a28a39748af4e600955deead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_025
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 82
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd199cd979ac11469c3b115da30215c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_026
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 82
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a782bb86fb1816b428ae012febec3ae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159384e476d3ee64390b6ad5e6e821a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_028
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb788c5bd61ba64cb3fd46ac173f614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meter_Grand01_029
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3
+        width: 264
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaba733c9e4a2c479897a86a9cfe94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 676e00f6cc41d2644b76e1f505cf8e13
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
