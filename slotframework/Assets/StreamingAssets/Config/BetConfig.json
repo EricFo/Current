@@ -1,0 +1,5 @@
+{
+  "BaseValue": 88,
+  "BaseCredit": 10000,
+  "BetMultiplyer": [ 1, 2, 3, 5, 10 ]
+}

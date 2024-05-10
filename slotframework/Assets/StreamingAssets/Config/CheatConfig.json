@@ -1,0 +1,32 @@
+{
+  "Cheats": {
+    "TriggerFreeGame": [
+      [ "N", "Scatter", "T" ],
+      [ "A", "PIC02", "PIC03" ],
+      [ "PIC05", "Scatter", "A" ],
+      [ "Q", "J", "PIC04" ],
+      [ "K", "Scatter", "N" ]
+    ],
+    "TriggerJackPot": [
+      [ "T", "Wild", "PIC01" ],
+      [ "PIC02", "Q", "PIC03" ],
+      [ "PIC03", "Wild", "A" ],
+      [ "A", "K", "PIC04" ],
+      [ "PIC04", "Wild", "T" ]
+    ],
+    "FreeAndJackPot": [
+      [ "N", "Scatter", "T" ],
+      [ "A", "Wild", "PIC03" ],
+      [ "PIC05", "Scatter", "A" ],
+      [ "Q", "Wild", "PIC04" ],
+      [ "K", "Scatter", "N" ]
+    ],
+    "TriggerBonusGame":[
+      [ "A", "Scatter", "A" ],
+      [ "A", "Wild", "PIC03" ],
+      [ "PIC05", "Scatter", "A" ],
+      [ "Q", "Wild", "PIC04" ],
+      [ "K", "Scatter", "A" ]
+    ]
+  }
+}

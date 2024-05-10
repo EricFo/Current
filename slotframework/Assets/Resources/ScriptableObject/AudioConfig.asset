@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 076487e7feb2e6a479b64d5ae453096d, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  AudioCollection:
+  - audioName: AwardEnd
+    audioClip: {fileID: 8300000, guid: 382954c295a20d24cb16abd813d29153, type: 3}
+  - audioName: AwardLoop
+    audioClip: {fileID: 8300000, guid: d8bb5435a98a6354cb305a10849ad6ec, type: 3}
+  - audioName: Bell
+    audioClip: {fileID: 8300000, guid: 189d56b33798ad04382fe74d382d4e11, type: 3}
+  - audioName: BigTotalWin
+    audioClip: {fileID: 8300000, guid: 3b825f02a03d004418a8751986f10c37, type: 3}
+  - audioName: ReelStop
+    audioClip: {fileID: 8300000, guid: 110692eabce403e42b826607418a0b41, type: 3}
+  - audioName: SmallTotalWin
+    audioClip: {fileID: 8300000, guid: df794a564c234c447acef0457cec1a5a, type: 3}
+  - audioName: SpinBtn
+    audioClip: {fileID: 8300000, guid: 52c12328dce18f847a1d968fda652be1, type: 3}
+  CachePath: Sounds
